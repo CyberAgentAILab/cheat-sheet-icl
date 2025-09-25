@@ -1,0 +1,111 @@
+**Boolean Logic Cheat Sheet (for Difficult Examples)**
+
+---
+
+### 1. **Order of Operations (Precedence)**
+- **not** has highest precedence (evaluated first)
+- **and** is next
+- **or** is last (evaluated last)
+- Parentheses `()` override precedence
+
+**Order:**  
+1. Parentheses  
+2. not  
+3. and  
+4. or  
+
+---
+
+### 2. **How to Evaluate**
+- **Work inside parentheses first**
+- **Apply 'not' to the value immediately after it**
+- **Evaluate 'and' before 'or'**
+- **Left to right for same precedence**
+
+---
+
+### 3. **Truth Table Reminders**
+- **not True** → False  
+- **not False** → True  
+- **True and True** → True  
+- **True and False** → False  
+- **False and anything** → False  
+- **True or anything** → True  
+- **False or True** → True  
+- **False or False** → False  
+
+---
+
+### 4. **Multiple 'not's**
+- **Even number of 'not's** → cancels out (no effect)
+- **Odd number of 'not's** → flips the value
+
+| # of 'not's | Result for True | Result for False |
+|-------------|----------------|-----------------|
+| 1           | False          | True            |
+| 2           | True           | False           |
+| 3           | False          | True            |
+| 4           | True           | False           |
+| ...         | ...            | ...             |
+
+---
+
+### 5. **Common Patterns**
+- **not (A or B)** = (not A) and (not B)  
+- **not (A and B)** = (not A) or (not B)  
+- **A and not A** = False  
+- **A or not A** = True  
+
+---
+
+### 6. **Step-by-Step Example**
+
+**Example:**  
+`False or not (True) and True`
+
+**Step 1:** Parentheses: not (True) → False  
+**Step 2:** and: False and True → False  
+**Step 3:** or: False or False → False
+
+---
+
+### 7. **Tips for Nested/Complex Expressions**
+- **Rewrite with intermediate steps**  
+- **Replace each sub-expression with its value as you go**
+- **Count 'not's carefully**
+- **Underline or mark which part you are evaluating**
+
+---
+
+### 8. **Shortcuts**
+- **Anything 'and' False → False**
+- **Anything 'or' True → True**
+- **not not not X**: Odd = flip, Even = same
+
+---
+
+### 9. **Sample Walkthrough for Many 'not's**
+
+**Example:**  
+`not not not not not False`  
+Count 'not's: 5 (odd) → flip value  
+False → True
+
+---
+
+### 10. **When in Doubt**
+- **Write out each step**
+- **Don't skip parentheses**
+- **Double-check 'not's**
+
+---
+
+**Use this sheet to break down and solve any tricky Boolean logic question!**
+
+Follow the format of the examples below in your response.
+
+Question: ( True ) and True and not True is
+Answer: False
+###
+Question: False or not ( True ) and True is
+Answer: False

@@ -1,0 +1,73 @@
+**Cheat Sheet for Plausibility Questions (Sports & Athlete Contexts)**
+
+---
+
+### 1. **Identifying Athlete’s Sport**
+- **If you don’t know the athlete,** look for context clues in the sentence (e.g., “Stanley Cup” = hockey, “Superbowl” = football, “Champions League” = soccer, “NBA” = basketball, “National League Championship Series” = baseball).
+- **If the athlete’s name is ambiguous or common (e.g., “Pedro”),** and the context doesn’t match a known player in that sport, the answer is likely **no**.
+
+---
+
+### 2. **Sport-Specific Terms & Actions**
+#### **Soccer (Football)**
+- **Common terms:** penalty kick, freekick, red card, extra time, added time, through ball, header, bicycle kick, nutmeg, maradona, give and go, handball, throw in, slide tackle, Champions League, FA Cup, European Cup.
+- **Not used in soccer:** first down, touchdown, endzone, three pointer, walkoff homer, power play, penalty box, icing, slant pass, screen pass, restricted area, three second violation, charge, blocking foul, walk on ball four, base hit, out at first/second/third/home, safe at first, triple, wheel route, back shoulder fade, nothing but net, buzzer beater, banked shot, eurostep, reverse layup.
+
+#### **American Football**
+- **Common terms:** first down, touchdown, endzone, screen pass, slant pass, wheel route, back shoulder fade, flag on the play, fumbled, AFC/NFC championship/divisional round, going for it on fourth down, hail mary, drew a flag.
+- **Not used in football:** penalty kick, freekick, red card, extra time, added time, through ball, header, bicycle kick, nutmeg, maradona, give and go, handball, throw in, slide tackle, Champions League, FA Cup, European Cup, three pointer, walkoff homer, power play, penalty box, icing, restricted area, three second violation, charge, blocking foul, walk on ball four, base hit, out at first/second/third/home, safe at first, triple.
+
+#### **Basketball**
+- **Common terms:** three pointer, side-step three, turnaround jumper, banked shot, eurostep, reverse layup, restricted area, charge, blocking foul, three second violation, goaltend, screen, buzzer beater, nothing but net, half court shot, Western/Eastern Conference Finals, NBA Championship.
+- **Not used in basketball:** penalty kick, freekick, red card, extra time, added time, through ball, header, bicycle kick, nutmeg, maradona, give and go, handball, throw in, slide tackle, Champions League, FA Cup, European Cup, first down, touchdown, endzone, screen pass, slant pass, wheel route, back shoulder fade, flag on the play, fumbled, AFC/NFC championship/divisional round, going for it on fourth down, hail mary, walkoff homer, power play, penalty box, icing, walk on ball four, base hit, out at first/second/third/home, safe at first, triple.
+
+#### **Baseball**
+- **Common terms:** walkoff homer, base hit, out at first/second/third/home, safe at first, triple, walk on ball four, struck out the side, National League Championship Series.
+- **Not used in baseball:** penalty kick, freekick, red card, extra time, added time, through ball, header, bicycle kick, nutmeg, maradona, give and go, handball, throw in, slide tackle, Champions League, FA Cup, European Cup, first down, touchdown, endzone, screen pass, slant pass, wheel route, back shoulder fade, flag on the play, fumbled, AFC/NFC championship/divisional round, going for it on fourth down, hail mary, three pointer, side-step three, turnaround jumper, banked shot, eurostep, reverse layup, restricted area, charge, blocking foul, three second violation, goaltend, screen, buzzer beater, nothing but net, half court shot, power play, penalty box, icing.
+
+#### **Ice Hockey**
+- **Common terms:** penalty box, power play, killed the power play, skated backwards, wristed a shot, passed the puck, third period, Stanley Cup, crossed the blue line, icing.
+- **Not used in hockey:** penalty kick, freekick, red card, extra time, added time, through ball, header, bicycle kick, nutmeg, maradona, give and go, handball, throw in, slide tackle, Champions League, FA Cup, European Cup, first down, touchdown, endzone, screen pass, slant pass, wheel route, back shoulder fade, flag on the play, fumbled, AFC/NFC championship/divisional round, going for it on fourth down, hail mary, three pointer, side-step three, turnaround jumper, banked shot, eurostep, reverse layup, restricted area, charge, blocking foul, three second violation, goaltend, screen, buzzer beater, nothing but net, half court shot, walkoff homer, base hit, out at first/second/third/home, safe at first, triple, walk on ball four, struck out the side.
+
+---
+
+### 3. **Ambiguous or Rare Cases**
+- **Soccer:** Scoring directly from a corner kick is rare but possible (Olympic goal) → plausible.
+- **Baseball:** If the player is not a known baseball player and the context is baseball, answer is **no**.
+- **Football:** Quarterbacks can sometimes catch passes (trick plays), so plausible if context allows.
+- **Hockey:** Goalies can rarely score, but it is possible.
+
+---
+
+### 4. **Event/Competition Context**
+- **Stanley Cup, third period, blue line, penalty box, power play** → ice hockey.
+- **Champions League, FA Cup, European Cup, extra time, added time, red card** → soccer.
+- **AFC/NFC championship/divisional round, Superbowl, endzone, first down, flag on the play** → American football.
+- **NBA Championship, Western/Eastern Conference Finals, three pointer, restricted area, goaltend, screen, charge** → basketball.
+- **National League Championship Series, base hit, walkoff homer, out at first/second/third/home, safe at first, triple, walk on ball four** → baseball.
+
+---
+
+### 5. **General Strategy**
+- **If the action/term does not belong to the athlete’s sport, answer is NO.**
+- **If the action/term fits the athlete’s sport and the event context, answer is YES.**
+- **If the athlete’s role makes the action rare but possible (e.g., football QB catching a pass), answer is YES.**
+- **If the athlete is not known in the context of the sport mentioned, answer is NO.**
+
+---
+
+**Use this sheet to quickly check:**
+- Athlete’s sport
+- Action/term’s sport
+- Event/competition’s sport
+- If all three match, answer is YES. If not, answer is NO. If unsure about the athlete, use context clues or default to NO if the context is implausible.
+
+Follow the format of the examples below in your response.
+
+Question: Is the following sentence plausible? "Patrice Bergeron converted the first down."
+Reasoning: Let's think step by step. Patrice Bergeron is a professional ice hockey player. "First down" is a term used in American football, not hockey. So the answer is no.
+Answer: no
+###
+Question: Is the following sentence plausible? "Patrick Kane backhanded a shot in the Stanley Cup."
+Reasoning: Let's think step by step. Patrick Kane is a professional ice hockey player. Backhanded shots are common in ice hockey, and the Stanley Cup is the championship series in the NHL. So the answer is yes.
+Answer: yes

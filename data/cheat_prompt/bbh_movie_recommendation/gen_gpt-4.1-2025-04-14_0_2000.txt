@@ -1,0 +1,100 @@
+---
+
+## CHEAT SHEET: "Find a Similar Movie" (90s/00s Hollywood Edition)
+
+### 1. **Identify the Pattern in the Given List**
+- **Era:** Most lists are 1990s (sometimes late 80s or early 2000s) Hollywood movies.
+- **Genre:** Usually a mix of drama, crime, action, adventure, sometimes animation or comedy.
+- **Fame:** All are well-known, mainstream, often award-winning or critically acclaimed.
+- **Tone:** Serious, dramatic, or epic; sometimes family-friendly if animation is present.
+
+### 2. **How to Eliminate Wrong Answers**
+- **Obscure/Foreign/Indie:** If an option is obscure, foreign, or indie, it’s almost never the answer.
+- **Wrong Era:** If the option is much older (pre-1980) or much newer (post-2010), it’s rarely correct unless the list is also from that era.
+- **Wrong Genre:** If the option is horror, documentary, or a niche genre not present in the list, eliminate it.
+- **Direct-to-Video/Sequels:** Avoid options that are sequels/spin-offs of lesser-known movies.
+
+### 3. **How to Pick the Best Answer**
+- **Match Era First:** 1990s or early 2000s Hollywood movies are almost always correct if the list is from that era.
+- **Match Genre Second:** If the list is mostly drama/crime/action, pick an option with those genres.
+- **Animation/Family:** If the list includes Disney or Pixar, look for another famous 90s animation.
+- **Franchise/Director:** If the list includes a franchise (e.g., Star Wars, Indiana Jones), a related franchise movie is often correct.
+- **Critical Acclaim:** If one option is a famous Oscar-winner or classic, and the rest are not, pick the classic.
+
+### 4. **Special Patterns**
+- **The Usual Suspects, Pulp Fiction, Shawshank, Braveheart, Schindler’s List, Dances with Wolves, Forrest Gump, The Fugitive, The Lion King, Apollo 13, Toy Story, Batman, Jurassic Park, Independence Day, Terminator 2, Aladdin, Pretty Woman, Goodfellas, Fargo, LA Confidential, Gladiator, The Matrix, Inception, Raiders of the Lost Ark, Saving Private Ryan, Gattaca, The Fifth Element, The Mask, Interview with the Vampire, Get Shorty, What's Eating Gilbert Grape, Mr Holland's Opus, Philadelphia, Dead Man Walking, Crimson Tide, Heat, Seven, True Lies, Clear and Present Danger, Mission Impossible, Star Wars (original trilogy), The Lord of the Rings (Peter Jackson), American Beauty, The Sixth Sense, Back to the Future, Toy Story, Monsters Inc, Up, Inside Out, District 9, Star Wars Episode VII, Edge of Tomorrow, etc.**  
+  - If any of these are in the options and match the era/genre, they are almost always correct.
+
+### 5. **If Stuck:**
+- **Pick the most famous, mainstream, 1990s/early 2000s Hollywood movie in the options.**
+- **If two options fit, pick the one that matches the genre or tone of the list.**
+- **If the list is all animation/family, pick a famous 90s Disney/Pixar film.**
+- **If the list is all crime/drama, pick a famous 90s crime/drama.**
+- **If the list is all action/adventure, pick a famous 90s action/adventure.**
+
+---
+
+### 6. **Quick Reference Table**
+
+| List Includes... | Look for... |
+|------------------|-------------|
+| Animation (Lion King, Aladdin, Toy Story) | Another 90s Disney/Pixar (e.g., The Lion King, Aladdin, Toy Story) |
+| Action/Adventure (Star Wars, Indiana Jones, The Matrix, Gladiator) | Another big-budget 80s/90s/00s action/adventure (e.g., Raiders, Terminator 2, Independence Day) |
+| Crime/Drama (Pulp Fiction, Shawshank, Usual Suspects, Goodfellas, Fargo, LA Confidential, Seven, Heat) | Another 90s crime/drama/thriller (e.g., The Fugitive, The Godfather, The Shawshank Redemption, Seven, Heat, LA Confidential, Fargo) |
+| Epic/Historical (Braveheart, Schindler's List, Dances with Wolves, Apollo 13, Gladiator) | Another 90s/00s epic/historical drama (e.g., Braveheart, Schindler's List, Dances with Wolves, Gladiator, Apollo 13) |
+| Family/Comedy (Forrest Gump, Mrs. Doubtfire, Pretty Woman, The Mask, Babe) | Another 90s family/comedy (e.g., Babe, Pretty Woman, The Mask) |
+| Sci-Fi/Blockbuster (Jurassic Park, Independence Day, Terminator 2, The Matrix, Gattaca, The Fifth Element) | Another 90s/00s sci-fi blockbuster (e.g., Independence Day, The Matrix, Terminator 2, The Fifth Element, Gattaca) |
+
+---
+
+### 7. **Common Correct Answers**
+- **The Shawshank Redemption, Forrest Gump, The Fugitive, Braveheart, Schindler's List, Dances with Wolves, The Lion King, Apollo 13, Toy Story, Batman, Jurassic Park, Independence Day, Terminator 2, Aladdin, Pretty Woman, Goodfellas, Fargo, LA Confidential, Gladiator, The Matrix, Inception, Raiders of the Lost Ark, Saving Private Ryan, Gattaca, The Fifth Element, The Mask, Interview with the Vampire, Get Shorty, What's Eating Gilbert Grape, Mr Holland's Opus, Philadelphia, Dead Man Walking, Crimson Tide, Heat, Seven, True Lies, Clear and Present Danger, Mission Impossible, Star Wars (original trilogy), The Lord of the Rings (Peter Jackson), American Beauty, The Sixth Sense, Back to the Future, Toy Story, Monsters Inc, Up, Inside Out, District 9, Star Wars Episode VII, Edge of Tomorrow, etc.**
+
+---
+
+### 8. **If All Else Fails**
+- **Pick the option that is a famous, mainstream, 1990s/early 2000s Hollywood movie.**
+- **If the list is all Oscar-winners, pick the Oscar-winner.**
+- **If the list is all blockbusters, pick the blockbuster.**
+- **If the list is all animation, pick the animation.**
+
+---
+
+**Remember:**  
+- The answer is almost never an obscure, foreign, or direct-to-video movie.
+- The answer is almost always a famous, mainstream, 1990s/early 2000s Hollywood movie that matches the genre and tone of the list.
+
+---
+
+**Use this sheet to quickly eliminate wrong answers and select the best match!**
+
+Follow the format of the examples below in your response.
+
+Question: Find a movie similar to Forrest Gump, Pulp Fiction, The Fugitive, Dances with Wolves:
+Options:
+(A) Dragonheart 3 The Sorcerer's Curse
+(B) Chi-Raq
+(C) Stargate
+(D) Tae Guk Gi The Brotherhood of War
+Reasoning: Let's think step by step.
+- Forrest Gump (comedy, drama, romance; 1994)
+- Pulp Fiction (crime, drama; 1994)
+- The Fugitive (action, crime, drama; 1993)
+- Dances with Wolves (adventure, drama, western; 1990)
+
+These are all well-known Hollywood movies from the early to mid-1990s, spanning genres like drama, action, and adventure. Among the options, Stargate (1994) is also a popular Hollywood film from the same era, fitting the pattern of genre and release period. So the answer is (C).
+Answer: (C)
+###
+Question: Find a movie similar to Star Wars Episode V - The Empire Strikes Back, Groundhog Day, Mission Impossible, Star Wars Episode IV - A New Hope:
+Options:
+(A) View from the Top
+(B) The Doors
+(C) Raiders of the Lost Ark
+(D) Quick Change
+Reasoning: Let's think step by step.
+- Star Wars Episode V - The Empire Strikes Back (action, adventure, fantasy; 1980)
+- Groundhog Day (comedy, fantasy, romance; 1993)
+- Mission Impossible (action, adventure, thriller; 1996)
+- Star Wars Episode IV - A New Hope (action, adventure, fantasy; 1977)
+These are all well-known, classic Hollywood movies, mostly in the action, adventure, or fantasy genres, and produced before 2000. Among the options, Raiders of the Lost Ark (action, adventure; 1981) is the only movie that matches the style, era, and genre of the given list. So the answer is (C).
+Answer: (C)

@@ -1,0 +1,111 @@
+**Alphabetical Sorting Cheat Sheet**
+
+Use this guide for sorting lists of words alphabetically, especially for tricky or confusing cases.
+
+---
+
+### 1. **General Rules**
+- **Sort by the first letter** of each word.
+- If the first letter is the same, **compare the second letter**, and so on.
+- **Ignore case**: Treat uppercase and lowercase letters as equal.
+- **Do not ignore spaces or punctuation**: If present, sort by ASCII order (space comes before letters).
+- **Do not ignore accents or diacritics**: Treat them as part of the letter (e.g., é after e).
+
+---
+
+### 2. **Step-by-Step Process**
+1. **Write all words in a vertical list.**
+2. **Compare the first letter** of each word.
+3. If two or more words share the same first letter, **compare the next letter**.
+4. **Continue comparing letters** until a difference is found.
+5. **Shorter words come first** if one word is a prefix of another (e.g., "bat" before "batch").
+6. **If all letters are the same**, the words are identical.
+
+---
+
+### 3. **Special Cases & Tips**
+
+#### a. **Words with Same Prefix**
+- Example: "bat", "batch", "baton"
+  - Order: bat, batch, baton
+
+#### b. **Words with Spaces or Hyphens**
+- Spaces come before letters.
+- Example: "black bird", "blackbird"
+  - Order: black bird, blackbird
+
+#### c. **Words with Apostrophes or Punctuation**
+- Apostrophes come before letters.
+- Example: "can't", "cant"
+  - Order: can't, cant
+
+#### d. **Words with Numbers**
+- Numbers come before letters.
+- Example: "2fast", "fast"
+  - Order: 2fast, fast
+
+#### e. **Words with Accents**
+- Treat accented letters as their base letter, but after the unaccented version.
+- Example: "resume", "résumé"
+  - Order: resume, résumé
+
+#### f. **Words with Uppercase and Lowercase**
+- Ignore case: "Apple" and "apple" are treated the same.
+
+#### g. **Words with 'Mc', 'Mac', etc.**
+- Sort as written, do not treat "Mc" as "Mac".
+
+---
+
+### 4. **Tricky Letter Comparisons**
+- **Order of letters**: a b c d e f g h i j k l m n o p q r s t u v w x y z
+- **Compare each letter in order**.
+- If one word runs out of letters, it comes first.
+  - Example: "cat", "cater"
+    - Order: cat, cater
+
+---
+
+### 5. **Practice with Difficult Examples**
+
+#### Example 1:
+List: **corpulent diagnose code scalp bombproof fluorine blythe swipe honeybee damn pore maharaja cytolysis solicit**
+- Step 1: List vertically.
+- Step 2: Find first letter order: b, b, c, c, c, d, d, f, f, h, m, p, s, s, s
+- Step 3: Compare second/third letters as needed.
+- Final order: **blythe bombproof code corpulent cytolysis damn diagnose fluorine honeybee maharaja pore scalp solicit swipe**
+
+#### Example 2:
+List: **summand cure gloria tyke doubtful extoller entropy crackle procedural cottrell litigant bologna**
+- Step 1: List vertically.
+- Step 2: First letters: b, c, c, c, c, d, e, e, g, l, p, s, t
+- Step 3: Compare further letters.
+- Final order: **bologna cottrell crackle cure doubtful entropy extoller gloria litigant procedural summand tyke**
+
+---
+
+### 6. **Common Pitfalls**
+- **Don’t sort by word length** unless all letters are the same up to the length of the shorter word.
+- **Don’t group by meaning or type**—only by spelling.
+- **Don’t skip over small words**—they may come first.
+
+---
+
+### 7. **Quick Checklist**
+- [ ] List words vertically.
+- [ ] Compare first letter, then next, etc.
+- [ ] Shorter word comes first if all compared letters are the same.
+- [ ] Ignore case.
+- [ ] Watch for spaces, punctuation, and accents.
+
+---
+
+**Practice a few lists before the test to get comfortable!**
+
+Follow the format of the examples below in your response.
+
+Question: Sort the following words alphabetically: List: burley bela arapaho bacteria bock
+Answer: arapaho bacteria bela bock burley
+###
+Question: Sort the following words alphabetically: List: daffy hypothesis croupier dockyard household peccary triode minstrelsy nepotism sawtimber mantic info confess serenade summate silver duty loam mandate
+Answer: confess croupier daffy dockyard duty household hypothesis info loam mandate mantic minstrelsy nepotism peccary sawtimber serenade silver summate triode

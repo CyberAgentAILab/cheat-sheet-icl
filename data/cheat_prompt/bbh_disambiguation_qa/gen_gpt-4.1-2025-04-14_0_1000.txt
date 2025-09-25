@@ -1,0 +1,114 @@
+---
+
+# Pronoun Antecedent Cheat Sheet (for Difficult Cases)
+
+## 1. **General Reasoning Steps**
+- **Identify all possible antecedents** for the pronoun.
+- **Substitute each antecedent** into the sentence to see if it makes sense.
+- **Consider the context and logic** of the sentence: Who is likely to perform the action or possess the attribute?
+- **Check for grammatical cues**: number (singular/plural), gender, and role in the sentence.
+- **If both options are equally plausible and the sentence gives no extra clues, mark as ambiguous.**
+
+---
+
+## 2. **Common Patterns and How to Resolve Them**
+
+### A. **"X told Y that [pronoun]..."**
+- Usually, the pronoun refers to **Y** if the information is about Y (e.g., advice, diagnosis, payment).
+- If the information is about X's own actions or status, it refers to **X**.
+- **Tip:** Would it make sense for X to inform Y about Y's own actions? Usually not, unless it's advice or a warning.
+
+### B. **"X did something to Y because [pronoun]..."**
+- The pronoun can refer to either X or Y.
+- **Test both:** Substitute both and see which makes more logical sense.
+- If both are plausible, **mark as ambiguous**.
+
+### C. **"X and Y discuss [pronoun]'s Z"**
+- If both X and Y could logically possess Z, and the sentence gives no further context, **mark as ambiguous**.
+- If only one is likely to possess Z (e.g., "culinary training" is more likely the chef's), pick that one.
+
+### D. **"X called Y and asked [pronoun] to do Z"**
+- The pronoun usually refers to **Y** (the person being asked to do something).
+- If it would be odd for X to ask themselves, it's almost always Y.
+
+### E. **"X met with Y at [pronoun]'s office"**
+- If both X and Y could be the owner of the office, and the sentence gives no clue, **mark as ambiguous**.
+- If only one is plausible (e.g., meeting a director at the director's office), pick that one.
+
+### F. **"X did something with Y because [pronoun] [verb/attribute]"**
+- If the verb/attribute fits both X and Y, and both are plausible, **mark as ambiguous**.
+- If only one makes sense (e.g., "focuses on code" fits developer, not writer), pick that one.
+
+### G. **Possessive Constructions ("the writer and [pronoun] friends")**
+- The possessive pronoun almost always refers to the first noun ("the writer and her friends" = the writer's friends).
+- If the pronoun could refer to more than one noun, but only one makes sense, pick that one.
+
+---
+
+## 3. **Ambiguity Triggers**
+- If both antecedents are equally plausible and the sentence gives no further context, **choose "Ambiguous"**.
+- Watch for sentences where both X and Y could have performed the action, received the attribute, or owned the object.
+
+---
+
+## 4. **Special Cues**
+- **Gender/Number Agreement:** Make sure the pronoun matches the possible antecedent in gender and number.
+- **Role/Profession:** Sometimes, the profession or role makes one antecedent more likely (e.g., only a scientist needs a lab assistant).
+- **Typical Scenarios:** Use real-world logic (e.g., a mechanic calls a customer about the customer's car, not their own).
+
+---
+
+## 5. **Quick Reference Table**
+
+| Structure                                      | Most Likely Antecedent | When Ambiguous?                |
+|------------------------------------------------|-----------------------|-------------------------------|
+| X told Y that [pronoun]...                     | Y (if advice/info)    | If both could be true         |
+| X did Y because [pronoun]...                   | X or Y (test both)    | If both make sense            |
+| X and Y discuss [pronoun]'s Z                  | Context-dependent     | If both could own Z           |
+| X called Y and asked [pronoun] to do Z         | Y                     | If both could be asked        |
+| X met with Y at [pronoun]'s office             | Context-dependent     | If both could own office      |
+| X did Y because [pronoun] [verb/attribute]     | Context-dependent     | If both fit                   |
+| The writer and [pronoun] friends               | The writer            | If only one makes sense       |
+
+---
+
+## 6. **Ambiguity Checklist**
+- Both antecedents are grammatically possible.
+- Both antecedents are logically possible.
+- No context or world knowledge tips the scale.
+- If all above are true, **choose "Ambiguous"**.
+
+---
+
+**Use this sheet to reason through each step, especially when both antecedents seem possible!**
+
+Follow the format of the examples below in your response.
+
+Question: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The technician told the customer that they could pay with cash.
+Options:
+(A) The technician could pay
+(B) The customer could pay
+(C) Ambiguous
+Reasoning: Let's think step by step.  
+Here we need to determine who the pronoun "they" refers to. There are two possible referents: the technician and the customer. The verb "told" and the phrase "could pay with cash" might help us decide. Let X be the technician and Y the customer. The sentence is of the form "X told Y that (X or Y) could pay with cash."
+
+Let's consider Y first: "X told Y that Y could pay with cash." This makes sense, because the technician is likely informing the customer about their payment options.
+
+Now, consider X: "X told Y that X could pay with cash." This is less likely, because it would be odd for the technician to tell the customer about the technician's own ability to pay.
+
+Therefore, the pronoun "they" most likely refers to the customer. So the answer is (B).
+Answer: (B)
+###
+Question: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: Alex did not know Taylor until she sent a letter.
+Options:
+(A) Alex sent the letter
+(B) Taylor sent the letter
+(C) Ambiguous
+Reasoning: Let's think step by step.  
+Here we need to determine who the pronoun "she" refers to. There are two possible referents for "she": Alex and Taylor. The sentence is of the form "X did not know Y until she sent a letter."  
+Let's consider Y first: "X did not know Y until Y sent a letter." This makes sense, as Y could have initiated contact by sending a letter, leading to X knowing Y.  
+Now, consider X: "X did not know Y until X sent a letter." This also makes sense, as X could have sent a letter to Y, which could have led to them getting to know each other.  
+Because both interpretations are possible and the sentence does not provide enough information to determine which one is correct, the antecedent of "she" is ambiguous. So the answer is (C).
+Answer: (C)

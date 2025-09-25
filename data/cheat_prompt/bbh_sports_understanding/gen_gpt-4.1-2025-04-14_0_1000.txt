@@ -1,0 +1,116 @@
+**Cheat Sheet for Plausibility Questions (Sports Actions & Athletes)**
+
+---
+
+### 1. **Identify the Athlete’s Sport**
+- **If you don’t know the athlete, look for clues in the name or context.**
+- **Common sports in these questions:**  
+  - **Soccer (Football):** European, South American names, terms like "Champions League," "FA Cup," "red card," "freekick," "header," "added time," "extra time," "give and go," "bicycle kick," "nutmeg," "Maradona turn," "through ball," "throw in," "slide tackle," "indirect kick."
+  - **American Football (NFL):** American names, terms like "touchdown," "screen pass," "first down," "endzone," "flagged," "NFC/AFC championship," "Superbowl," "fumbled," "fourth down," "wheel route," "slant pass."
+  - **Baseball (MLB):** American/Latin names, terms like "walkoff homer," "triple," "base hit," "out at first/second/third/home," "safe at first," "walked on ball four," "got on base," "struck out the side," "watched the pitch go by," "grounded out," "National League Championship Series."
+  - **Basketball (NBA):** American names, terms like "three pointer," "buzzer beater," "eurostep," "banked the shot," "turnaround jumper," "restricted area," "goal tend," "charge," "screen," "side-step three," "Western/Eastern Conference Finals," "nothing but net," "three second violation."
+  - **Ice Hockey (NHL):** Canadian, European names, terms like "puck," "skated backwards," "penalty box," "Stanley Cup," "power play," "blue line," "third period," "backhand shot," "wristed a shot," "slashing," "icing," "attacking zone," "crossed the blue line," "passed the puck," "behind the net."
+
+---
+
+### 2. **Match the Action/Term to the Sport**
+- **If the action/term does NOT belong to the athlete’s sport, the answer is almost always NO.**
+- **If the action/term is plausible in the athlete’s sport, the answer is YES.**
+- **Rare/Unusual but possible plays:**  
+  - **Football WRs/QBs catching passes:** Yes, possible on trick plays.
+  - **Soccer: Scoring directly from a corner (Olympic goal):** Yes, rare but possible.
+  - **Hockey goalies scoring:** Yes, rare but possible.
+- **If the event is rare but possible, answer YES. If it’s impossible or never happens, answer NO.**
+
+---
+
+### 3. **Common Cross-Sport Confusions**
+- **Soccer players:**  
+  - *NO* to: touchdown, screen pass, endzone, first down, penalty box, power play, three pointer, buzzer beater, walkoff homer, triple, base hit, out at first/second/third/home, safe at first, goal tend, charge, screen, restricted area, icing, blue line, puck, slashing, etc.
+  - *YES* to: red card, freekick, header, added/extra time, give and go, bicycle kick, nutmeg, Maradona turn, through ball, throw in, slide tackle, indirect kick.
+- **Football players:**  
+  - *NO* to: penalty kick, freekick, red card, Champions League, FA Cup, base hit, walkoff homer, triple, out at first/second/third/home, safe at first, three pointer, buzzer beater, eurostep, goal tend, charge, screen, restricted area, icing, blue line, puck, slashing, power play, penalty box, etc.
+  - *YES* to: touchdown, screen pass, first down, endzone, flag, fumble, fourth down, wheel route, slant pass, NFC/AFC championship, Superbowl.
+- **Baseball players:**  
+  - *NO* to: touchdown, screen pass, endzone, first down, penalty box, power play, blue line, puck, third period, penalty kick, freekick, red card, Champions League, FA Cup, three pointer, buzzer beater, eurostep, goal tend, charge, screen, restricted area, icing, etc.
+  - *YES* to: walkoff homer, triple, base hit, out at first/second/third/home, safe at first, walk on ball four, got on base, struck out the side, watched the pitch go by, grounded out, National League Championship Series.
+- **Basketball players:**  
+  - *NO* to: touchdown, screen pass, endzone, first down, penalty box, power play, blue line, puck, third period, penalty kick, freekick, red card, Champions League, FA Cup, walkoff homer, triple, base hit, out at first/second/third/home, safe at first, etc.
+  - *YES* to: three pointer, buzzer beater, eurostep, banked the shot, turnaround jumper, restricted area, goal tend, charge, screen, side-step three, Western/Eastern Conference Finals, three second violation.
+- **Hockey players:**  
+  - *NO* to: touchdown, screen pass, endzone, first down, penalty kick, freekick, red card, Champions League, FA Cup, walkoff homer, triple, base hit, out at first/second/third/home, safe at first, three pointer, buzzer beater, eurostep, goal tend, charge, screen, restricted area, etc.
+  - *YES* to: puck, skated backwards, penalty box, Stanley Cup, power play, blue line, third period, backhand shot, wristed a shot, slashing, icing, attacking zone, crossed the blue line, passed the puck, behind the net.
+
+---
+
+### 4. **Special Terms & Tricky Cases**
+- **"Nutmeg":** Soccer only, not hockey or basketball.
+- **"Maradona turn":** Soccer only.
+- **"Give and go":** Soccer and basketball.
+- **"Olympic goal":** Soccer (scoring directly from a corner).
+- **"Buzzer beater":** Basketball only.
+- **"Eurostep":** Basketball only.
+- **"Power play":** Hockey (and cricket), not soccer or football.
+- **"Penalty box":** Hockey only.
+- **"Goal tend":** Basketball only.
+- **"Three second violation":** Basketball only.
+- **"Walkoff homer":** Baseball only.
+- **"Triple":** Baseball only.
+- **"Safe at first":** Baseball only.
+- **"Fourth down":** American football only.
+- **"Screen pass":** American football only.
+- **"Slant pass":** American football only.
+- **"Wheel route":** American football only.
+- **"Red card":** Soccer only.
+- **"Penalty kick":** Soccer only.
+- **"Freekick":** Soccer only.
+- **"Added/Extra time":** Soccer only.
+- **"Header":** Soccer only.
+- **"Through ball":** Soccer only.
+- **"Throw in":** Soccer only.
+- **"Slide tackle":** Soccer only.
+- **"Indirect kick":** Soccer only.
+- **"Endzone":** American football only.
+- **"First down":** American football only.
+- **"Flagged on the play":** American football only.
+- **"Stanley Cup":** Hockey only.
+- **"Champions League":** Soccer only.
+- **"FA Cup":** Soccer only.
+- **"National League Championship Series":** Baseball only.
+- **"Western/Eastern Conference Finals":** Basketball only.
+
+---
+
+### 5. **If Uncertain:**
+- **If the action is not possible in the athlete’s sport, answer NO.**
+- **If the action is rare but possible, answer YES.**
+- **If the action is common in the athlete’s sport, answer YES.**
+
+---
+
+**Summary Table:**
+
+| Athlete’s Sport | Only plausible with these actions/terms |
+|-----------------|----------------------------------------|
+| Soccer          | red card, freekick, header, added/extra time, give and go, bicycle kick, nutmeg, Maradona turn, through ball, throw in, slide tackle, indirect kick, penalty kick, Champions League, FA Cup |
+| Football        | touchdown, screen pass, first down, endzone, flag, fumble, fourth down, wheel route, slant pass, NFC/AFC championship, Superbowl |
+| Baseball        | walkoff homer, triple, base hit, out at first/second/third/home, safe at first, walk on ball four, got on base, struck out the side, watched the pitch go by, grounded out, National League Championship Series |
+| Basketball      | three pointer, buzzer beater, eurostep, banked the shot, turnaround jumper, restricted area, goal tend, charge, screen, side-step three, Western/Eastern Conference Finals, three second violation |
+| Hockey          | puck, skated backwards, penalty box, Stanley Cup, power play, blue line, third period, backhand shot, wristed a shot, slashing, icing, attacking zone, crossed the blue line, passed the puck, behind the net |
+
+---
+
+**Use this sheet to quickly check:**
+1. What sport does the athlete play?
+2. Is the action/term from that sport?
+3. If yes, answer YES. If no, answer NO. If rare but possible, answer YES. If impossible, answer NO.
+
+Follow the format of the examples below in your response.
+
+Question: Is the following sentence plausible? "Norman Powell committed a blocking foul."
+Reasoning: Let's think step by step. Norman Powell is a professional basketball player. Committing a blocking foul is a common occurrence in basketball. So the answer is yes.
+Answer: yes
+###
+Question: Is the following sentence plausible? "Josh Allen caught the screen pass."
+Reasoning: Let's think step by step. Josh Allen is an American football player who plays quarterback, but quarterbacks can occasionally catch passes, including screen passes, in trick plays. So the answer is yes.
+Answer: yes

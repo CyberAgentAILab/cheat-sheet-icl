@@ -1,0 +1,135 @@
+**Pronoun Antecedent Cheat Sheet (for Difficult Cases)**
+
+---
+
+### 1. **Ambiguity with "he/she/they"**
+- If two people of the same gender are mentioned, and the pronoun could refer to either, the answer is **Ambiguous**.
+    - *Example*: "The mechanic disliked the cashier because he is arrogant." (Both male: Ambiguous)
+    - *Example*: "Bailey planned to meet the director at her office." (Both could be female: Ambiguous)
+    - *Example*: "The developer met with the secretary because they made a mistake." (Both could be "they": Ambiguous)
+
+---
+
+### 2. **"Their" and "They" with Two People**
+- If "their" or "they" could refer to either person, and there is no clear context, the answer is **Ambiguous**.
+    - *Example*: "The student set up a meeting with the architect to review their blueprints." (Ambiguous)
+    - *Example*: "The developer met with the designer because their idea can be implemented." (Ambiguous)
+    - *Example*: "The worker told the pedestrian that they were repairing the sidewalk." (If only one is likely to repair, pick that one; if both could, Ambiguous.)
+
+---
+
+### 3. **Possessive Pronouns ("his/her/their office")**
+- If both people could own the object (e.g., office), and the sentence doesn't specify, the answer is **Ambiguous**.
+    - *Example*: "Bailey planned to meet the director at his/her/their office." (Ambiguous)
+    - *Exception*: If the context or logic makes it clear (e.g., "After meeting with the producers, Sam goes to his office." → Sam's office).
+
+---
+
+### 4. **"Because" Clauses**
+- If the reason in the "because" clause could apply to either person, and both are plausible, the answer is **Ambiguous**.
+    - *Example*: "The mechanic greets the receptionist because he was in a good mood." (Ambiguous)
+    - *If only one is plausible*: Use logic (e.g., "The patient was referred to the specialist because he is an expert." → Specialist is expert).
+
+---
+
+### 5. **"Asked/Asked them/Asked her"**
+- The person being asked is usually the second person mentioned, unless context says otherwise.
+    - *Example*: "The cleaner called the guard and asked her to open the door." (Asked the guard)
+    - *Example*: "The guard called the cleaner and asked them to open the door." (Asked the cleaner)
+
+---
+
+### 6. **"Gave him/her/them"**
+- The recipient is usually the second person mentioned, unless context says otherwise.
+    - *Example*: "The carpenter made a desk for the clerk and gave him a discount." (Gave the clerk a discount)
+    - *Example*: "The designer collaborated with the carpenter and gave her a blueprint." (Gave the carpenter a blueprint)
+
+---
+
+### 7. **"Because they..." with Plural or Singular**
+- If "they" could refer to either a singular person (gender-neutral) or a group, and both are possible, the answer is **Ambiguous**.
+    - *Example*: "The nurse stayed away from the laborer because they were very busy." (Ambiguous)
+
+---
+
+### 8. **"His/her/their" with "favorite dishes"/"culinary training"**
+- If both people could have the attribute, and the sentence doesn't specify, the answer is **Ambiguous**.
+    - *Example*: "The reporter and the chef discuss his/her/their favorite dishes." (Ambiguous)
+
+---
+
+### 9. **"Because [pronoun] [verb]" with Action Verbs**
+- If the action is only plausible for one person, pick that one.
+    - *Example*: "The worker told the pedestrian that he should avoid the closed portion of the street." (Pedestrian should avoid)
+    - *Example*: "The janitor warned the child not to step on the wet floor, otherwise he would have to mop it all over again." (Janitor would have to mop)
+
+---
+
+### 10. **"Because [pronoun] [verb]" with Mental States**
+- If the mental state (e.g., "needed to understand") is only plausible for one, pick that one.
+    - *Example*: "The lawyer looked into illegal accusations against the cashier, because he needed to understand the case." (Lawyer needed to understand)
+
+---
+
+### 11. **"Because [pronoun] [verb]" with Gendered Pronouns**
+- If only one person matches the gender of the pronoun, pick that one.
+    - *Example*: "The hygienist told the patient that she should floss every day." (Patient should floss, if patient is female)
+
+---
+
+### 12. **"My parent/cousin called his/her boss/secretary"**
+- "His/her" refers to the subject (my parent/cousin), unless context says otherwise.
+
+---
+
+### 13. **"This story could not be published without the writer and his/her/their friends' support."**
+- "His/her/their" refers to the writer's friends, not the story's or the friends' friends.
+
+---
+
+### 14. **"Before/After [pronoun] sent the letter, Alex did not know Taylor."**
+- If "he/she/they" could refer to either Alex or Taylor, and both are possible, the answer is **Ambiguous**.
+
+---
+
+### 15. **"Collaborate with" or "discuss with" and "she/he/they will share"**
+- If both people could share, and the pronoun is ambiguous, answer **Ambiguous**.
+
+---
+
+**General Tips:**
+- If the pronoun could refer to more than one person and there is no clear context, choose **Ambiguous**.
+- If the pronoun matches only one person by gender or logic, choose that person.
+- For "their" or "they" with two people, be extra cautious—often ambiguous.
+- For actions, ask: Who is more likely to do this action? If both, ambiguous.
+- For possessives, if both could own it, ambiguous.
+
+---
+
+**Practice:**
+- For each question, identify the two people and the pronoun.
+- Check if the pronoun could refer to both.
+- Use logic, gender, and context to decide.
+- If still unclear, choose **Ambiguous**.
+
+---
+
+**Remember:** When in doubt, and both are possible, **Ambiguous** is usually correct!
+
+Follow the format of the examples below in your response.
+
+Question: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The mechanic disliked the cashier because he is arrogant.
+Options:
+(A) The mechanic is arrogant
+(B) The cashier is arrogant
+(C) Ambiguous
+Answer: (C)
+###
+Question: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The patient was referred to the specialist because he is an expert on rare skin conditions.
+Options:
+(A) The patient is an expert
+(B) The specialist is an expert
+(C) Ambiguous
+Answer: (B)

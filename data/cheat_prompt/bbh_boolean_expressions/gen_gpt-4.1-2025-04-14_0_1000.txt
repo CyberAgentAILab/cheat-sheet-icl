@@ -1,0 +1,146 @@
+---
+
+# Boolean Logic Cheat Sheet (Python-style)
+
+## 1. **Operator Precedence**
+- **Highest**: `not`
+- **Middle**: `and`
+- **Lowest**: `or`
+- **Brackets/Parentheses**: Always evaluate innermost first.
+
+**Order of evaluation:**  
+1. Parentheses  
+2. not  
+3. and  
+4. or
+
+---
+
+## 2. **How to Evaluate Complex Expressions**
+
+### **Step-by-Step Process**
+1. **Evaluate Parentheses**: Always start with the innermost brackets.
+2. **Apply "not"**: Work from the inside out, especially with chains of "not".
+3. **Evaluate "and"**: Left to right, after all "not"s are resolved.
+4. **Evaluate "or"**: Left to right, after all "and"s are resolved.
+
+---
+
+## 3. **Chained "not" Evaluation**
+- **Odd number of "not"s**: Flips the value.
+- **Even number of "not"s**: Returns the original value.
+
+**Example:**  
+- `not not not False`  
+  1. not False → True  
+  2. not True → False  
+  3. not False → True  
+  **Result: True**
+
+- `not not not not not False` (5 nots, odd)  
+  1. not False → True  
+  2. not True → False  
+  3. not False → True  
+  4. not True → False  
+  5. not False → True  
+  **Result: True**
+
+- `not not not not True` (4 nots, even)  
+  1. not True → False  
+  2. not False → True  
+  3. not True → False  
+  4. not False → True  
+  **Result: True**
+
+---
+
+## 4. **Ambiguous "not" and "and" Groupings**
+
+- **"not not not False and True"**  
+  - "not" binds tighter than "and", so:  
+    - not False → True  
+    - not (not False) → not True → False  
+    - not (not (not False)) → not False → True  
+    - So, (not (not (not False))) and True → True and True → True
+
+- **"not not not False and True or False"**  
+  - not False → True  
+  - not (not False) → not True → False  
+  - not (not (not False)) → not False → True  
+  - So, True and True → True  
+  - True or False → True
+
+---
+
+## 5. **Common Pitfalls**
+- **"not not not False and True"** is **not** the same as "not not not (False and True)".
+- **"not not not False and True"** is parsed as "not (not (not False)) and True".
+- **"not not not False or False and False"**:  
+  - Evaluate all "not"s first, then "and", then "or".
+
+---
+
+## 6. **Quick Reference Table**
+
+| Expression                | Steps                                                                 | Result |
+|---------------------------|-----------------------------------------------------------------------|--------|
+| not not not False         | not False → True → not True → False → not False → True                | True   |
+| not not not True          | not True → False → not False → True → not True → False                | False  |
+| not not not not False     | not False → True → not True → False → not False → True → not True → False | False  |
+| not not not not not False | not False → True → not True → False → not False → True → not True → False → not False → True | True   |
+
+---
+
+## 7. **"and" and "or" with False/True**
+
+- **"and"**: If any operand is False, result is False.
+- **"or"**: If any operand is True, result is True.
+
+---
+
+## 8. **Sample Walkthrough**
+
+**Example:**  
+`False or not not not False and True`
+
+- not False = True  
+- not (not False) = not True = False  
+- not (not (not False)) = not False = True  
+- So, True and True = True  
+- False or True = True
+
+---
+
+## 9. **General Tips**
+- **Always resolve "not"s first, one at a time, from the innermost out.**
+- **When in doubt, write out each step.**
+- **If you see a chain of "not"s, count them:**
+  - Odd = flip the value
+  - Even = original value
+
+---
+
+**Use this sheet to break down any complex boolean expression step by step!**
+
+Follow the format of the examples below in your response.
+
+Question: ( True ) and True and not True is
+Reasoning: Let's think step by step.
+Remember that (i) expressions inside brackets are always evaluated first and that (ii) the order of operations from highest priority to lowest priority is "not", "and", "or", respectively.
+We first simplify this expression "Z" as follows: "Z = ( True ) and True and not True".
+First, evaluate the "not" operation: not True = False.
+Now substitute back: Z = True and True and False.
+Next, evaluate the "and" operations from left to right: True and True = True, then True and False = False.
+So the answer is False.
+Answer: False
+###
+Question: False or not ( True ) and True is
+Reasoning: Let's think step by step.
+Remember that (i) expressions inside brackets are always evaluated first and that (ii) the order of operations from highest priority to lowest priority is "not", "and", "or", respectively.
+We first simplify this expression "Z" as follows: "Z = False or not ( True ) and True".
+First, evaluate the expression inside the brackets: not ( True ) = not True = False.
+Now substitute back: Z = False or False and True.
+Next, evaluate the "and": False and True = False.
+Now substitute back: Z = False or False.
+Finally, evaluate the "or": False or False = False. So the answer is False.
+Answer: False

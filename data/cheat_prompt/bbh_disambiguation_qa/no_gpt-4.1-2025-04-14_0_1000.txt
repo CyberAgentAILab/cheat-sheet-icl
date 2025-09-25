@@ -1,0 +1,152 @@
+**Pronoun Antecedent Cheat Sheet (for Difficult Cases)**
+
+---
+
+### 1. **Ambiguity with Multiple Same-Gender Nouns**
+- If two nouns of the same gender (e.g., both male or both female) are present and a pronoun (he/she/his/her) is used, **it is ambiguous** unless context or world knowledge clearly favors one.
+  - *Example*: "Alex did not know Taylor until she sent a letter."  
+    → Both could be "she" → **Ambiguous**
+
+---
+
+### 2. **"They/Their/Them" with Two People**
+- If "they/their/them" could refer to either of two people, and both are singular, **it is ambiguous** unless context or world knowledge makes it clear.
+  - *Example*: "The developer met with the designer because their idea can be implemented."  
+    → Whose idea? Both could have an idea → **Ambiguous**
+
+---
+
+### 3. **Possessive Pronouns with Two Nouns**
+- "His/her/their" before a noun (e.g., "his office") is **ambiguous** if both people could logically own the noun, unless context or world knowledge clarifies.
+  - *Example*: "Bailey planned to meet the director at his office."  
+    → Both could have an office → **Ambiguous**
+
+---
+
+### 4. **"Because [pronoun]..." Clauses**
+- If "because he/she/they..." follows two possible antecedents, and both could logically fit, **it is ambiguous**.
+  - *Example*: "The developer met with the secretary because she made a mistake."  
+    → Both could have made a mistake → **Ambiguous**
+
+---
+
+### 5. **"And [pronoun]" After Two Nouns**
+- If two people are joined by "and", and then "he/she/they" is used, **it is ambiguous** unless context or world knowledge clarifies.
+  - *Example*: "The scientist collaborated with the artist, and he shared a story."  
+    → Both could be "he" → **Ambiguous**
+
+---
+
+### 6. **"Their" with Plural Subjects**
+- If "their" refers to a group (e.g., "the reporter and the chef will discuss their favorite dishes"), and both could have "favorite dishes", **it is ambiguous**.
+  - *Example*: "The reporter and the chef will discuss their favorite dishes."  
+    → Both have favorite dishes → **Ambiguous**
+
+---
+
+### 7. **"They" as Singular or Plural**
+- "They" can be singular (gender-neutral) or plural. If both antecedents are singular and of unknown gender, **it is ambiguous**.
+  - *Example*: "The student set up a meeting with the architect to review their blueprints."  
+    → Both could have blueprints → **Ambiguous**
+
+---
+
+### 8. **"At his/her/their office"**
+- If both people could have an office, and the sentence is "X planned to meet Y at his/her/their office", **it is ambiguous**.
+  - *Example*: "Bailey planned to meet the director at their office."  
+    → Both could have an office → **Ambiguous**
+
+---
+
+### 9. **"Because [pronoun] [verb]" with Adjectives**
+- If the reason clause uses an adjective (e.g., "because she was busy"), and both could be described that way, **it is ambiguous**.
+  - *Example*: "The nurse stayed away from the laborer because she was very busy."  
+    → Both could be busy → **Ambiguous**
+
+---
+
+### 10. **"After meeting with [plural], X goes to their office"**
+- If "their" could refer to either the plural group or to X (if X is nonbinary), **it is ambiguous**.
+  - *Example*: "After meeting with the producers, Sam goes to their office."  
+    → Could be Sam's or producers' office → **Ambiguous**
+
+---
+
+### 11. **"Told [pronoun] a story" or "Asked [pronoun] to..."**
+- If the verb is "told/asked" and the pronoun could refer to either person, but the structure is "X [verb] Y and told/asked him/her/them...", the pronoun usually refers to Y (the second person).
+  - *Example*: "The writer tried to fool the salesperson and told him a fake story."  
+    → "him" = salesperson
+
+---
+
+### 12. **World Knowledge**
+- Sometimes, world knowledge helps:
+  - "The physician told the baker that they had cancer."  
+    → More likely the baker had cancer, as the physician is the doctor.
+
+---
+
+### 13. **"Because [pronoun] [verb]" with Verbs**
+- If the verb is something only one person would do (e.g., "because she upholds the peace" and one is a sheriff), use world knowledge.
+  - *Example*: "The sheriff protected the writer because she upholds the peace."  
+    → Sheriff upholds the peace.
+
+---
+
+### 14. **"The [role] told the [other role] that [pronoun] [verb]"**
+- The pronoun usually refers to the second person (the one being told), unless context or world knowledge says otherwise.
+  - *Example*: "The technician told the customer that she could pay with cash."  
+    → "she" = customer
+
+---
+
+### 15. **"The [role] gave the [other role] feedback on [pronoun] performance"**
+- The pronoun usually refers to the second person (the one receiving feedback).
+  - *Example*: "The supervisor gave the employee feedback on her performance."  
+    → "her" = employee
+
+---
+
+**Summary Table:**
+
+| Structure                                      | Default Antecedent         | If Both Possible?      |
+|------------------------------------------------|----------------------------|------------------------|
+| "X told Y that he/she/they..."                 | Y (the one being told)     | Ambiguous              |
+| "X and Y discuss his/her/their..."             | Context/world knowledge    | Ambiguous              |
+| "Because he/she/they..." after X and Y         | Context/world knowledge    | Ambiguous              |
+| "X gave Y feedback on his/her/their..."        | Y (the one receiving)      | Ambiguous              |
+| "X met Y at his/her/their office"              | Context/world knowledge    | Ambiguous              |
+| "X asked Y if he/she/they..."                  | Y (the one being asked)    | Ambiguous              |
+| "X told Y and asked him/her/them..."           | Y (the one being asked)    | Ambiguous              |
+
+---
+
+**Key:**
+- If context or world knowledge does not clearly favor one, **choose "Ambiguous"**.
+- If the pronoun is in a clause about an action or attribute that only one person could logically have, use world knowledge.
+- If the pronoun is possessive and both could own the thing, **Ambiguous**.
+
+---
+
+**Tip:**  
+When in doubt, ask: "Could both people fit this pronoun equally well?"  
+- If yes → **Ambiguous**  
+- If no → Use context or world knowledge to decide.
+
+Follow the format of the examples below in your response.
+
+Question: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The technician told the customer that they could pay with cash.
+Options:
+(A) The technician could pay
+(B) The customer could pay
+(C) Ambiguous
+Answer: (B)
+###
+Question: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: Alex did not know Taylor until she sent a letter.
+Options:
+(A) Alex sent the letter
+(B) Taylor sent the letter
+(C) Ambiguous
+Answer: (C)

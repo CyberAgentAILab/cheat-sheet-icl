@@ -1,0 +1,167 @@
+**Alphabetical Sorting Cheat Sheet (for Difficult Cases)**
+
+---
+
+### 1. **General Approach**
+- **Step 1:** Compare the first letter of each word.
+- **Step 2:** If first letters are the same, compare the second letter, then third, etc.
+- **Step 3:** If one word is a prefix of another (e.g., "cat" vs "cater"), the shorter word comes first.
+- **Step 4:** For ties, continue comparing subsequent letters until a difference is found.
+
+---
+
+### 2. **Handling Groups with Same Starting Letters**
+- **List all words with the same first letter together.**
+- **Compare the second letter:**
+  - If different, order by the second letter.
+  - If the same, compare the third letter, and so on.
+- **If all compared letters are the same but one word is shorter, the shorter word comes first.**
+
+**Example:**
+- ["cat", "cater", "catfish"]
+  - "cat" < "cater" < "catfish"
+
+---
+
+### 3. **Sorting Multiple Words with Shared Prefixes**
+- **Write out the words vertically, aligning letters:**
+  ```
+  c a t
+  c a t e r
+  c a t f i s h
+  ```
+- **Compare each column until a difference is found.**
+
+---
+
+### 4. **Special Cases**
+- **Apostrophes and spaces:** Ignore them for sorting (e.g., "o'connell" is sorted as if it were "oconnell").
+- **Case sensitivity:** Ignore case; treat all letters as lowercase.
+
+---
+
+### 5. **Step-by-Step Example for Complex Groups**
+
+#### Example: ["contemporaneous", "contravariant", "cordial", "collet"]
+- All start with "co".
+- Third letter: "n" (contemporaneous, contravariant), "r" (cordial), "l" (collet)
+- So, "collet" < "contemporaneous"/"contravariant" < "cordial"
+- For "contemporaneous" vs "contravariant":
+  - Fourth letter: "t" (both)
+  - Fifth letter: "e" (contemporaneous), "r" (contravariant)
+  - So, "contemporaneous" < "contravariant"
+
+**Final order:** collet < contemporaneous < contravariant < cordial
+
+---
+
+### 6. **Sorting Within Groups**
+- **If you have a group like ["beefsteak", "beware"],**
+  - Compare third letter: "e" (beefsteak), "w" (beware)
+  - So, "beefsteak" < "beware"
+
+---
+
+### 7. **Sorting Words with Identical Letters Up to a Point**
+- **If two words are identical up to a certain letter, the word that ends first comes first.**
+  - "cat" < "cater" < "caterpillar"
+
+---
+
+### 8. **Quick Reference Table for Letter Order**
+| Letter | Position |
+|--------|----------|
+| a      | 1        |
+| b      | 2        |
+| c      | 3        |
+| ...    | ...      |
+| z      | 26       |
+
+---
+
+### 9. **Practice:**
+- **Write out the words in columns to compare letters.**
+- **Group by first letter, then sort within each group.**
+- **Always check for shorter word if all compared letters are the same.**
+
+---
+
+### 10. **Common Pitfalls**
+- **Don't forget to check the next letter if the first is the same.**
+- **Don't overlook shorter words coming before longer words with the same prefix.**
+- **Be careful with words that have similar beginnings but diverge later.**
+
+---
+
+**Use this cheat sheet to break down and sort even the most complex lists!**
+
+Follow the format of the examples below in your response.
+
+Question: Sort the following words alphabetically: List: burley bela arapaho bacteria bock
+Reasoning: Let's think step by step.
+The first letter: "burley": "b" (2). "bela": "b" (2). "arapaho": "a" (1). "bacteria": "b" (2). "bock": "b" (2). We now have: (1) "arapaho" < (2) ["bacteria", "bela", "bock", "burley"]. Now let's sort this subpart ["bacteria", "bela", "bock", "burley"] by looking at their second letters.
+The second letter: "bacteria": "a" (1). "bela": "e" (5). "bock": "o" (15). "burley": "u" (21). We now have: (1) "bacteria" < (5) "bela" < (15) "bock" < (21) "burley".
+So the answer is arapaho bacteria bela bock burley.
+Answer: arapaho bacteria bela bock burley
+###
+Question: Sort the following words alphabetically: List: daffy hypothesis croupier dockyard household peccary triode minstrelsy nepotism sawtimber mantic info confess serenade summate silver duty loam mandate
+Reasoning: Let's think step by step.  
+The first letter:  
+"daffy": "d" (4)  
+"hypothesis": "h" (8)  
+"croupier": "c" (3)  
+"dockyard": "d" (4)  
+"household": "h" (8)  
+"peccary": "p" (16)  
+"triode": "t" (20)  
+"minstrelsy": "m" (13)  
+"nepotism": "n" (14)  
+"sawtimber": "s" (19)  
+"mantic": "m" (13)  
+"info": "i" (9)  
+"confess": "c" (3)  
+"serenade": "s" (19)  
+"summate": "s" (19)  
+"silver": "s" (19)  
+"duty": "d" (4)  
+"loam": "l" (12)  
+"mandate": "m" (13)  
+
+Now, group by first letter:  
+(3) ["croupier", "confess"]  
+(4) ["daffy", "dockyard", "duty"]  
+(8) ["hypothesis", "household"]  
+(9) "info"  
+(12) "loam"  
+(13) ["mandate", "mantic", "minstrelsy"]  
+(14) "nepotism"  
+(16) "peccary"  
+(19) ["sawtimber", "serenade", "summate", "silver"]  
+(20) "triode"  
+
+Now, sort within each group:  
+["croupier", "confess"]:  
+Compare second letter: "croupier" ("r"), "confess" ("o"). "confess" < "croupier".  
+So: "confess" < "croupier"  
+
+["daffy", "dockyard", "duty"]:  
+Second letter: "daffy" ("a"), "dockyard" ("o"), "duty" ("u").  
+So: "daffy" < "dockyard" < "duty"  
+
+["hypothesis", "household"]:  
+Second letter: "hypothesis" ("y"), "household" ("o").  
+"household" < "hypothesis"  
+
+["mandate", "mantic", "minstrelsy"]:  
+Second letter: "mandate" ("a"), "mantic" ("a"), "minstrelsy" ("i").  
+So "mandate" < "mantic" < "minstrelsy"  
+
+["sawtimber", "serenade", "summate", "silver"]:  
+Second letter: "a" ("sawtimber"), "e" ("serenade"), "u" ("summate"), "i" ("silver").  
+Order: "sawtimber" < "serenade" < "silver" < "summate"  
+
+Now, combine all:  
+confess < croupier < daffy < dockyard < duty < household < hypothesis < info < loam < mandate < mantic < minstrelsy < nepotism < peccary < sawtimber < serenade < silver < summate < triode  
+
+So the answer is confess croupier daffy dockyard duty household hypothesis info loam mandate mantic minstrelsy nepotism peccary sawtimber serenade silver summate triode.
+Answer: confess croupier daffy dockyard duty household hypothesis info loam mandate mantic minstrelsy nepotism peccary sawtimber serenade silver summate triode

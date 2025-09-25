@@ -1,0 +1,95 @@
+**CHEAT SHEET FOR PLAUSIBILITY QUESTIONS (SPORTS ACTIONS & ATHLETES)**
+
+---
+
+### 1. **Identify the Athlete’s Sport**
+- **Football (Soccer):** e.g., Carlos Tevez, Yaya Toure, Angel Di Maria, Santi Cazorla, Mario Balotelli, Sergio Ramos, Gerard Pique, Santi Cazorla, Marcelo, Andres Iniesta, Carles Puyol, Neymar, Edinson Cavani, Kwadwo Asamoah, Fred VanVleet (not soccer!), etc.
+- **American Football (NFL):** e.g., Josh Allen, Tom Brady, T.Y. Hilton, Drew Brees, Amari Cooper, Courtland Sutton, Robert Woods, Brandin Cooks, Keenan Allen, DJ Chark, Joe Burrow, Philip Rivers, Mitchell Trubisky, Deshaun Watson, etc.
+- **Baseball (MLB):** e.g., Luke Voit, Gleyber Torres, Jack Flaherty, Max Scherzer, Freddie Freeman, Luis Robert, Nick Castellanos, Adam Thielen (not baseball!), etc.
+- **Basketball (NBA):** e.g., Jayson Tatum, Michael Porter Jr., De'Aaron Fox, Malcolm Brogdon, Kawhi Leonard, Norman Powell, Kendrick Nunn, Ben Simmons, Draymond Green, etc.
+- **Hockey (NHL):** e.g., Patrice Bergeron, Patrick Kane, Dougie Hamilton, John Tavares, Aleksander Barkov, John Carlson, Tuukka Rask, Mark Stone, Frederik Andersen, Miro Heiskanen, etc.
+
+---
+
+### 2. **Common Actions by Sport**
+
+#### **Football (Soccer)**
+- **Plausible:** scored a penalty kick, scored a freekick, scored in extra/added time, took a throw in, got on the end of a through ball, performed a give and go, earned a red card, committed a handball, scored a header goal, nutmegged the defender, scored a corner kick, took a left footed shot.
+- **NOT Plausible:** caught the screen pass, converted the first down, hit the slant pass, hit a triple, got on base, was out at first/second/third/home, threw a touchdown, hit a walkoff homer, skated backwards, took a three, bricked the three pointer, eurostepped to the basket, scored a reverse layup, shot from beyond the arc, scored a bicycle kick (for baseball players), etc.
+
+#### **American Football (NFL)**
+- **Plausible:** converted the first down, hit the screen pass, caught the screen pass, threw a touchdown, went for it on fourth down, gained five yards, drew a flag, fumbled the ball, launched a hail mary, hit the back shoulder fade, got into the endzone.
+- **NOT Plausible:** scored a penalty kick, scored a freekick, got on base, was out at first, hit a triple, hit a walkoff homer, took a three, bricked the three pointer, scored a bicycle kick, nutmegged the defender, took a throw in, etc.
+
+#### **Baseball (MLB)**
+- **Plausible:** was out at first/second/third/home, got a base hit, walked to first base, grounded out, struck out the side, was safe at first, watched the pitch go by.
+- **NOT Plausible:** converted the first down, caught the screen pass, hit the slant pass, scored a penalty kick, scored a freekick, took a three, bricked the three pointer, eurostepped to the basket, scored a bicycle kick, etc.
+
+#### **Basketball (NBA)**
+- **Plausible:** took a three, bricked the three pointer, took a side-step three, eurostepped to the basket, took a charge, committed a blocking foul, shot from beyond the arc, banked the shot in, beat the buzzer, took a turnaround jumper, committed a three second violation, drove into the restricted area, called for the screen, was called for the goal tend.
+- **NOT Plausible:** scored a penalty kick, scored a freekick, got on base, was out at first, hit a triple (baseball), hit a walkoff homer, caught the screen pass, converted the first down, etc.
+
+#### **Hockey (NHL)**
+- **Plausible:** wristed a shot, backhanded a shot, passed the puck, skated backwards, entered the attacking zone, scored in the third period, scored on the power play, killed the powerplay, earned a trip to the penalty box, spent time in the penalty box, crossed the blue line, lost control of the puck.
+- **NOT Plausible:** scored a penalty kick, scored a freekick, got on base, was out at first, hit a triple, hit a walkoff homer, took a three, bricked the three pointer, eurostepped to the basket, caught the screen pass, converted the first down, etc.
+
+---
+
+### 3. **Common Cross-Sport Confusions**
+- **Penalty kick, freekick, red card, handball:** Only in soccer.
+- **First down, screen pass, slant pass, back shoulder fade, endzone, flag:** Only in American football.
+- **Base hit, out at first/second/third/home, walkoff homer, grounded out, safe at first, walked to first base, struck out the side:** Only in baseball.
+- **Three pointer, side-step three, eurostep, charge, blocking foul, three second violation, goal tend, restricted area, screen:** Only in basketball.
+- **Wristed/backhanded a shot, passed the puck, skated backwards, attacking zone, third period, power play, penalty box, blue line, lost control of the puck, icing, slashing:** Only in hockey.
+
+---
+
+### 4. **Special Cases**
+- **"Scored a bicycle kick":** Only plausible for soccer players.
+- **"Hit a triple":** Only plausible for baseball players.
+- **"Walked on ball four":** Only plausible for baseball players.
+- **"Eurostepped to the basket":** Only plausible for basketball players.
+- **"Bricked the three pointer":** Only plausible for basketball players.
+- **"Launched a hail mary":** Only plausible for American football players.
+- **"Nutmegged the defender":** Only plausible for soccer players.
+- **"Took a throw in":** Only plausible for soccer players.
+- **"Committed a three second violation":** Only plausible for basketball players.
+- **"Called for icing":** Only plausible for hockey players.
+- **"Killed the powerplay":** Only plausible for hockey players.
+
+---
+
+### 5. **How to Decide**
+- **Step 1:** Identify the athlete’s primary sport.
+- **Step 2:** Check if the action is a standard action in that sport.
+- **Step 3:** If the action belongs to a different sport, answer "no."
+- **Step 4:** If the action fits the athlete’s sport, answer "yes."
+
+---
+
+### 6. **Quick Reference Table**
+
+| Action/Term                | Sport(s)         | Example of Plausible Use         |
+|----------------------------|------------------|----------------------------------|
+| Penalty kick, freekick     | Soccer           | "Lewandowski scored a penalty kick" |
+| First down, screen pass    | American Football| "Josh Allen converted the first down" |
+| Base hit, out at first     | Baseball         | "Luke Voit was out at first"     |
+| Three pointer, eurostep    | Basketball       | "Dejounte Murray took a side-step three" |
+| Wristed/backhanded shot    | Hockey           | "Ryan O'Reilly wristed a shot"   |
+| Red card, handball         | Soccer           | "Santi Cazorla earned a red card"|
+| Power play, penalty box    | Hockey           | "Mark Stone spent time in the penalty box" |
+
+---
+
+**REMEMBER:**  
+If the action does NOT belong to the athlete’s sport, the answer is **NO**.  
+If the action is a normal part of the athlete’s sport, the answer is **YES**.  
+When in doubt, ask: "Would I ever see this action in this athlete’s sport?" If not, answer "no."
+
+Follow the format of the examples below in your response.
+
+Question: Is the following sentence plausible? "Patrice Bergeron converted the first down."
+Answer: no
+###
+Question: Is the following sentence plausible? "Patrick Kane backhanded a shot in the Stanley Cup."
+Answer: yes

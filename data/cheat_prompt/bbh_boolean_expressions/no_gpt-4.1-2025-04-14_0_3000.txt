@@ -1,0 +1,137 @@
+**Boolean Logic Cheat Sheet (for Difficult Examples)**
+
+---
+
+### 1. **Order of Operations (Precedence)**
+- **not** has highest precedence (evaluated first)
+- **and** is next
+- **or** is lowest (evaluated last)
+- Parentheses `()` override precedence
+
+**Mnemonic:**  
+`not` → `and` → `or`
+
+---
+
+### 2. **How to Evaluate**
+- **Step 1:** Evaluate all expressions inside parentheses first.
+- **Step 2:** Apply `not` to its immediate right operand.
+- **Step 3:** Evaluate all `and` operations from left to right.
+- **Step 4:** Evaluate all `or` operations from left to right.
+
+---
+
+### 3. **Truth Table Reminders**
+| A     | B     | A and B | A or B |
+|-------|-------|---------|--------|
+| True  | True  | True    | True   |
+| True  | False | False   | True   |
+| False | True  | False   | True   |
+| False | False | False   | False  |
+
+- `not True` = False
+- `not False` = True
+
+---
+
+### 4. **Multiple NOTs**
+- **Even number of `not`**: cancels out (e.g., `not not True` = True)
+- **Odd number of `not`**: flips the value (e.g., `not not not True` = False)
+
+**Tip:** Count the number of `not` operators in a row:
+- Even → no change
+- Odd → flip
+
+---
+
+### 5. **Common Patterns**
+- `not (A and B)` = `not A or not B` (De Morgan's Law)
+- `not (A or B)` = `not A and not B`
+- `A and (B or C)` = `(A and B) or (A and C)`
+- `A or (B and C)` = `(A or B) and (A or C)`
+
+---
+
+### 6. **Examples of Tricky Cases**
+
+#### a. **Multiple NOTs**
+- `not not not not True` = True (4 nots, even)
+- `not not not not not True` = False (5 nots, odd)
+- `not not not not not not not False` = True (7 nots, odd, so flip False to True)
+
+#### b. **Mixing AND/OR with NOT**
+- `not True and True` = (False and True) = False
+- `not True or True` = (False or True) = True
+- `not False or False` = (True or False) = True
+- `not (True or False)` = not True = False
+
+#### c. **Parentheses**
+- `not (True or False)` = not True = False
+- `not (False and True)` = not False = True
+
+#### d. **Chained Expressions**
+- `not True and True or True and False`
+  - `not True` = False
+  - `False and True` = False
+  - `True and False` = False
+  - `False or False` = False
+
+- `not True or False and True and True`
+  - `not True` = False
+  - `False or (False and True and True)`
+  - `False and True` = False
+  - `False and True` = False
+  - `False or False` = False
+
+---
+
+### 7. **Shortcuts**
+- **Anything AND False** = False
+- **Anything OR True** = True
+- **Anything AND True** = the other value
+- **Anything OR False** = the other value
+
+---
+
+### 8. **How to Approach a Problem**
+1. **Rewrite** with parentheses to clarify order.
+2. **Evaluate NOTs** first.
+3. **Evaluate ANDs** next.
+4. **Evaluate ORs** last.
+5. **Use truth table or shortcuts as needed.**
+
+---
+
+### 9. **Practice**
+- For `not not not not not not not True`:
+  - 7 nots (odd), so flip True → False
+
+- For `not not not not not not not False`:
+  - 7 nots (odd), so flip False → True
+
+---
+
+**Summary Table for Multiple NOTs:**
+
+| # of NOTs | Result for True | Result for False |
+|-----------|----------------|-----------------|
+| 0         | True           | False           |
+| 1         | False          | True            |
+| 2         | True           | False           |
+| 3         | False          | True            |
+| 4         | True           | False           |
+| 5         | False          | True            |
+| 6         | True           | False           |
+| 7         | False          | True            |
+
+---
+
+**If stuck, break the expression into small parts and evaluate step by step!**
+
+Follow the format of the examples below in your response.
+
+Question: not ( True or False or True ) is
+Answer: False
+###
+Question: not True and True or True and False is
+Answer: False

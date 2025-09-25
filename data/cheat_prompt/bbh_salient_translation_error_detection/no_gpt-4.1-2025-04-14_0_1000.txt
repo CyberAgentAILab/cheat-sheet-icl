@@ -1,0 +1,136 @@
+---
+
+## CHEAT SHEET: Identifying Translation Error Types
+
+### 1. **Named Entities (D)**
+- **Definition:** A proper noun (person, place, organization, etc.) is changed to a different entity, or is mistranslated.
+- **Clues:**
+  - Names of people, cities, countries, organizations, or specific titles are different in source and translation.
+  - Misspellings or anglicizations that change the entity (e.g., "Stederdorf" → "Seedorf", "Naumburg" → "Tossel").
+  - Swapping to a different but similar-sounding entity (e.g., "Dazaifu" → "Darfur").
+  - Changing the type of entity (e.g., "Büsserach" in "Bezirk Thierstein" → "district of Thorstein").
+  - Changing a family name to a first name, or vice versa.
+  - Changing a specific organization or project name (e.g., "Pfälzerwald-Vereins" → "Palestine Forest Association").
+- **Common traps:** 
+  - Place names that look similar but are not the same.
+  - Names that are replaced with generic terms or other names.
+  - Titles or honorifics that are omitted or changed.
+
+---
+
+### 2. **Numerical Values (B)**
+- **Definition:** Any change in numbers, dates, units, or ordinals.
+- **Clues:**
+  - Numbers (cardinal or ordinal) are different (e.g., "34." → "39th", "11." → "12th").
+  - Dates are changed (e.g., "1847 gegründet" → "destroyed in 1847").
+  - Units are changed (e.g., "100 Meter" → "100 miles", "2200 Meter" → "22000 metres").
+  - Quantities, population, or counts are different (e.g., "19,570 Einwohnern" → "70 inhabitants").
+  - Ranges are changed (e.g., "76–82 Gattungen" → "76-82 genera and 360 living species").
+  - Years, centuries, or time periods are altered (e.g., "1759" → "1659", "1999" → "1989").
+- **Common traps:**
+  - Units (meters vs. miles, mm vs. km, etc.).
+  - Ordinals (4th vs. 6th, etc.).
+  - Population or count numbers.
+  - Dates of events, founding, or publication.
+
+---
+
+### 3. **Modifiers or Adjectives (A)**
+- **Definition:** Adjectives or descriptive modifiers are changed, omitted, or added, altering the meaning.
+- **Clues:**
+  - Nationality or origin adjectives are changed (e.g., "österreichischer" → "Australian").
+  - Descriptive adjectives are changed (e.g., "Jazzmusiker" → "hit musician", "besonders schnelle Computer" → "particularly small computers").
+  - Type or category adjectives are changed (e.g., "mittelalterlicher Bau" → "modern building").
+  - Family or group adjectives are changed (e.g., "Bundeswappen" → "coat of arms").
+  - Adjectives indicating size, age, or other qualities are altered.
+- **Common traps:**
+  - Subtle changes in meaning due to adjective swap.
+  - Omission of adjectives that are present in the source.
+  - Addition of adjectives not in the source.
+
+---
+
+### 4. **Negation or Antonyms (C)**
+- **Definition:** A negation is added/removed, or a word is replaced with its antonym or comparative.
+- **Clues:**
+  - "Open" → "closed", "living" → "extinct", "urban" → "rural", "beginning" → "end".
+  - "Complete" → "incomplete", "lime-loving" → "lime-hating".
+  - "Listed" → "unlisted".
+  - "Third largest" → "third smallest".
+  - "Non-alcoholic" → "alcoholic" (or vice versa).
+  - "Set on fire" → "set on ice".
+- **Common traps:**
+  - Words that are opposites or have a negation prefix/suffix.
+  - Comparative or superlative adjectives swapped for their antonyms.
+  - Negation words ("not", "no", "un-", "in-", etc.) added or removed.
+
+---
+
+### 5. **Dropped Content (E)**
+- **Definition:** A significant clause or piece of information is omitted in the translation.
+- **Clues:**
+  - The translation is much shorter than the source, missing a clause or phrase.
+  - Lists in the source are incomplete in the translation.
+  - A location, date, or other detail present in the source is missing.
+  - The translation omits a secondary or qualifying phrase (e.g., "as well as..." or "including...").
+- **Common traps:**
+  - Long sentences where the translation only covers the first part.
+  - Lists or enumerations that are cut short.
+  - Omission of a clause that changes the meaning or completeness.
+
+---
+
+### 6. **Facts (F)**
+- **Definition:** Factual errors not covered by the above categories (e.g., wrong profession, wrong type, wrong function).
+- **Clues:**
+  - The translation gives a wrong fact (e.g., "footballer" → "goalkeeper" when not specified, "teacher" → "hack", "dancer" instead of "painter").
+  - The translation changes the type or function (e.g., "typewriter" → "vehicle").
+  - The translation gives a wrong category or function (e.g., "genus" → "family", "region" → "country").
+  - The translation gives a wrong profession, field, or type.
+- **Common traps:**
+  - When the error is not about names, numbers, adjectives, negation, or dropped content, but the fact is simply wrong.
+  - Mistranslation of professions, types, or categories.
+
+---
+
+## **Quick Decision Tree**
+1. **Is a proper noun (name, place, organization) changed?** → **Named Entities (D)**
+2. **Is a number, date, or unit changed?** → **Numerical Values (B)**
+3. **Is an adjective or descriptive word changed/omitted/added?** → **Modifiers or Adjectives (A)**
+4. **Is a negation or antonym introduced/removed?** → **Negation or Antonyms (C)**
+5. **Is a significant clause or list item missing?** → **Dropped Content (E)**
+6. **Is there a factual error not covered above?** → **Facts (F)**
+
+---
+
+**Tip:** If you are stuck, check for numbers and names first (they are most objective), then look for adjectives and negations, then for missing content, and finally for general factual mismatches.
+
+---
+
+**End of Cheat Sheet**
+
+Follow the format of the examples below in your response.
+
+Question: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Mohammed Rabiu ist ein ghanaischer Fußballspieler.
+Translation: Mohammed Rabiu is a Ghanaian footballer who plays as a striker.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+Answer: (F)
+###
+Question: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: NGC 1767 ist die Bezeichnung eines Emissionsnebels mit einem eingebetteten offenen Sternhaufen im Sternbild Dorado.
+Translation: NGC 1767 is an emission nebula with an embedded closed cluster in the constellation Dorado.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+Answer: (C)

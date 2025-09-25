@@ -1,0 +1,122 @@
+- Overdetermination (multiple sufficient causes)
+- Omissions and responsibility
+- Disjunctive/Conjunctive conditions ("or"/"and" logic)
+- Intentionality in side effects
+- Policy/Norm violations
+- "Because" questions with inaction or default states
+
+---
+
+## 1. **Overdetermination (Multiple Sufficient Causes)**
+- **If multiple independent actions are each sufficient to bring about an effect, and all occur, typical people often say "No" to the question of whether any one action caused the effect.**
+    - *Example*: If both the IT committee and the budget committee approve, and either is sufficient, the budget committee did **not** cause the approval.
+    - *Example*: If both black and red wires must touch for a short circuit, but black is supposed to touch and red is not, neither is seen as the cause individually.
+
+- **If only one action is needed, but several people do it, and the effect would have happened anyway, typical answer is "No".**
+    - *Example*: Coffee shop profits if anyone orders; if several people order, Drew's order did **not** cause the profit if others would have done it anyway.
+
+---
+
+## 2. **Omissions and Responsibility**
+- **If someone fails to act and it is their responsibility, their omission is often seen as a cause.**
+    - *Example*: Janet's job is to oil the machine. If she doesn't, and the machine breaks, her omission is a cause.
+    - *If it is NOT their responsibility, omission is usually NOT seen as a cause.**
+    - *Example*: Kate is not responsible for oiling; her omission is **not** a cause.
+
+- **If someone notices a problem and still omits action, their omission is more likely to be seen as a cause.**
+    - *Example*: Kate notices Janet didn't oil, and doesn't act—her omission is a cause.
+
+---
+
+## 3. **Disjunctive ("OR") vs. Conjunctive ("AND") Conditions**
+- **"OR" (Disjunctive):** If either A or B is sufficient, and both are present, changing one is usually **not** seen as the cause.
+    - *Example*: Device charges if plugged in OR on pad. If both, and you leave it on the pad, "because you left it on the pad" = **Yes**.
+    - *But if you change the other (e.g., plug it in when already on pad), "because you plugged it in" = **No**.
+
+- **"AND" (Conjunctive):** If both A and B are required, and both are present, inaction on either is often seen as a cause.
+    - *Example*: Building implodes if safety switch is off AND knob A is on. If both are true, and you leave knob A on, "because you left it on" = **Yes**.
+
+---
+
+## 4. **Intentionality in Side Effects**
+- **If someone foresees a side effect but doesn't care about it, and the side effect is negative (harm), people say it was intentional.**
+    - *Example*: CEO knows program will harm environment, doesn't care, does it anyway → **Intentional** harm.
+
+- **If the side effect is positive (help), and the person doesn't care, people say it was NOT intentional.**
+    - *Example*: CEO knows program will help environment, doesn't care, does it anyway → **NOT intentional** help.
+
+---
+
+## 5. **Policy/Norm Violations**
+- **If someone violates a policy or norm and their action is necessary for the outcome, people are more likely to say "Yes" to causation.**
+    - *Example*: If someone is not supposed to log in, but does, and the computer crashes, their action is a cause.
+
+- **If someone acts within policy and the outcome requires both their and another's action, their action is usually NOT seen as the cause.**
+    - *Example*: Jane is allowed to log in, Lauren is not; both log in, computer crashes. Jane's action is **not** the cause.
+
+---
+
+## 6. **"Because" Questions with Inaction or Default States**
+- **If someone does not change a state, and that state is sufficient for the outcome, "because they did not change it" = "Yes".**
+    - *Example*: Device is on charging pad, Wayne doesn't move it, device charges. "Because Wayne didn't move it" = **Yes**.
+
+- **If someone changes a state that is already sufficient, "because they changed it" = "No".**
+    - *Example*: Device is already on pad, Wayne plugs it in, device charges. "Because Wayne plugged it in" = **No**.
+
+---
+
+## 7. **Causation in "AND" vs. "OR" Logic**
+- **"AND" (both required):** Each action is a cause.
+    - *Example*: Both black and red wires must touch for a short circuit. Each is a cause.
+- **"OR" (either sufficient):** Each action is NOT a cause if the other is present.
+    - *Example*: Either committee can approve; if both do, neither is the cause.
+
+---
+
+## 8. **Special Cases: Fertilizer Example**
+- **If both fertilizers are needed to cause harm, and one gardener uses A and the other B, only the one who used the "wrong" fertilizer is seen as the cause.**
+    - *If both gardeners use both, and both are needed for harm, both are causes.**
+    - *If only one uses the harmful one, only that gardener is the cause.*
+
+---
+
+## 9. **Summary Table**
+
+| Scenario Type | Typical Answer |
+|---------------|---------------|
+| Multiple sufficient causes ("OR"), both present | No |
+| Multiple necessary causes ("AND"), both present | Yes |
+| Omission by responsible party | Yes |
+| Omission by non-responsible party | No |
+| Policy violation, necessary for outcome | Yes |
+| Policy compliance, outcome needs both | No |
+| Side effect, negative, agent doesn't care | Intentional |
+| Side effect, positive, agent doesn't care | Not intentional |
+| "Because X did not change Y" and Y is sufficient | Yes |
+| "Because X changed Y" but Y was already sufficient | No |
+
+---
+
+**Tip:**  
+- Always ask: Was the action/inaction necessary for the outcome, and was it the only one?  
+- For "intentional" questions, focus on whether the agent cared about the side effect and whether it was positive or negative.
+
+---
+
+**Use this sheet to check your reasoning on tricky causation, omission, and intentionality questions!**
+
+Follow the format of the examples below in your response.
+
+Question: How would a typical person answer each of the following questions about causation?
+Janet is an employee in a factory. Since she works in the maintenance department, she knows how to grease and oil all of the machines in the factory. It is her responsibility to put oil into the machines. Kate is also an employee at the factory. While she works in the human resources department, she knows how to grease and oil all of the machines in the factory. If Janet does not put oil in the machines, it is not Kate's responsibility to do so. One day, Janet forgets to put oil in an important machine. Kate noticed that Janet did not put oil in the machine, and Kate also did not put oil in the machine. The machine broke down a few days later. Did Kate not putting oil in the machine cause it to break down?
+Options:
+- Yes
+- No
+Answer: Yes
+###
+Question: How would a typical person answer each of the following questions about causation?
+Imagine that there is a man out in the woods who is participating in a hunting competition. After spending hours waiting for a deer to cross his path, the hunter suddenly sees the largest deer he has ever seen. If he can only kill this deer, he will surely win the competition. So, the hunter gets the deer in his sights -- but at the last second, he notices that there is a group of bird-watchers just on the other side of the deer. The hunter realizes that if he shoots the deer, the bullet will definitely hit one of the birdwatchers as well. But he does not care at all about the bird watchers -- he just wants to win the competition. So, he shoots and kills the deer. And as expected, the bullet ends up hitting one of the bird-watchers as well. Did the man intentionally shoot the bird-watcher?
+Options:
+- Yes
+- No
+Answer: Yes

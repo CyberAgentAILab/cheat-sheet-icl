@@ -1,0 +1,137 @@
+---
+
+# CHEAT SHEET: Error Types in German-English Translation
+
+## 1. **Named Entities (D)**
+- **Definition:** Names of people, places, organizations, or specific titles are changed to a different entity, or a specific entity is replaced with a more general one (or vice versa).
+- **Key Clues:**
+  - Person’s full name is shortened or changed (e.g., "Boyd Kevin Rutherford" → "Boyd").
+  - Place names are mistranslated or replaced (e.g., "Thierstein" → "Thorstein", "Neu-Ulm" → "New-York").
+  - Organization or event names are changed (e.g., "Haager Konvention" → "Prague Convention").
+  - Specific district/region replaced with a general one (e.g., "Wien-Innere Stadt" → "Vienna").
+  - Proper nouns translated as common nouns (e.g., "Erden" (town) → "earth").
+  - Foreign names or terms are misspelled or replaced with similar-sounding but incorrect entities (e.g., "Dazaifu" → "Darfur").
+  - Family names, scientific names, or model numbers are changed (e.g., "CLS 22" → "CLS 222").
+- **NOT**: Factual errors about professions, numbers, or adjectives.
+
+---
+
+## 2. **Numerical Values (B)**
+- **Definition:** Any change in numbers, dates, ordinals, or units (including omission or addition).
+- **Key Clues:**
+  - Year, date, or number is different (e.g., "2005" → "2015", "68" → "88").
+  - Ordinal numbers are changed (e.g., "34." → "39th", "11." → "12th").
+  - Units are changed (e.g., "100 Meter" → "100 miles", "0.15 ha" → "0.15 km", "70-mm" → "70 nm").
+  - Population or quantity is changed (e.g., "870" → "70").
+  - A date is added or omitted (e.g., source ends with "dem Bundesgesetz vom 20." but translation adds "20 July 1898").
+  - Model numbers or scientific designations are changed (e.g., "S 415 HDH" → "S 416 HDH").
+  - "18th century" → "19th century", "2200 meters" → "22000 meters".
+- **NOT**: Factual errors about professions, or adjectives.
+
+---
+
+## 3. **Modifiers or Adjectives (A)**
+- **Definition:** Descriptive words (adjectives or modifiers) that specify or qualify a noun are changed, omitted, or mistranslated.
+- **Key Clues:**
+  - Omission of adjectives (e.g., "former British rower" → "British rower").
+  - Nationality or type is changed (e.g., "German sculptor" → "French sculptor", "Austrian" → "Australian").
+  - Type of object is changed (e.g., "hydroelectric power station" → "solar power station").
+  - Size or status is changed (e.g., "small town" → "city", "medium-sized town" → "town").
+  - Scientific or technical adjectives are changed (e.g., "Numidian" → "Dravidian", "wear-free brake" → "brake").
+  - Omission of "research" in "research tasks", "state" in "state coat of arms", etc.
+  - "Jazz musician" → "hit musician", "rural town" → "urban town".
+- **NOT**: Factual errors about professions, numbers, or named entities.
+
+---
+
+## 4. **Negation or Antonyms (C)**
+- **Definition:** The meaning is reversed by introducing/removing a negation or using an antonym (opposite).
+- **Key Clues:**
+  - "Extinct" → "living", "lime-loving" → "lime-hating".
+  - "Third largest" → "third smallest", "complete" → "incomplete".
+  - "Founded" → "destroyed", "listed" → "unlisted".
+  - "Medieval" → "modern", "open cluster" → "closed cluster".
+  - "A facade fire" → "set on ice".
+  - "Alcoholic beverage" → "non-alcoholic beverage".
+- **NOT**: Factual errors about professions, numbers, or named entities.
+
+---
+
+## 5. **Facts (F)**
+- **Definition:** Trivial factual errors not covered by the above classes. The translation introduces a wrong fact, but not by changing a name, number, modifier, or by negation.
+- **Key Clues:**
+  - Profession is changed (e.g., "actor" → "director", "painter" → "dancer", "theologian" → "mathematician").
+  - Type of object is wrong (e.g., "village" → "mall", "device" → "vehicle", "region" → "country").
+  - Wrong family or classification (e.g., "colubrids" → "Lantern family", "Asteraceae" → "Artemisia").
+  - Wrong color, material, or other property (e.g., "green" → "red", "bronze" → "gold").
+  - Wrong location or scope (e.g., "Comal County" → "Texas", "East Timor" → "West Timor").
+  - Adds a fact not in the source (e.g., "who plays as a striker" when not specified).
+  - Mistranslation of a word that changes the meaning (e.g., "genus" → "genius", "stadiums" instead of "courts").
+  - Adds a specific date or detail not in the source (e.g., "29 September 1962" when only "29th" is given).
+- **NOT**: Named entity, number, modifier, or negation/antonym errors.
+
+---
+
+## 6. **Dropped Content (E)**
+- **Definition:** A significant clause or important information present in the source is missing in the translation.
+- **Key Clues:**
+  - Omission of population, location, or other major details (e.g., "with 120 inhabitants in the Doubs department" missing).
+  - Omission of professions, roles, or descriptors (e.g., "director and artistic director" missing).
+  - Omission of significant clauses about protection, historical context, or additional objects/locations.
+  - Omission of "including historical coats of arms", "in Lake Superior", "and Lower Saxony", etc.
+- **NOT**: Minor missing adjectives (see Modifiers), or missing numbers (see Numerical Values).
+
+---
+
+# **Quick Decision Tree**
+1. **Is a name, place, or specific entity changed?** → **Named Entities (D)**
+2. **Is a number, date, unit, or ordinal changed/added/omitted?** → **Numerical Values (B)**
+3. **Is a descriptive word (adjective/modifier) changed/omitted?** → **Modifiers or Adjectives (A)**
+4. **Is the meaning reversed (negation/antonym)?** → **Negation or Antonyms (C)**
+5. **Is a significant clause or major info missing?** → **Dropped Content (E)**
+6. **Is it a factual error not covered above?** → **Facts (F)**
+
+---
+
+**Tip:** If you’re stuck, ask:  
+- Is it a *who/where/what*? (D)  
+- Is it a *how many/when/how much*? (B)  
+- Is it a *what kind/which type*? (A)  
+- Is it an *opposite/negation*? (C)  
+- Is it *missing a big chunk*? (E)  
+- Is it *just plain wrong* but not the above? (F)
+
+---
+
+**Use this sheet to quickly classify errors, especially in tricky or ambiguous cases!**
+
+Follow the format of the examples below in your response.
+
+Question: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Ruth Lynn Deech, Baroness Deech DBE ist eine britische Juristin und Hochschullehrerin, die seit 2005 als Life Peeress Mitglied des House of Lords ist.
+Translation: Ruth Lynn Deech, Baroness Deech DBE is a British lawyer and university lecturer who has been a life peer of the House of Lords since 2015.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+Reasoning: Let's think step by step.  
+We solve this question by first translating the source sentence to English and then by comparing our translation with the provided translation. According to Google Translate, the correct translation of the source sentence from German to English is "Ruth Lynn Deech, Baroness Deech DBE, is a British lawyer and university lecturer who has been a life peeress and member of the House of Lords since 2005." The provided translation says "since 2015" instead of "since 2005." Because the numerical value for the year is changed from 2005 to 2015, the translation contains an error pertaining to Numerical Values. So the answer is (B).
+Answer: (B)
+###
+Question: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Beth Clare Rodford ist eine ehemalige britische Ruderin.
+Translation: Beth Clare Rodford is a British rower.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+Reasoning: Let's think step by step.
+
+We solve this question by first translating the source sentence to English and then by comparing our translation with the provided translation. According to Google Translate, the correct translation of the source sentence from German to English is "Beth Clare Rodford is a former British rower." On the other hand, the provided translation is "Beth Clare Rodford is a British rower." The word "former" (ehemalige) is an important modifier that indicates she is no longer a rower, but this was omitted in the translation. Because the modifier "former" was dropped, the translation contains an error pertaining to Modifiers or Adjectives. So the answer is (A).
+Answer: (A)

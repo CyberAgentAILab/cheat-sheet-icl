@@ -1,0 +1,133 @@
+**ALPHABETICAL SORTING CHEAT SHEET**
+
+Use this guide to help you alphabetize word lists, especially for tricky or confusing cases.
+
+---
+
+### 1. **General Steps**
+- Compare words letter by letter, left to right.
+- If the first letters are the same, move to the next letter, and so on.
+- If one word is a prefix of another (e.g., "bat" and "batch"), the shorter word comes first.
+
+---
+
+### 2. **Special Cases & Tips**
+
+#### **A. Handling Capitalization**
+- Ignore capitalization; treat all words as lowercase.
+
+#### **B. Handling Apostrophes, Hyphens, and Special Characters**
+- Apostrophes and hyphens are ignored for sorting purposes.
+  - Example: "can't" is sorted as "cant".
+- Words with apostrophes come after otherwise identical words without them.
+  - Example: "cant" before "can't".
+
+#### **C. Handling Spaces**
+- Spaces are ignored; treat as if the word is continuous.
+
+#### **D. Handling Accents and Diacritics**
+- Treat accented letters as their unaccented equivalents (e.g., é = e).
+
+#### **E. Handling Numbers**
+- If a word starts with a number, it comes before all words starting with letters.
+
+#### **F. Handling Identical Beginnings**
+- If two words share the same beginning, the shorter word comes first.
+  - Example: "bat" before "batch".
+
+#### **G. Handling "O'" and "Mc"/"Mac"**
+- "O'" is treated as "O" (ignore the apostrophe).
+- "Mc" and "Mac" are sorted as written, not as the same.
+
+#### **H. Handling "St." and "Saint"**
+- Sort as written; "St" comes before "Saint".
+
+---
+
+### 3. **Step-by-Step Example**
+
+**List:**  
+"bunny", "bun", "bunsen", "bunco"
+
+**Process:**
+1. Compare "bun" vs "bunny": "bun" is shorter, so it comes first.
+2. "bun" vs "bunco": "bun" is shorter, so it comes first.
+3. "bunco" vs "bunny": Compare letter by letter: "bunco" (c) vs "bunny" (n), c comes before n.
+4. "bunsen" vs "bunco": Compare letter by letter: "bunco" (c) vs "bunsen" (s), c comes before s.
+
+**Order:**  
+bun, bunco, bunny, bunsen
+
+---
+
+### 4. **Common Pitfalls**
+
+- **Don't sort by word length unless all letters up to that point are identical.**
+- **Don't group by word type (noun, verb, etc.)—just by spelling.**
+- **Don't skip over the second or third letter if the first is the same.**
+- **Don't let similar-sounding words confuse you—sort by spelling, not pronunciation.**
+
+---
+
+### 5. **Practice with Tricky Letters**
+
+- **"ae" vs "aen"**: "ae" comes before "aen"
+- **"mac" vs "mace"**: "mac" comes before "mace"
+- **"o'connor" vs "olsen"**: "o'connor" comes before "olsen"
+
+---
+
+### 6. **Quick Reference: Alphabetical Order**
+
+a  
+b  
+c  
+d  
+e  
+f  
+g  
+h  
+i  
+j  
+k  
+l  
+m  
+n  
+o  
+p  
+q  
+r  
+s  
+t  
+u  
+v  
+w  
+x  
+y  
+z  
+
+---
+
+### 7. **If Stuck:**
+
+- Write the words vertically, one letter per line, and compare each column.
+- For long lists, sort pairs, then merge.
+
+---
+
+**Remember:**  
+- Go letter by letter.
+- Ignore case, spaces, and punctuation.
+- Shorter word comes first if all compared letters are the same.
+
+---
+
+**Practice a few before the test to get comfortable!**
+
+Follow the format of the examples below in your response.
+
+Question: Sort the following words alphabetically: List: postcondition protoplasmic musicology helical uptrend vasoconstriction diacritic beefsteak beware birthplace bicycle junctor state obstinate banshee sap
+Answer: banshee beefsteak beware bicycle birthplace diacritic helical junctor musicology obstinate postcondition protoplasmic sap state uptrend vasoconstriction
+###
+Question: Sort the following words alphabetically: List: pea yonkers darkle quadrant moldboard instant olsen hookup erudite lip
+Answer: darkle erudite hookup instant lip moldboard olsen pea quadrant yonkers

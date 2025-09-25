@@ -1,0 +1,160 @@
+**CHEAT SHEET FOR "FIND A SIMILAR MOVIE" QUESTIONS**
+
+---
+
+### 1. **Recognize the Pattern:**
+- The correct answer is almost always a **famous, critically acclaimed, or blockbuster film** from the **same era/genre** as the examples.
+- The answer is **never an obscure, niche, or obviously unrelated film**.
+- If the options include a movie that is as famous as the examples, it's likely the answer.
+
+---
+
+### 2. **Commonly Repeated "Anchor" Movies and Their Clusters:**
+
+#### **A. 90s Blockbusters/Prestige Dramas Cluster**
+- **Examples:** Forrest Gump, The Shawshank Redemption, Pulp Fiction, Braveheart, Schindler's List, The Fugitive, Dances with Wolves, Apollo 13, The Usual Suspects, Saving Private Ryan, Goodfellas, LA Confidential, Fargo, The Silence of the Lambs, Jurassic Park, Independence Day, Toy Story, Batman, The Lion King, Aladdin, Pretty Woman, The Mask, Terminator 2: Judgment Day, Inception, The Matrix, Raiders of the Lost Ark, Star Wars (original trilogy), Gladiator, Gattaca, Interview with the Vampire, Mr. Holland's Opus, Get Shorty, Don Juan DeMarco, Tombstone, Stargate, Dead Man Walking, Crimson Tide, Heat, Philadelphia, American Beauty, Back to the Future, Inside Out, Edge of Tomorrow, Monsters, Inc, Interstellar, Star Wars Episode VII, The Lord of the Rings (Fellowship, Two Towers, Return of the King).
+
+- **If the question lists 3+ of these, the answer is almost always another from this group.**
+
+#### **B. Animated/Family Blockbusters**
+- **Examples:** The Lion King, Toy Story, Aladdin, Beauty and the Beast, The Jungle Book, Willy Wonka, The Wizard of Oz, Pinocchio, Snow White, The Secret Garden.
+- **If the question lists 3+ of these, the answer is another classic family/animated film.**
+
+#### **C. Sci-Fi/Action Blockbusters**
+- **Examples:** The Matrix, Terminator 2, Independence Day, Star Wars, The Fifth Element, Gladiator, Gattaca, Inception, Edge of Tomorrow, Back to the Future, Jurassic Park, The Terminator, Planet of the Apes, X-Men, Spider-Man, The Dark Knight.
+- **If the question lists 3+ of these, the answer is another from this group.**
+
+---
+
+### 3. **Specific Movie Pairings and Their "Go-To" Answers:**
+
+- **If you see:**  
+  - **Forrest Gump, The Shawshank Redemption, Pulp Fiction, Braveheart, Schindler's List, The Fugitive, Dances with Wolves**  
+    - **Answer is usually:** One of the others in this group not already listed, or a similar prestige 90s film (e.g., Apollo 13, Philadelphia, LA Confidential, Goodfellas, The Usual Suspects, Saving Private Ryan, Get Shorty, Mr. Holland's Opus, Tombstone, Dead Man Walking, Crimson Tide, Fargo, Gladiator, Inception, The Matrix, Raiders of the Lost Ark, Star Wars, Batman, The Lion King, Toy Story, Aladdin, Pretty Woman, The Mask, Terminator 2).
+
+- **If you see:**  
+  - **Star Wars (any original trilogy), Raiders of the Lost Ark, The Matrix, Inception, Gladiator, Gattaca, The Fifth Element, Back to the Future, Jurassic Park, Independence Day, The Terminator, Planet of the Apes, X-Men, Spider-Man**  
+    - **Answer is usually:** Another from this group.
+
+- **If you see:**  
+  - **The Lion King, Toy Story, Aladdin, Beauty and the Beast, The Jungle Book, Willy Wonka, The Wizard of Oz, Pinocchio, Snow White, The Secret Garden**  
+    - **Answer is usually:** Another from this group.
+
+---
+
+### 4. **If the Options Include:**
+- **The Shawshank Redemption, Forrest Gump, Pulp Fiction, Braveheart, Schindler's List, The Fugitive, Dances with Wolves, Apollo 13, The Usual Suspects, Goodfellas, LA Confidential, Fargo, The Silence of the Lambs, Jurassic Park, Independence Day, Toy Story, Batman, The Lion King, Aladdin, Pretty Woman, The Mask, Terminator 2, Inception, The Matrix, Raiders of the Lost Ark, Star Wars, Gladiator, Gattaca, Interview with the Vampire, Mr. Holland's Opus, Get Shorty, Don Juan DeMarco, Tombstone, Stargate, Dead Man Walking, Crimson Tide, Heat, Philadelphia, American Beauty, Back to the Future, Inside Out, Edge of Tomorrow, Monsters, Inc, Interstellar, Star Wars Episode VII, The Lord of the Rings (Fellowship, Two Towers, Return of the King)**
+  - **Pick that option.**
+
+---
+
+### 5. **If All Options Are Obscure Except One Famous Movie:**
+- **Pick the famous one.**
+
+---
+
+### 6. **If the Question Mixes Genres (e.g., Animation, Action, Drama):**
+- **Pick the most "blockbuster" or "prestige" film in the options.**
+
+---
+
+### 7. **If the Question Includes a Mix of Animated and Live-Action Blockbusters:**
+- **Pick the answer that is a blockbuster from the same era, even if it's a different genre.**
+
+---
+
+### 8. **If the Question Includes a Lot of 90s/00s Prestige Dramas/Blockbusters:**
+- **Pick another 90s/00s prestige drama/blockbuster.**
+
+---
+
+### 9. **If the Question Includes a Lot of 80s/90s Action/Sci-Fi:**
+- **Pick another 80s/90s action/sci-fi blockbuster.**
+
+---
+
+### 10. **If the Question Includes a Lot of Classic Family/Animated Films:**
+- **Pick another classic family/animated film.**
+
+---
+
+### 11. **If the Question Includes a Lot of Crime/Thriller/Drama:**
+- **Pick another famous crime/thriller/drama from the same era.**
+
+---
+
+### 12. **If the Question Includes a Lot of "Cult" or "Quirky" Films:**
+- **Pick another cult/quirky film from the same era.**
+
+---
+
+### 13. **If Unsure, Eliminate:**
+- **Eliminate any option that is:**
+  - Obscure
+  - Clearly a different genre/era
+  - Not a blockbuster or critically acclaimed
+
+---
+
+### 14. **Special Note on "Get Shorty", "Mr. Holland's Opus", "Don Juan DeMarco", "Kolya":**
+- These are often paired together; if you see two or more, the answer is likely another from this group.
+
+---
+
+### 15. **Special Note on "The Usual Suspects", "Pulp Fiction", "Goodfellas", "LA Confidential", "Fargo":**
+- These are often paired together; if you see two or more, the answer is likely another from this group.
+
+---
+
+### 16. **Special Note on "Star Wars", "Indiana Jones", "Back to the Future", "The Matrix", "Inception":**
+- These are often paired together; if you see two or more, the answer is likely another from this group.
+
+---
+
+### 17. **If the Question Includes "The Lord of the Rings" Movies:**
+- The answer is often another epic blockbuster or prestige film from the same era (e.g., Schindler's List, Inception, Star Wars, The Matrix).
+
+---
+
+### 18. **If the Question Includes "Batman", "The Mask", "Pretty Woman", "The Lion King", "Toy Story", "Aladdin":**
+- The answer is often another from this group.
+
+---
+
+### 19. **If the Question Includes "Forrest Gump", "The Shawshank Redemption", "Pulp Fiction", "Dances with Wolves", "Apollo 13", "Braveheart", "Schindler's List", "The Fugitive":**
+- The answer is almost always another from this group.
+
+---
+
+### 20. **If the Question Includes "Saving Private Ryan", "Inception", "Raiders of the Lost Ark", "The Matrix":**
+- The answer is likely "Gladiator" or another epic action/sci-fi film.
+
+---
+
+**Summary:**  
+**Look for the most famous, critically acclaimed, or blockbuster film in the options that matches the era/genre of the examples.**  
+**If in doubt, pick the answer that is a 90s/00s blockbuster or prestige drama.**  
+**If the options are all obscure except one, pick the famous one.**  
+**If the question is a mix, pick the most "blockbuster" or "prestige" film.**
+
+---
+
+**Use this cheat sheet to quickly identify the correct answer by matching the pattern of the question to the clusters and rules above!**
+
+Follow the format of the examples below in your response.
+
+Question: Find a movie similar to The Lord of the Rings The Two Towers, Raiders of the Lost Ark, The Lord of the Rings The Fellowship of the Ring, Inception:
+Options:
+(A) Ladybugs
+(B) American Ultra
+(C) Saving Private Ryan
+(D) Siam Sunset
+Answer: (C)
+###
+Question: Find a movie similar to The Mask, Batman, Pretty Woman, The Fugitive:
+Options:
+(A) Babe
+(B) What We Do in the Shadows
+(C) Game of Death
+(D) Eastern Promises
+Answer: (A)

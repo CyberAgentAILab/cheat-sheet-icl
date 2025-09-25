@@ -1,0 +1,144 @@
+---
+
+## SVG Path Cheat Sheet for Shape Identification
+
+### 1. **Counting Sides/Points for Polygons**
+- **Count the number of unique points (M/L commands) before the path closes.**
+    - **Triangle:** 3 points
+    - **Quadrilateral (Kite, Rectangle, Trapezoid):** 4 points
+    - **Pentagon:** 5 points
+    - **Hexagon:** 6 points
+    - **Heptagon:** 7 points
+    - **Octagon:** 8 points
+
+#### **Tips:**
+- If the path has multiple `M` commands, count all unique points.
+- If the path returns to the starting point, that point is only counted once.
+
+---
+
+### 2. **Distinguishing Kites, Trapezoids, and Other Quadrilaterals**
+- **Kite:** 4 points, often with two pairs of adjacent sides equal, and a "dart" or "diamond" shape. Look for a path that "zig-zags" or has a symmetry.
+    - Sometimes, the path will have a "V" or "bowtie" look.
+    - If the path is not a rectangle or trapezoid, and has 4 points, suspect a kite.
+- **Trapezoid:** 4 points, but often with two sides parallel (not always obvious). If the path is a closed quadrilateral but not a rectangle or kite, and the points are not symmetric, it may be a trapezoid.
+    - If the path has vertical/horizontal lines and two sides are clearly longer/shorter, suspect trapezoid.
+- **Rectangle:** 4 points, all angles 90°, sides parallel. Usually, the path uses only L commands and the coordinates are aligned.
+
+---
+
+### 3. **Recognizing Sectors and Ellipses**
+- **Arc Command (`A`):** Indicates a curve, often part of a circle, ellipse, or sector.
+    - Syntax: `A rx,ry x-axis-rotation large-arc-flag,sweep-flag x,y`
+- **Ellipse:** If the path is two arcs that together form a closed loop, and the radii (`rx,ry`) are not equal, or the path is not a perfect circle, it's an ellipse.
+    - If the path is: `M ... A ... A ... Z` (two arcs, closed), and the radii are not equal, answer is **ellipse**.
+    - If the radii are equal, but the path is not a full circle, still ellipse.
+- **Circle:** Similar to ellipse, but `rx = ry` and the path forms a full circle.
+- **Sector:** If the path is: `M ... A ... L ... Z` (arc plus two lines), and the arc does **not** close the full shape, it's a **sector** (pie slice).
+    - Look for a path that starts at the circle's edge, draws an arc, then a line back to the center or another point, and closes.
+
+---
+
+### 4. **Polygon vs. Star/Complex Shapes**
+- **If the path has more than 4 points and is closed, count the points:**
+    - 5: Pentagon
+    - 6: Hexagon
+    - 7: Heptagon
+    - 8: Octagon
+- **If the path has 8 or more points and the shape is not regular, but the path is closed, it's likely an octagon.**
+- **If the path has 7 points, it's a heptagon.**
+- **If the path has 6 points, it's a hexagon.**
+- **If the path has 5 points, it's a pentagon.**
+
+---
+
+### 5. **Special Cases**
+- **Multiple Subpaths (`M ... M ...`):** Count all unique points across subpaths.
+- **If the path is a single arc (`A`) and closes, check if it's a sector or ellipse.**
+- **If the path is a single line (`M ... L ...`), it's a line.**
+
+---
+
+### 6. **Quick Reference Table**
+
+| Points (Unique) | Arc? | Shape Type         | Notes                                      |
+|-----------------|------|--------------------|---------------------------------------------|
+| 2               | No   | Line               | Simple `M ... L ...`                        |
+| 3               | No   | Triangle           | Closed path with 3 points                   |
+| 4               | No   | Kite/Trapezoid/Rect| See above for distinguishing                |
+| 5               | No   | Pentagon           | Closed path with 5 points                   |
+| 6               | No   | Hexagon            | Closed path with 6 points                   |
+| 7               | No   | Heptagon           | Closed path with 7 points                   |
+| 8               | No   | Octagon            | Closed path with 8 points                   |
+| ≥9              | No   | Complex Polygon    | Use best fit (octagon, etc.)                |
+| Any             | Yes  | Ellipse/Circle     | Two arcs, closed, radii equal/unequal       |
+| Any             | Yes  | Sector             | Arc + lines, not full ellipse/circle        |
+
+---
+
+### 7. **How to Read the Arc Command**
+- `A rx,ry ...`:
+    - `rx,ry`: radii (if equal, circle; if not, ellipse)
+    - If two arcs, closed: ellipse/circle
+    - If one arc, with lines: sector
+
+---
+
+### 8. **Examples**
+- `M ... L ... L ... L ... Z` (3 points): Triangle
+- `M ... L ... L ... L ... L ... Z` (4 points): Kite, Trapezoid, or Rectangle (see above)
+- `M ... L ... L ... L ... L ... L ... Z` (5 points): Pentagon
+- `M ... L ... L ... L ... L ... L ... L ... Z` (6 points): Hexagon
+- `M ... L ... L ... L ... L ... L ... L ... L ... Z` (7 points): Heptagon
+- `M ... L ... L ... L ... L ... L ... L ... L ... L ... Z` (8 points): Octagon
+
+---
+
+### 9. **Summary Decision Tree**
+1. **Is there an `A` (arc) command?**
+    - **Yes:**  
+        - Two arcs, closed: **Ellipse/Circle**  
+        - One arc, with lines: **Sector**
+    - **No:**  
+        - Count unique points (excluding repeated start/end):
+            - 2: **Line**
+            - 3: **Triangle**
+            - 4: **Kite/Trapezoid/Rectangle** (see above)
+            - 5: **Pentagon**
+            - 6: **Hexagon**
+            - 7: **Heptagon**
+            - 8: **Octagon**
+
+---
+
+**Use this cheat sheet to quickly analyze SVG path elements and match them to the correct shape!**
+
+Follow the format of the examples below in your response.
+
+Question: This SVG path element <path d="M 55.58,17.52 L 53.95,26.14 L 47.22,29.95 M 47.22,29.95 L 48.21,22.28 L 55.58,17.52"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+Answer: (D)
+###
+Question: This SVG path element <path d="M 72.96,32.63 L 7.85,57.83 M 7.85,57.83 L 39.84,72.32 L 52.68,87.15 L 58.40,70.53 L 81.67,51.69 L 72.96,32.63"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+Answer: (C)

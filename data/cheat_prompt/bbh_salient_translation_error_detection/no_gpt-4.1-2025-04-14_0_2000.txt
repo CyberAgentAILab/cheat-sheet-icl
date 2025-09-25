@@ -1,0 +1,130 @@
+---
+
+## CHEAT SHEET: Identifying Error Types in German-English Translation
+
+### 1. **Named Entities (D)**
+- **Definition:** A proper noun (person, place, organization, etc.) is changed to a different entity, or is mistranslated, or omitted.
+- **Clues:**
+  - Person’s name is changed, shortened, or replaced (e.g., "Boyd Kevin Rutherford" → "Boyd").
+  - Place names are mistranslated or replaced (e.g., "Büsserach im Bezirk Thierstein" → "Thorstein").
+  - Organization names, book titles, or other unique identifiers are altered.
+  - If a specific name is replaced with a generic term or a different name.
+- **Common Traps:**
+  - Similar-sounding but incorrect names (e.g., "Chūō" → "Cha").
+  - Place names replaced with incorrect or generic locations.
+  - Omission of part of a name (e.g., "Richard Raphael Roland Risse" → "Risse").
+  - Swapping to a different but related entity (e.g., "Ferenc Farkas" → "Ferenc Puskas").
+
+---
+
+### 2. **Numerical Values (B)**
+- **Definition:** Any change in numbers, dates, units, or ordinals (1st, 2nd, etc.).
+- **Clues:**
+  - Numbers (population, years, counts) are different between source and translation.
+  - Dates are changed (e.g., "1759" → "1659").
+  - Units are changed (e.g., "m" to "km", "ha" to "km", "Meter" to "mile").
+  - Ordinals are changed (e.g., "34." → "39th").
+  - Ranges are changed (e.g., "76–82" → "76–82" but "260" → "360").
+- **Common Traps:**
+  - Numbers that look similar but are not the same.
+  - Units of measurement (meters vs. kilometers, etc.).
+  - Years and dates, especially in historical contexts.
+  - Population numbers, counts of objects, or event numbers.
+
+---
+
+### 3. **Modifiers or Adjectives (A)**
+- **Definition:** Adjectives or descriptive words attached to nouns are changed, omitted, or replaced.
+- **Clues:**
+  - Words like "former", "German", "French", "large", "small", "baroque", "modern", etc., are changed or missing.
+  - The translation omits or changes a descriptive word (e.g., "ehemalige britische Ruderin" → "British rower" [missing "former"]).
+  - Nationality or other descriptors are changed (e.g., "deutsche Bildhauerin" → "French sculptor").
+  - Adjectives describing the type or quality of something are altered (e.g., "mittelalterlicher Bau" → "modern building").
+- **Common Traps:**
+  - Nationality adjectives (German, Austrian, etc.).
+  - Words like "former", "current", "main", "largest", "smallest", etc.
+  - Descriptive adjectives about objects or people.
+
+---
+
+### 4. **Negation or Antonyms (C)**
+- **Definition:** A negation is added/removed, or a word is replaced with its opposite (antonym).
+- **Clues:**
+  - "Not", "no", "never", "none" is added or missing.
+  - Adjectives/adverbs are replaced with their opposites (e.g., "living" ↔ "extinct", "lime-loving" ↔ "lime-hating", "beginning" ↔ "end", "third largest" ↔ "third smallest").
+  - Comparative or superlative adjectives are reversed.
+- **Common Traps:**
+  - Subtle changes in meaning (e.g., "ausgestorben" [extinct] → "living").
+  - "Former" vs. "current".
+  - "Largest" vs. "smallest", "earliest" vs. "latest".
+
+---
+
+### 5. **Facts (F)**
+- **Definition:** Factual errors that do not fit the above categories (e.g., wrong profession, wrong type, wrong function, but not a named entity or number).
+- **Clues:**
+  - The translation gives a wrong fact (e.g., "Schauspieler" [actor] → "director").
+  - The type or function is wrong (e.g., "Schreibmaschine" [typewriter] → "vehicle").
+  - The translation changes the subject to something else (e.g., "Gerichte" [courts] → "stadiums").
+  - The translation gives a wrong family, group, or category (e.g., "Rabenvögel" [corvids] → "Columbine family").
+- **Common Traps:**
+  - Profession or type is changed (e.g., "Malerin" [painter] → "dancer").
+  - The translation is plausible but not correct.
+  - The translation is too generic or too specific in a way that changes the fact.
+
+---
+
+### 6. **Dropped Content (E)**
+- **Definition:** A significant clause or piece of information is missing from the translation.
+- **Clues:**
+  - The translation is much shorter than the source and omits a key clause or fact.
+  - Numbers, names, or descriptors are missing entirely.
+  - The translation leaves out a whole phrase or sentence that is present in the source.
+- **Common Traps:**
+  - Only part of the original sentence is translated.
+  - Lists or enumerations are cut short.
+  - Important context or qualifiers are missing.
+
+---
+
+## **Quick Decision Tree**
+1. **Is a name, place, or unique entity changed or omitted?** → **Named Entities (D)**
+2. **Is a number, date, or unit changed?** → **Numerical Values (B)**
+3. **Is an adjective or descriptive word changed, omitted, or replaced?** → **Modifiers or Adjectives (A)**
+4. **Is a negation added/removed, or is an antonym used?** → **Negation or Antonyms (C)**
+5. **Is a factual detail wrong, but not a name, number, or adjective?** → **Facts (F)**
+6. **Is a significant clause or information missing?** → **Dropped Content (E)**
+
+---
+
+**Tip:** If you’re unsure, check for numbers and names first—they are the most clear-cut. If not, look for adjectives or negations. If none of these, and the translation is just factually wrong, pick Facts (F).
+
+---
+
+**End of Cheat Sheet**
+
+Follow the format of the examples below in your response.
+
+Question: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Ruth Lynn Deech, Baroness Deech DBE ist eine britische Juristin und Hochschullehrerin, die seit 2005 als Life Peeress Mitglied des House of Lords ist.
+Translation: Ruth Lynn Deech, Baroness Deech DBE is a British lawyer and university lecturer who has been a life peer of the House of Lords since 2015.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+Answer: (B)
+###
+Question: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Beth Clare Rodford ist eine ehemalige britische Ruderin.
+Translation: Beth Clare Rodford is a British rower.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+Answer: (A)

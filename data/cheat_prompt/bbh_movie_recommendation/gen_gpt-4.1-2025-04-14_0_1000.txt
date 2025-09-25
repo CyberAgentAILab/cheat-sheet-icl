@@ -1,0 +1,128 @@
+---
+
+## CHEAT SHEET: "Find a Movie Similar To..." (Difficult Cases)
+
+### 1. **Identify the Main Pattern**
+- **Era/Decade:** Most correct answers are from the same decade as the given movies (often 1990s, sometimes 1980s or 2000s).
+- **Genre:** Match the dominant genres (e.g., action, adventure, drama, crime, sci-fi, animation, family).
+- **Fame/Recognition:** The answer is almost always a well-known, mainstream, or critically acclaimed film.
+- **Tone/Style:** If the given movies are light-hearted, family-friendly, or epic, the answer should match that tone.
+
+---
+
+### 2. **Common Movie Pools**
+- **1990s Hollywood Blockbusters:** The Shawshank Redemption, Forrest Gump, Pulp Fiction, Braveheart, Schindler’s List, The Fugitive, Dances with Wolves, The Lion King, Toy Story, Pretty Woman, Apollo 13, Independence Day, Jurassic Park, The Silence of the Lambs, Batman, The Mask, Get Shorty, The Usual Suspects, Crimson Tide, Fargo, Goodfellas, LA Confidential, Philadelphia, True Lies, Heat, Seven, Forrest Gump, The Matrix, Gladiator, Gattaca, Inception.
+- **Classic Animation/Family:** The Lion King, Aladdin, Toy Story, Beauty and the Beast, Pinocchio, The Jungle Book, The Wizard of Oz, Snow White, Fantasia.
+- **Classic Sci-Fi/Adventure:** Star Wars (original trilogy), Raiders of the Lost Ark, The Terminator, Back to the Future, The Matrix, Terminator 2, Independence Day, Stargate, The Fifth Element.
+- **Crime/Drama/Thriller:** Pulp Fiction, The Shawshank Redemption, The Usual Suspects, Goodfellas, LA Confidential, Fargo, Seven, The Silence of the Lambs, Heat, Get Shorty, Crimson Tide, The Fugitive.
+
+---
+
+### 3. **How to Eliminate Wrong Options**
+- **Obscure/Unfamiliar Titles:** If you don’t recognize a title, it’s probably not the answer.
+- **Genre Mismatch:** If the option is a comedy and the given movies are all dramas, eliminate it.
+- **Era Mismatch:** If the option is from a much earlier or later decade, eliminate it.
+- **Foreign/Indie/Low-Profile:** If the option is a foreign film or a low-profile indie, and the given movies are Hollywood blockbusters, eliminate it.
+
+---
+
+### 4. **Special Patterns & Tricky Cases**
+- **Franchise/Sequel/Director Overlap:** If the given movies are from a franchise or share a director, and an option is from the same franchise/director, it’s likely the answer.
+- **Animation Among Live-Action:** If the list includes both animation and live-action, the answer can be either, but it must be a *famous* one from the same era.
+- **Mix of Genres:** If the given movies are a mix (e.g., action, drama, animation), the answer is usually a famous, mainstream film from the same period, even if the genre is not an exact match.
+- **Critical Acclaim:** If all the given movies are Oscar winners/nominees or have high critical acclaim, the answer should be similarly acclaimed.
+
+---
+
+### 5. **When Multiple Options Seem Plausible**
+- **Choose the Most Famous:** Go with the most universally recognized title.
+- **Check for Cast/Director Overlap:** Sometimes, the answer shares actors or directors with the given movies.
+- **Check for Cultural Impact:** The answer should have a similar level of cultural impact as the given movies.
+
+---
+
+### 6. **Examples of Subtle Connections**
+- **Animation/Family:** If the list includes The Lion King, Toy Story, Aladdin, the answer is likely another 90s animation (e.g., Beauty and the Beast, Pinocchio).
+- **Crime/Drama:** If the list includes Pulp Fiction, The Usual Suspects, The Shawshank Redemption, the answer is likely another 90s crime/drama (e.g., Get Shorty, LA Confidential, Seven).
+- **Action/Adventure/Sci-Fi:** If the list includes Star Wars, The Matrix, Raiders of the Lost Ark, the answer is likely another big-budget action/sci-fi/adventure from the same era (e.g., Terminator 2, Independence Day, The Fifth Element).
+- **Historical/Epic Drama:** If the list includes Braveheart, Schindler’s List, Dances with Wolves, the answer is likely another 90s historical/epic drama (e.g., Apollo 13, Gladiator, Philadelphia).
+
+---
+
+### 7. **If Stuck: Default to These Titles**
+If you’re unsure, and the options include any of these, they are *very* often correct:
+- The Shawshank Redemption
+- Forrest Gump
+- Braveheart
+- Dances with Wolves
+- The Fugitive
+- Pulp Fiction
+- The Lion King
+- Independence Day
+- Terminator 2: Judgment Day
+- Get Shorty
+- LA Confidential
+- Gladiator
+- Raiders of the Lost Ark
+- Toy Story
+- The Matrix
+
+---
+
+### 8. **Quick Reference Table**
+
+| Given List Features                | Look for Option Like...         |
+|------------------------------------|---------------------------------|
+| 90s Hollywood, drama/crime         | Shawshank, Pulp Fiction, Usual Suspects, Get Shorty, LA Confidential, Seven, Forrest Gump |
+| 90s Hollywood, action/adventure    | The Fugitive, Terminator 2, Independence Day, Gladiator, True Lies, Heat, Braveheart |
+| 90s Animation/Family               | The Lion King, Aladdin, Toy Story, Beauty and the Beast, Pinocchio |
+| 80s/90s Sci-Fi/Adventure           | Star Wars, Raiders, The Matrix, Terminator 2, Back to the Future, Fifth Element |
+| Historical/Epic                    | Braveheart, Dances with Wolves, Apollo 13, Gladiator, Schindler’s List |
+| Mix of genres, all famous          | Pick the most famous, acclaimed, or era-matching option |
+
+---
+
+### 9. **Red Flags for Wrong Answers**
+- Obscure, foreign, or recent indie films
+- Comedies when the list is all drama/thriller
+- Animated films when the list is all live-action (unless the animation is a 90s classic)
+- Movies from a much earlier or later decade
+
+---
+
+**REMEMBER:**  
+When in doubt, match **era + genre + fame/impact**. If you see a 90s classic among the options and the list is 90s classics, pick it!
+
+---
+
+**End of Cheat Sheet**
+
+Follow the format of the examples below in your response.
+
+Question: Find a movie similar to The Lord of the Rings The Two Towers, Raiders of the Lost Ark, The Lord of the Rings The Fellowship of the Ring, Inception:
+Options:
+(A) Ladybugs
+(B) American Ultra
+(C) Saving Private Ryan
+(D) Siam Sunset
+Reasoning: Let's think step by step.
+- The Lord of the Rings: The Two Towers (action, adventure, fantasy; 2002)
+- Raiders of the Lost Ark (action, adventure; 1981)
+- The Lord of the Rings: The Fellowship of the Ring (action, adventure, fantasy; 2001)
+- Inception (action, adventure, science-fiction; 2010)
+These are all well-known, big-budget Hollywood movies with action and adventure elements, often featuring epic storytelling and famous directors/actors. Among the options, Saving Private Ryan (action, drama, war; 1998) is also a famous Hollywood blockbuster directed by Steven Spielberg and starring major actors, similar in scale and style to the movies listed. So the answer is (C).
+Answer: (C)
+###
+Question: Find a movie similar to The Mask, Batman, Pretty Woman, The Fugitive:
+Options:
+(A) Babe
+(B) What We Do in the Shadows
+(C) Game of Death
+(D) Eastern Promises
+Reasoning: Let's think step by step.
+- The Mask (comedy, fantasy, action; 1994)
+- Batman (action, crime, superhero; 1989)
+- Pretty Woman (romantic comedy; 1990)
+- The Fugitive (action, thriller; 1993)
+These are all popular mainstream Hollywood movies from the 1990s, often with a light-hearted or adventurous tone. Among the options, Babe (family, comedy, drama; 1995) is also a well-known, family-friendly film from the same era. The other options are either much darker or from different genres. So the answer is (A).
+Answer: (A)

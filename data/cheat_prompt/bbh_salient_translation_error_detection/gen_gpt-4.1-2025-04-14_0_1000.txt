@@ -1,0 +1,150 @@
+---
+
+## CHEAT SHEET: Translation Error Types
+
+### 1. **Named Entities (D)**
+- **Definition:** Names of people, places, organizations, or specific titles are changed, omitted, or replaced with a different entity.
+- **Cues:**
+  - Is a proper noun (person, place, organization, title) changed to a different one, or omitted?
+  - Is a specific name replaced with a generic term or a different name?
+  - Is a location, country, or region changed (e.g., "Ukraine" → "Russia")?
+  - Is a scientific or technical name (e.g., "Asteraceae") replaced with another or a generic term?
+- **Common traps:** 
+  - Shortening a full name to just a first or last name (e.g., "Georg Otto Bussenius" → "Otto").
+  - Translating a place name incorrectly (e.g., "Neu-Ulm" → "New-York").
+  - Changing a family, genus, or organization name.
+
+---
+
+### 2. **Numerical Values (B)**
+- **Definition:** Any change in numbers, dates, ordinals, units, or quantities.
+- **Cues:**
+  - Is a number (year, count, percentage, ordinal) different in the translation?
+  - Are units changed (e.g., "km" → "mm", "m" → "ft")?
+  - Is a date or time period changed or added/omitted?
+  - Is a number missing or replaced with a different one?
+- **Common traps:**
+  - 2200 → 22000, 67 → 77, 4 → 40, 19th century → 190th century.
+  - "No. 6" → "No. 7", "34th" → "39th".
+  - Adding a date not present in the source.
+
+---
+
+### 3. **Modifiers or Adjectives (A)**
+- **Definition:** The descriptive word(s) attached to a noun are changed, omitted, or replaced.
+- **Cues:**
+  - Is an adjective or descriptive phrase (e.g., "German", "former", "hydroelectric", "state") missing or changed?
+  - Is the type or quality of a noun altered (e.g., "jazz musician" → "hit musician", "rural town" → "urban town")?
+  - Is a nationality, profession, or other descriptor changed (e.g., "Austrian" → "Australian")?
+  - Is a scientific or technical modifier changed (e.g., "wear-free brake" → "brake")?
+- **Common traps:**
+  - Dropping "former", "state", "German", "practical", "immovable", etc.
+  - Changing "hydroelectric" to "solar", "Austrian" to "Australian", "Swiss" to "Canadian".
+
+---
+
+### 4. **Negation or Antonyms (C)**
+- **Definition:** The meaning is reversed by introducing/removing a negation or using an antonym.
+- **Cues:**
+  - Is a word replaced with its opposite (e.g., "open" → "closed", "extinct" → "living", "beginning" → "end")?
+  - Is a negative prefix added or removed (e.g., "listed" → "unlisted", "alcoholic" → "non-alcoholic")?
+  - Is a comparative or superlative reversed (e.g., "largest" → "smallest", "complete" → "incomplete")?
+- **Common traps:**
+  - "lime-loving" → "lime-hating", "medieval" → "modern", "fast" → "small", "complete" → "incomplete".
+
+---
+
+### 5. **Facts (F)**
+- **Definition:** A factual error is introduced that does not fit the above categories.
+- **Cues:**
+  - Is the profession, material, or type of thing wrong (e.g., "painter" → "dancer", "village" → "mall", "river" → "dam")?
+  - Is a word mistranslated to a different but not opposite meaning (e.g., "genus" → "genius", "stadium" instead of "court")?
+  - Is a detail added that is not in the source, but not a number or name (e.g., "who plays as a striker" when not specified)?
+  - Is the scope or nature of the subject changed (e.g., "region" → "country", "bird drawings" → "birds")?
+- **Common traps:**
+  - Changing professions, types, or materials.
+  - Mistranslating a word to a different but not opposite meaning.
+  - Adding a detail not present in the source (unless it's a number/date—then it's (B)).
+
+---
+
+### 6. **Dropped Content (E)**
+- **Definition:** A significant clause or important information is omitted in the translation.
+- **Cues:**
+  - Is a location, date, or descriptive clause missing?
+  - Is a list or additional information present in the source but not in the translation?
+  - Is a significant part of the sentence (not just a modifier) missing?
+- **Common traps:**
+  - Omitting population, region, or other key details.
+  - Omitting a second item in a list (e.g., "and Lower Saxony").
+  - Omitting a clause about what is protected, included, or described.
+
+---
+
+## **Decision Tree for Error Type**
+1. **Is a number, date, or unit changed, added, or omitted?**  
+   → **Numerical Values (B)**
+2. **Is a proper noun (name, place, organization, scientific name) changed, omitted, or replaced?**  
+   → **Named Entities (D)**
+3. **Is an adjective or descriptive word/phrase changed, omitted, or replaced?**  
+   → **Modifiers or Adjectives (A)**
+4. **Is the meaning reversed (negation, antonym, comparative/superlative flipped)?**  
+   → **Negation or Antonyms (C)**
+5. **Is a significant clause or important information missing?**  
+   → **Dropped Content (E)**
+6. **Is there a factual error not covered by the above (wrong profession, material, type, etc.)?**  
+   → **Facts (F)**
+
+---
+
+## **Quick Reference Table**
+
+| Error Type | What to Look For | Examples/Keywords |
+|------------|------------------|-------------------|
+| (A) Modifiers/Adjectives | Adjective/descriptor changed or missing | "German" → "French", "hydroelectric" → "solar", "former" dropped |
+| (B) Numerical Values | Number, date, unit changed/added/omitted | 67 → 77, 2200m → 22000m, km → mm, 4 → 40 |
+| (C) Negation/Antonyms | Opposite meaning, negation added/removed | "open" → "closed", "alcoholic" → "non-alcoholic", "listed" → "unlisted" |
+| (D) Named Entities | Name/place/organization changed/omitted | "Neu-Ulm" → "New-York", "Dazaifu" → "Darfur", "Otto" for "Georg Otto Bussenius" |
+| (E) Dropped Content | Significant clause/info missing | Omitted population, region, or list item |
+| (F) Facts | Factual error not above | "painter" → "dancer", "village" → "mall", "stadium" for "court" |
+
+---
+
+**Tip:**  
+If you are torn between (A) and (F), ask: Is it a descriptor (A) or a factual error about the type/nature of the thing (F)?  
+If you are torn between (D) and (E), ask: Is it a name/entity (D) or a missing clause/detail (E)?
+
+---
+
+**Use this sheet to quickly classify the error type by matching the error in the translation to the cues and examples above!**
+
+Follow the format of the examples below in your response.
+
+Question: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Mohammed Rabiu ist ein ghanaischer Fußballspieler.
+Translation: Mohammed Rabiu is a Ghanaian footballer who plays as a striker.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+Reasoning: Let's think step by step.
+We solve this question by first translating the source sentence to English and then by comparing our translation with the provided translation. According to Google Translate, the correct translation of the source sentence from German to English is "Mohammed Rabiu is a Ghanaian footballer." The provided translation is "Mohammed Rabiu is a Ghanaian footballer who plays as a striker." The original sentence does not specify the position that Mohammed Rabiu plays, but the translation adds the detail "who plays as a striker," which is not present in the source and may not be factually correct. Because a trivial factual error not pertaining to the other classes is introduced in the translation, the translation contains an error pertaining to Facts. So the answer is (F).
+Answer: (F)
+###
+Question: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: NGC 1767 ist die Bezeichnung eines Emissionsnebels mit einem eingebetteten offenen Sternhaufen im Sternbild Dorado.
+Translation: NGC 1767 is an emission nebula with an embedded closed cluster in the constellation Dorado.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+Reasoning: Let's think step by step.
+
+We solve this question by first translating the source sentence to English and then by comparing our translation with the provided translation. According to Google Translate, the correct translation of the source sentence from German to English is "NGC 1767 is the designation of an emission nebula with an embedded open star cluster in the constellation Dorado." The provided translation says, "NGC 1767 is an emission nebula with an embedded closed cluster in the constellation Dorado." The key difference is that "offenen Sternhaufen" means "open cluster," but the translation says "closed cluster," which is the antonym. Because the translation changes "open" to "closed," it introduces an antonym, so the translation contains an error pertaining to Negation or Antonyms. So the answer is (C).
+Answer: (C)

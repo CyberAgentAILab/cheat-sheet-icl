@@ -1,0 +1,115 @@
+**Alphabetical Sorting Cheat Sheet**
+
+Use this guide for sorting lists of words alphabetically, especially for long or tricky lists.
+
+---
+
+### 1. **General Rules**
+- **Sort by the first letter** of each word.
+- If the first letter is the same, **compare the second letter**, and so on.
+- **Ignore case** (treat uppercase and lowercase as the same).
+- **Spaces and punctuation**: Ignore spaces, apostrophes, hyphens, and other punctuation for sorting purposes.
+- **Numbers**: If present, numbers come before letters.
+
+---
+
+### 2. **Step-by-Step Process**
+1. **Write all words in a vertical list.**
+2. **Compare the first letter** of each word.
+3. If two or more words share the same first letter, **compare the next letter**.
+4. Continue comparing subsequent letters until the order is clear.
+5. If a word is a prefix of another (e.g., "bat" and "batch"), the shorter word comes first.
+
+---
+
+### 3. **Special Cases**
+- **Identical beginnings**: If words start with the same sequence, the shorter word comes first.
+  - Example: "bat", "batch" → "bat" before "batch"
+- **Hyphenated/compound words**: Treat as if the hyphen is not there.
+  - Example: "co-op", "coop" → "co-op" before "coop" (since "-" is ignored, "co-op" is treated as "coop")
+- **Apostrophes and other punctuation**: Ignore for sorting.
+  - Example: "can't", "cant" → "cant" before "can't"
+- **Spaces**: Ignore spaces.
+  - Example: "new york", "newark" → "new york" before "newark"
+- **Numbers**: If a word starts with a number, it comes before words starting with letters.
+
+---
+
+### 4. **Tricky Letter Pairs**
+- **'ch' vs 'ci'**: "ch" comes before "ci" (e.g., "char", "ciao")
+- **'ph' vs 'pi'**: "ph" comes before "pi" (e.g., "phase", "piano")
+- **'qu' vs 'ra'**: "qu" comes before "ra" (e.g., "quack", "rabbit")
+- **'s' vs 'sh'**: "s" comes before "sh" (e.g., "sap", "sham")
+- **'st' vs 'su'**: "st" comes before "su" (e.g., "star", "sun")
+- **'th' vs 'ti'**: "th" comes before "ti" (e.g., "than", "tide")
+- **'w' vs 'wh'**: "w" comes before "wh" (e.g., "war", "what")
+
+---
+
+### 5. **Handling Long Lists**
+- **Write the words in a column.**
+- **Sort in stages**: First by first letter, then by second, etc.
+- **Group words with the same starting letters together** and sort those subgroups.
+
+---
+
+### 6. **Practice with Examples**
+- **Example 1**: "align", "allot", "alot"
+  - "align" (a-l-i), "allot" (a-l-l), "alot" (a-l-o)
+  - Order: "align", "allot", "alot"
+- **Example 2**: "bat", "batch", "bath"
+  - "bat" (b-a-t), "batch" (b-a-t-c), "bath" (b-a-t-h)
+  - Order: "bat", "batch", "bath"
+- **Example 3**: "ape", "apex", "apiece"
+  - "ape" (a-p-e), "apex" (a-p-e-x), "apiece" (a-p-i)
+  - Order: "ape", "apex", "apiece"
+
+---
+
+### 7. **Common Mistakes to Avoid**
+- **Don’t sort by word length** unless all letters are identical up to the length of the shorter word.
+- **Don’t skip letters**: Always compare each letter in order.
+- **Don’t be distracted by capitalization or punctuation**.
+
+---
+
+### 8. **Quick Reference Table**
+
+| Letter Order | Example |
+|--------------|---------|
+| a before b   | apple, banana |
+| ab before ac | abbot, ace |
+| bat before batch | bat, batch |
+| can before can't | can, can't |
+| co before con | coat, cone |
+| s before sh  | sap, sham |
+| st before su | star, sun |
+| t before th  | tab, than |
+| w before wh  | war, what |
+
+---
+
+### 9. **If Stuck**
+- Write the words out, one per line.
+- Compare letter by letter.
+- If two words are identical up to a point, the shorter word comes first.
+
+---
+
+**Tip:** For very long lists, consider breaking them into smaller groups, sorting each, then merging.
+
+---
+
+**Remember:** Alphabetical order is determined by comparing each letter in sequence, ignoring case and punctuation, and shorter words come first if all compared letters are the same.
+
+---
+
+**Practice a few times before the test to build speed and confidence!**
+
+Follow the format of the examples below in your response.
+
+Question: Sort the following words alphabetically: List: oblong bucolic whoosh
+Answer: bucolic oblong whoosh
+###
+Question: Sort the following words alphabetically: List: spontaneity smooth execrable epaulet bobbin calumny hun anastasia omnipotent award hostelry macedon roughshod burrow align apache putty adsorption anastomotic
+Answer: adsorption align anastasia anastomotic apache award bobbin burrow calumny epaulet execrable hostelry hun macedon omnipotent putty roughshod smooth spontaneity

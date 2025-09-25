@@ -1,0 +1,159 @@
+---
+
+## SVG Path to Shape Cheat Sheet
+
+### 1. **Recognizing Polygons by Path Structure**
+
+#### **General Tips**
+- **Count the number of unique points** (excluding repeated start/end points).
+- **Look for repeated "L" (lineto) commands**: Each "L" usually means a new vertex.
+- **"M" (moveto) starts a new subpath**; sometimes used for complex polygons.
+
+#### **Polygon Sides**
+- **Triangle**: 3 points, path closes after 3 lines.
+- **Quadrilateral (Kite, Trapezoid, Rectangle)**: 4 points, but see below for distinctions.
+- **Pentagon**: 5 points.
+- **Hexagon**: 6 points.
+- **Heptagon**: 7 points.
+- **Octagon**: 8 points.
+
+#### **Polygon Clues**
+- **If the path has more than one "M" and several "L" commands, count all unique points.**
+- **If the path returns to the starting point, it's a closed shape.**
+- **If the path has a mix of "L" and "M" and the number of unique points matches a polygon, that's your answer.**
+
+---
+
+### 2. **Distinguishing Similar Quadrilaterals**
+
+#### **Kite**
+- 4 points, but two pairs of adjacent sides are equal.
+- Often, the path "zig-zags" (e.g., L A B L C D L A).
+- The shape looks like a diamond or arrowhead.
+
+#### **Trapezoid**
+- 4 points, but only one pair of sides is parallel.
+- Often, the path is a simple 4-point closed shape, but not a rectangle or kite.
+- If the points are not at right angles and not symmetric, suspect a trapezoid.
+
+#### **Rectangle**
+- 4 points, all angles 90°, sides parallel.
+- Path will have four "L" commands, and the coordinates will show two x-values and two y-values.
+
+---
+
+### 3. **Recognizing Ellipses and Circles**
+
+#### **Arc Command ("A")**
+- **A rx,ry ...**: This is an elliptical arc.
+- If **rx = ry** and the arc sweeps a full circle, it's a **circle**.
+- If **rx ≠ ry** or the arc doesn't close a full circle, it's an **ellipse**.
+
+#### **Full Ellipse/Circle**
+- If the path is:  
+  `M x1,y1 A rx,ry ... x2,y2 A rx,ry ... x1,y1`  
+  and the arc flags are such that the path closes the shape, it's an ellipse or circle.
+
+#### **Sector**
+- If the path is:  
+  `M x1,y1 L x2,y2 A ... L x1,y1`  
+  (i.e., line to arc to line back), it's a **sector** (pie slice).
+
+---
+
+### 4. **Other Tricky Cases**
+
+#### **Pentagon, Hexagon, Heptagon, Octagon**
+- **Count the points**: 5, 6, 7, 8 respectively.
+- **If the path is complex, count all unique "L" destinations.**
+- **If the path has multiple "M" commands, include all subpaths in the count.**
+
+#### **Multiple Subpaths**
+- If the path has several "M" commands, treat each as a new segment, but count all unique points for the total.
+
+---
+
+### 5. **Quick Reference Table**
+
+| Sides/Points | Shape      | Notes                                                      |
+|--------------|------------|------------------------------------------------------------|
+| 3            | Triangle   | 3 unique points, closed path                              |
+| 4            | Kite       | 4 points, zig-zag, not parallel sides                     |
+| 4            | Trapezoid  | 4 points, only one pair of parallel sides                 |
+| 4            | Rectangle  | 4 points, right angles, parallel sides                    |
+| 5            | Pentagon   | 5 points, closed path                                     |
+| 6            | Hexagon    | 6 points, closed path                                     |
+| 7            | Heptagon   | 7 points, closed path                                     |
+| 8            | Octagon    | 8 points, closed path                                     |
+| Arc + Line   | Sector     | "A" command + lines, not a full ellipse/circle            |
+| Arc (rx=ry)  | Circle     | "A" command, rx=ry, full circle                           |
+| Arc (rx≠ry)  | Ellipse    | "A" command, rx≠ry, full ellipse                          |
+
+---
+
+### 6. **Sample Path Patterns**
+
+- **Polygon**:  
+  `M x1,y1 L x2,y2 L x3,y3 ... L xN,yN L x1,y1`  
+  (N = number of sides)
+
+- **Ellipse/Circle**:  
+  `M x1,y1 A rx,ry ... x2,y2 A rx,ry ... x1,y1`  
+  (rx=ry for circle, rx≠ry for ellipse)
+
+- **Sector**:  
+  `M x1,y1 L x2,y2 A ... L x1,y1`
+
+---
+
+### 7. **Special Notes**
+
+- **If the path is just two points with one "L", it's a line.**
+- **If the path is a single "A" command with no lines, it's an arc (part of an ellipse or circle).**
+- **If the path is a mix of "L" and "A" and closes, check for sector or ellipse.**
+
+---
+
+**Use this cheat sheet to:**
+- Count unique points for polygons.
+- Identify arc commands for ellipses/circles/sectors.
+- Distinguish between kites, trapezoids, rectangles by side/angle clues.
+- Use the quick reference table for fast lookup.
+
+---
+
+**Tip:**  
+When in doubt, sketch the points on scratch paper to visualize the shape!
+
+---
+
+Follow the format of the examples below in your response.
+
+Question: This SVG path element <path d="M 60.52,56.12 L 42.84,58.73 M 42.84,58.73 L 41.14,47.23 L 58.82,44.63 M 58.82,44.63 L 57.13,33.13 L 76.53,48.34 L 62.21,67.61 M 62.21,67.61 L 60.52,56.12"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+Answer: (B)
+###
+Question: This SVG path element <path d="M 88.15,50.85 L 29.10,66.32 M 29.10,66.32 L 23.82,46.15 M 23.82,46.15 L 82.87,30.69 L 88.15,50.85"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+(K) trapezoid
+Answer: (K)

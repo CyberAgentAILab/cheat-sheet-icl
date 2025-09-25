@@ -1,0 +1,113 @@
+**Cheat Sheet for Plausibility Questions (Difficult Cases Only)**
+
+---
+
+### 1. **Identifying the Athlete’s Sport**
+- **If you don’t know the athlete’s sport, look for clues in the name or context.**
+- If the athlete is not from the sport mentioned in the action/event, the answer is almost always **no**.
+
+---
+
+### 2. **Trick Plays & Rare Events**
+- **Football (NFL):**  
+  - *Quarterbacks* usually throw passes, but can catch passes on trick plays (e.g., "caught the screen pass" is plausible for a QB).
+  - *Wide receivers* usually catch passes, but can throw passes on trick plays (e.g., "threw a touchdown" is plausible for a WR).
+- **Hockey:**  
+  - *Goalies* rarely score, but it is possible (e.g., "scored in the third period" for a goalie is rare but plausible).
+- **Soccer:**  
+  - Scoring directly from a corner kick is rare but possible (called an "Olympic goal").
+- **Baseball:**  
+  - Pitchers can bat and walk to first base, especially in the National League.
+
+---
+
+### 3. **Ambiguous or Overlapping Terms**
+- **"Give and go":**  
+  - Used in both soccer and basketball, but not in hockey or baseball.
+- **"Nutmeg":**  
+  - Only used in soccer, not in hockey or basketball.
+- **"Maradona":**  
+  - Only a soccer move, not used in hockey or other sports.
+- **"Power play":**  
+  - Used in hockey and cricket, not in soccer, football, or basketball.
+- **"Buzzer beater":**  
+  - Only in basketball, not in hockey or soccer.
+- **"Goal tend":**  
+  - Only in basketball, not in football or soccer.
+- **"Three second violation":**  
+  - Only in basketball.
+
+---
+
+### 4. **Event/Competition Context**
+- **Stanley Cup:**  
+  - Only for ice hockey.
+- **Champions League Final, FA Cup, European Cup:**  
+  - Only for soccer.
+- **NFC/AFC Divisional Round, NFC/AFC Championship, Super Bowl:**  
+  - Only for American football.
+- **National League Championship Series:**  
+  - Only for baseball.
+- **NBA Championship, Eastern/Western Conference Finals:**  
+  - Only for basketball.
+
+---
+
+### 5. **Common Actions by Position**
+- **Football:**
+  - *Quarterbacks* throw/catch passes, can fumble, can be flagged.
+  - *Wide receivers* catch passes, can throw on trick plays.
+- **Baseball:**
+  - *Any player* can be out/safe at a base, walk, strike out, hit, etc.
+- **Hockey:**
+  - *Any player* can pass/shoot the puck, skate backwards, enter attacking zone, be in penalty box.
+- **Soccer:**
+  - *Any player* can score, take a throw-in, get a red card, perform a give and go, maradona, nutmeg, etc.
+
+---
+
+### 6. **Unlikely but Possible**
+- If the action is rare but possible (e.g., a goalie scoring in hockey, a WR throwing a touchdown in football), **answer yes** if the sport and event match.
+
+---
+
+### 7. **Name Ambiguity**
+- If the name is common and not specific to a known player in the sport of the action, **answer no** (e.g., "Pedro struck out the side"—Pedro is a soccer player, not a known baseball pitcher).
+
+---
+
+### 8. **Summary Table**
+
+| Action/Term                | Sport(s) Used In         | Notes/Exceptions                                  |
+|----------------------------|-------------------------|---------------------------------------------------|
+| Screen pass, slant pass    | American football       | Only plausible for football players               |
+| Walkoff homer, out at base | Baseball                | Only plausible for baseball players               |
+| Power play, penalty box    | Ice hockey              | Only plausible for hockey players                 |
+| Nutmeg, maradona, give/go  | Soccer                  | Only plausible for soccer players                 |
+| Buzzer beater, goal tend   | Basketball              | Only plausible for basketball players             |
+| Red card, handball         | Soccer                  | Only plausible for soccer players                 |
+| Endzone, first down        | American football       | Only plausible for football players               |
+| Three second violation     | Basketball              | Only plausible for basketball players             |
+| Skating, puck, blue line   | Ice hockey              | Only plausible for hockey players                 |
+| Throw-in, through ball     | Soccer                  | Only plausible for soccer players                 |
+
+---
+
+**When in doubt:**  
+- **Check if the athlete’s sport matches the action and event.**
+- **If not, answer "no".**
+- **If rare but possible, answer "yes".**
+
+---
+
+**Use this sheet to double-check tricky or ambiguous cases!**
+
+Follow the format of the examples below in your response.
+
+Question: Is the following sentence plausible? "Carson Wentz took to the ice."
+Reasoning: Let's think step by step. Carson Wentz is an American football quarterback. "Took to the ice" refers to playing ice hockey or figure skating, which is not related to football. So the answer is no.
+Answer: no
+###
+Question: Is the following sentence plausible? "Kailer Yamamoto performed a slide tackle in the European Cup."
+Reasoning: Let's think step by step. Kailer Yamamoto is an ice hockey player. Slide tackles are part of soccer, and the European Cup is a soccer tournament. So the answer is no.
+Answer: no

@@ -1,0 +1,126 @@
+---
+
+## CHEAT SHEET: "Find a Movie Similar To..." (90s/00s Hollywood Edition)
+
+### 1. **Identify the Pattern**
+- **Era:** Most source movies are from the 1980s, 1990s, or early 2000s.
+- **Genre:** Look for overlap in genre (action, adventure, drama, crime, sci-fi, animation, etc.).
+- **Fame/Acclaim:** The correct answer is almost always a well-known, critically acclaimed, or blockbuster film from the same era.
+- **Tone/Style:** If the source movies are serious dramas, avoid comedies or animated films unless the source list includes them.
+
+---
+
+### 2. **Step-by-Step Process**
+
+#### A. **Scan the Source List**
+- Note the **decade** (usually 80s/90s/00s).
+- Note the **genres** (action, drama, crime, adventure, animation, etc.).
+- Note if the movies are **mainstream/popular** or **cult/arthouse**.
+
+#### B. **Scan the Options**
+- Eliminate any option that is:
+  - Obscure or little-known.
+  - From a very different era (e.g., 1950s, 2010s if the source is 90s).
+  - A different genre (e.g., horror if the source is drama/adventure).
+  - Foreign/arthouse if the source is mainstream Hollywood.
+
+#### C. **Look for the Closest Match**
+- **Same era** is most important.
+- **Same genre** is next most important.
+- **Fame/critical acclaim** is also key.
+- If multiple options fit, pick the one with the most overlap in all three.
+
+---
+
+### 3. **Common Movie "Families"**
+- **90s Dramas/Crime/Thriller:** *The Shawshank Redemption, Pulp Fiction, The Fugitive, Braveheart, Schindler's List, Forrest Gump, Dances with Wolves, The Usual Suspects, Fargo, Dead Man Walking, Crimson Tide, Apollo 13, Philadelphia, Get Shorty, Goodfellas, LA Confidential, Heat, Seven, The Silence of the Lambs, Forrest Gump, The Mask, Batman, Pretty Woman, The Lion King, Aladdin, Toy Story, Jurassic Park, Independence Day, Terminator 2: Judgment Day, Raiders of the Lost Ark, Star Wars (original trilogy), The Matrix, Inception, Gladiator, Gattaca, Saving Private Ryan, etc.*
+- If the source list is mostly from this group, the answer is almost always another from this group.
+
+---
+
+### 4. **Special Cases**
+- **Animation/Family:** If the source list includes Disney or Pixar (e.g., The Lion King, Aladdin, Toy Story), the answer is likely another big 90s animated film.
+- **Sci-Fi/Action:** If the source list is heavy on sci-fi/action (e.g., The Matrix, Star Wars, Terminator 2, Independence Day), the answer is likely another blockbuster sci-fi/action from the same era.
+- **Crime/Drama:** If the source list is crime/drama heavy (e.g., Pulp Fiction, The Usual Suspects, Goodfellas, Fargo), the answer is likely another 90s crime/drama.
+- **Historical/Epic:** If the source list includes historical epics (e.g., Braveheart, Schindler's List, Dances with Wolves), the answer is likely another 90s historical drama.
+
+---
+
+### 5. **Red Flags for Wrong Answers**
+- **Obscure/foreign/arthouse** titles.
+- **Sequels/prequels** that are not as famous as the originals.
+- **Comedies** if the source list is all serious dramas (unless the comedy is a huge 90s hit).
+- **Animated/children’s movies** if the source list is all adult dramas (unless the source includes animation).
+
+---
+
+### 6. **If Stuck, Use These Tiebreakers**
+- **Which option is most famous?**
+- **Which option is closest in release year to the source list?**
+- **Which option shares the most genres with the source list?**
+- **Which option is most likely to be on a "Best of the 90s" list?**
+
+---
+
+### 7. **Quick Genre/Era Reference**
+- **90s Animation:** The Lion King, Aladdin, Toy Story, Beauty and the Beast, Babe
+- **90s Action/Sci-Fi:** Terminator 2, The Matrix, Independence Day, Jurassic Park, Stargate, The Fifth Element
+- **90s Drama/Crime:** Pulp Fiction, The Shawshank Redemption, The Usual Suspects, Goodfellas, LA Confidential, Fargo, Heat, Seven, Dead Man Walking, Crimson Tide, Get Shorty, Philadelphia, Forrest Gump, Dances with Wolves, Braveheart, Schindler's List, Apollo 13, The Fugitive
+- **80s/90s Adventure:** Raiders of the Lost Ark, Star Wars (original trilogy), Back to the Future, The Princess Bride, Batman
+
+---
+
+### 8. **Sample Elimination Table**
+
+| Option         | Era Match | Genre Match | Fame/Acclaim | Likely? |
+|----------------|-----------|-------------|--------------|---------|
+| Forrest Gump   | Yes       | Yes         | Yes          | Yes     |
+| The Lion King  | Yes       | Yes         | Yes          | Yes     |
+| Dances w/Wolves| Yes       | Yes         | Yes          | Yes     |
+| Crimson Tide   | Yes       | Yes         | Yes          | Yes     |
+| [Obscure Title]| No        | No          | No           | No      |
+
+---
+
+### 9. **If All Else Fails**
+- Pick the most famous, mainstream, 90s/early 00s Hollywood movie in the options.
+
+---
+
+**Remember:**  
+- The answer is almost never an obscure, foreign, or recent (post-2010) film unless the source list is also recent or obscure.
+- The answer is almost always a big, famous, 90s/00s Hollywood movie in the same genre family as the source list.
+
+---
+
+**Good luck!**
+
+Follow the format of the examples below in your response.
+
+Question: Find a movie similar to The Matrix, Star Wars Episode V - The Empire Strikes Back, Star Wars Episode IV - A New Hope, Forrest Gump:
+Options:
+(A) Pulp Fiction
+(B) Da geht noch was!
+(C) Hudson Hawk
+(D) The Brothers Grimm
+Reasoning: Let's think step by step.
+- The Matrix (action, science-fiction; 1999)
+- Star Wars Episode V - The Empire Strikes Back (action, adventure, fantasy; 1980)
+- Star Wars Episode IV - A New Hope (action, adventure, fantasy; 1977)
+- Forrest Gump (comedy, drama, romance; 1994)
+These are all well-known, popular Hollywood movies from the late 20th century, spanning action, adventure, and drama genres. Among the options, Pulp Fiction (crime, drama; 1994) is also a famous, influential American film from the same era. The other options are less well-known or do not fit the genre or era. So the answer is (A).
+Answer: (A)
+###
+Question: Find a movie similar to The Fugitive, Fargo, Groundhog Day, The Princess Bride:
+Options:
+(A) John Q
+(B) Raiders of the Lost Ark
+(C) No Man's Land
+(D) The Morning After
+Reasoning: Let's think step by step.
+- The Fugitive (action, crime, drama; 1993)
+- Fargo (crime, drama, thriller; 1996)
+- Groundhog Day (comedy, fantasy, romance; 1993)
+- The Princess Bride (adventure, family, fantasy; 1987)
+These are all well-known American movies from the late 1980s to 1990s, spanning genres like action, crime, comedy, and adventure. Among the options, Raiders of the Lost Ark (action, adventure; 1981) is a classic American adventure film from a similar era and style. So the answer is (B).
+Answer: (B)

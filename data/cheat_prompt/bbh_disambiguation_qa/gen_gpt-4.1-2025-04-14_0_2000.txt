@@ -1,0 +1,116 @@
+---
+
+# Pronoun Antecedent Cheat Sheet (for Difficult Cases)
+
+## 1. **Ambiguous Pronouns: When Both Antecedents Are Possible**
+- If both possible antecedents make sense grammatically and contextually, and there is no clear clue, the answer is **Ambiguous**.
+- **Common ambiguous structures:**
+  - "X did Y because (X or Y) Z."
+  - "X and Y discussed his/her/their Z."
+  - "X met with Y at his/her/their office."
+  - "X told Y that he/she/they did Z."
+- **Tip:** If you can substitute both X and Y and the sentence still makes sense, choose **Ambiguous**.
+
+## 2. **Causality and Motivation**
+- When a sentence uses "because" or "so," ask: Whose motivation or state is more likely to cause the action?
+  - "X did Y because (X or Y) was Z."
+    - If both X's and Y's state could plausibly cause the action, it's ambiguous.
+    - If only one makes sense (e.g., only the patient would be referred because they are ill), pick that one.
+
+## 3. **Possessive Pronouns in "X and Y discussed his/her/their Z"**
+- If both X and Y could plausibly own Z, and context doesn't clarify, it's **Ambiguous**.
+- If only one is likely (e.g., "culinary training" is more likely the chef's), pick that one.
+
+## 4. **Plural Pronouns ("they/their")**
+- "They" can refer to either a plural noun or a singular person of unknown gender.
+- If both singular and plural antecedents are possible, and context doesn't clarify, it's **Ambiguous**.
+- If only one makes sense (e.g., "the producers" is plural, "Sam" is singular), match number.
+
+## 5. **Pronouns in Reported Speech ("X told Y that he/she/they...")**
+- Usually, the pronoun refers to the person being talked about, not the person being talked to.
+- If X is telling Y about X's own action, it's usually X.
+- If X is telling Y about Y's action, it's less likely unless context supports it.
+
+## 6. **"Asked/Helped/Called" Structures**
+- "X called/asked/helped Y and asked/helped him/her/them to do Z."
+  - The pronoun usually refers to Y (the person being called/asked/helped), unless context says otherwise.
+  - If the action would not make sense for X to do to themselves, it's Y.
+
+## 7. **"X met with Y at his/her/their office"**
+- If both X and Y could plausibly own the office, and context doesn't clarify, it's **Ambiguous**.
+- If only one is likely (e.g., "her" and only one is female), pick that one.
+
+## 8. **"X told Y that he/she/they had Z" (e.g., a diagnosis)**
+- Usually, the pronoun refers to Y (the person being told), especially if the information is about a diagnosis or personal attribute.
+- If it would be odd for X to tell Y about Y's own state, then it's X.
+
+## 9. **"X gave Y feedback on his/her/their performance"**
+- Feedback is almost always about Y's performance (the person receiving feedback), unless context says otherwise.
+
+## 10. **"X called Y and asked them/her/him to do Z"**
+- The pronoun almost always refers to Y (the person being called), unless context says otherwise.
+
+## 11. **"X and Y will discuss his/her/their Z"**
+- If both X and Y could be the owner, and context doesn't clarify, it's **Ambiguous**.
+- If only one is plausible (e.g., "culinary training" is the chef's), pick that one.
+
+## 12. **"X did not know Y until he/she/they sent a letter"**
+- If both X and Y could have sent the letter, and context doesn't clarify, it's **Ambiguous**.
+
+## 13. **"X protected Y because he/she/they upholds the peace"**
+- If the reason fits only one role (e.g., "upholds the peace" fits sheriff), pick that one.
+- If both could fit, it's **Ambiguous**.
+
+---
+
+### **General Reasoning Steps**
+1. **Substitute each possible antecedent** for the pronoun and read the sentence.
+2. **Ask if both make sense** in context. If yes, it's ambiguous.
+3. **Check for role-based clues** (e.g., only a chef has culinary training, only a patient is diagnosed).
+4. **Check for number and gender agreement** (e.g., "her" can't refer to a group).
+5. **Consider typical conversational logic** (e.g., who would be told, who would be asked, who would be helped).
+6. **If in doubt and both are plausible, choose Ambiguous.**
+
+---
+
+**Remember:**  
+- If the sentence is equally plausible with either antecedent, or if the context does not clarify, the answer is **Ambiguous**.
+- If only one antecedent makes logical sense, pick that one.
+
+---
+
+**Practice:**  
+- For each test question, write out both possible substitutions and see if both are plausible.  
+- Use the above rules to guide your answer.
+
+---
+
+**End of Cheat Sheet**
+
+Follow the format of the examples below in your response.
+
+Question: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The mechanic disliked the cashier because he is arrogant.
+Options:
+(A) The mechanic is arrogant
+(B) The cashier is arrogant
+(C) Ambiguous
+Reasoning: Let's think step by step.  
+Here we need to determine who the pronoun "he" might be referring to. There are two possible referents for "he", namely the mechanic and the cashier. The sentence is of the form "X disliked Y because (X or Y) is arrogant."  
+Let's consider Y first: "X disliked Y because Y is arrogant." This makes sense, as it is common to dislike someone because of their arrogance.  
+Now, consider X: "X disliked Y because X is arrogant." This also makes sense, as sometimes people dislike others due to their own arrogance.  
+Because both interpretations are possible and the sentence does not provide enough context to decide between them, the antecedent of the pronoun is ambiguous. So the answer is (C).
+Answer: (C)
+###
+Question: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The patient was referred to the specialist because he is an expert on rare skin conditions.
+Options:
+(A) The patient is an expert
+(B) The specialist is an expert
+(C) Ambiguous
+Reasoning: Let's think step by step.  
+Here we need to determine who the pronoun "he" refers to. There are two possible referents: the patient and the specialist. The sentence is of the form "The patient was referred to the specialist because (he) is an expert on rare skin conditions."  
+Let's consider the patient: "The patient was referred to the specialist because the patient is an expert on rare skin conditions." This does not make sense, because if the patient were the expert, there would be no need for a referral.  
+Now, consider the specialist: "The patient was referred to the specialist because the specialist is an expert on rare skin conditions." This makes sense, as it explains the reason for the referral.  
+Therefore, the pronoun "he" refers to the specialist. So the answer is (B).
+Answer: (B)

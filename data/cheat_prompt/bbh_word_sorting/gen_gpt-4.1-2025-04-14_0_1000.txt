@@ -1,0 +1,140 @@
+**Alphabetical Sorting Cheat Sheet (for Difficult Cases)**
+
+---
+
+### 1. **General Approach**
+- **Step 1:** Compare the first letter of each word.
+- **Step 2:** If first letters are the same, compare the second letter, then third, etc., until a difference is found.
+- **Step 3:** If one word is a prefix of another (e.g., "trail" vs "trailside"), the shorter word comes first.
+- **Step 4:** For ties, continue comparing subsequent letters.
+
+---
+
+### 2. **Handling Groups with Same Starting Letters**
+- **List all words with the same first letter together.**
+- **Compare the second letter:**
+  - If different, order by the second letter.
+  - If the same, compare the third letter, and so on.
+- **If all compared letters are the same but one word is shorter, the shorter word comes first.**
+
+**Example:**
+- ["can't", "cascade", "condiment", "consignee"]
+  - 2nd letter: a, a, o, o → "can't", "cascade" before "condiment", "consignee"
+  - 3rd letter: n, s, n, n → "can't" before "cascade"
+  - For "condiment" vs "consignee": 4th letter d vs s → "condiment" before "consignee"
+
+---
+
+### 3. **Sorting Within Groups**
+- **For each group with the same first letter, sort by the next letter.**
+- **If multiple words have the same first and second letter, continue to the third, etc.**
+
+**Example:**
+- ["scottish", "scrumptious"]
+  - 3rd letter: o vs r → "scottish" before "scrumptious"
+
+---
+
+### 4. **Special Cases**
+- **Prefix Rule:** If one word is a prefix of another, the shorter word comes first.
+  - E.g., "trail" < "trailside"
+- **Apostrophes and Special Characters:** Ignore apostrophes and treat as if the letter is not there.
+  - E.g., "o'connell" is treated as "oconnell"
+
+---
+
+### 5. **Step-by-Step Example for a Complex List**
+Given: ["can't", "cascade", "condiment", "consignee"]
+- 1st letter: all "c"
+- 2nd letter: a, a, o, o → "can't", "cascade" before "condiment", "consignee"
+- 3rd letter: n, s, n, n → "can't" before "cascade"
+- For "condiment" and "consignee": 4th letter d vs s → "condiment" before "consignee"
+- **Final order:** can't, cascade, condiment, consignee
+
+---
+
+### 6. **When in Doubt:**
+- **Write out the words vertically, aligning letters, and compare each column.**
+- **If stuck, write the alphabet and assign each letter a number to help compare.**
+
+---
+
+### 7. **Common Pitfalls**
+- **Don't just look at the first letter!**
+- **Don't forget to check for prefix situations.**
+- **Be careful with words that have similar beginnings but diverge later.**
+
+---
+
+### 8. **Practice**
+- **Group words by first letter.**
+- **Within each group, sort by the next letter, and so on.**
+- **Always check for prefix cases.**
+
+---
+
+**Summary Table for Sorting:**
+
+| Step | What to Compare? | Action |
+|------|------------------|--------|
+| 1    | First letter     | Group words |
+| 2    | Second letter    | Sort within group |
+| 3    | Third letter     | Continue sorting |
+| 4    | Prefix?          | Shorter word first |
+| 5    | Special chars    | Ignore apostrophes |
+
+---
+
+**Use this process for any list, especially when words are similar or have many shared starting letters!**
+
+Follow the format of the examples below in your response.
+
+Question: Sort the following words alphabetically: List: oblong bucolic whoosh
+Reasoning: Let's think step by step.  
+The first letter: "oblong": "o" (15). "bucolic": "b" (2). "whoosh": "w" (23). We now have: (2) "bucolic" < (15) "oblong" < (23) "whoosh".  
+So the answer is bucolic oblong whoosh.
+Answer: bucolic oblong whoosh
+###
+Question: Sort the following words alphabetically: List: spontaneity smooth execrable epaulet bobbin calumny hun anastasia omnipotent award hostelry macedon roughshod burrow align apache putty adsorption anastomotic
+Reasoning: Let's think step by step.
+The first letter: "spontaneity": "s" (19). "smooth": "s" (19). "execrable": "e" (5). "epaulet": "e" (5). "bobbin": "b" (2). "calumny": "c" (3). "hun": "h" (8). "anastasia": "a" (1). "omnipotent": "o" (15). "award": "a" (1). "hostelry": "h" (8). "macedon": "m" (13). "roughshod": "r" (18). "burrow": "b" (2). "align": "a" (1). "apache": "a" (1). "putty": "p" (16). "adsorption": "a" (1). "anastomotic": "a" (1).
+
+Now, group by first letter:
+(1) ["adsorption", "align", "anastasia", "anastomotic", "apache", "award"]
+(2) ["bobbin", "burrow"]
+(3) "calumny"
+(5) ["epaulet", "execrable"]
+(8) ["hostelry", "hun"]
+(13) "macedon"
+(15) "omnipotent"
+(16) "putty"
+(18) "roughshod"
+(19) ["smooth", "spontaneity"]
+
+Now, sort each group:
+- "a" group: Compare second letters:
+  - "adsorption": "d"
+  - "align": "l"
+  - "anastasia": "n"
+  - "anastomotic": "n"
+  - "apache": "p"
+  - "award": "w"
+  So order: adsorption, align, anastasia, anastomotic, apache, award
+
+- "b" group: "bobbin" vs "burrow"
+  - Second letter: "bobbin": "o", "burrow": "u" → "bobbin" < "burrow"
+
+- "e" group: "epaulet" vs "execrable"
+  - Second letter: "p" vs "x" → "epaulet" < "execrable"
+
+- "h" group: "hostelry" vs "hun"
+  - Second letter: "o" vs "u" → "hostelry" < "hun"
+
+- "s" group: "smooth" vs "spontaneity"
+  - Second letter: "m" vs "p" → "smooth" < "spontaneity"
+
+Now, combine all in order:
+adsorption align anastasia anastomotic apache award bobbin burrow calumny epaulet execrable hostelry hun macedon omnipotent putty roughshod smooth spontaneity
+
+So the answer is adsorption align anastasia anastomotic apache award bobbin burrow calumny epaulet execrable hostelry hun macedon omnipotent putty roughshod smooth spontaneity.
+Answer: adsorption align anastasia anastomotic apache award bobbin burrow calumny epaulet execrable hostelry hun macedon omnipotent putty roughshod smooth spontaneity

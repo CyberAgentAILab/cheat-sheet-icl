@@ -1,0 +1,83 @@
+**Cheat Sheet for Plausibility Questions (Sports Actions & Athletes)**
+
+---
+
+### 1. **Identify the Athlete’s Sport**
+- **Football (NFL):** e.g., Tom Brady, Josh Allen, T.Y. Hilton, Joe Burrow, Keenan Allen, Brandin Cooks, Drew Brees, Philip Rivers, Sam Darnold, Ryan Tannehill, Courtland Sutton, Adam Thielen, Calvin Ridley, DJ Chark, Tyler Boyd, Amari Cooper, Deshaun Watson, etc.
+- **Basketball (NBA):** e.g., Kevin Durant, Malcolm Brogdon, Jayson Tatum, Ben Simmons, Kawhi Leonard, LaMelo Ball, Draymond Green, Michael Porter Jr., Kendrick Nunn, Malik Beasley, Dejounte Murray, Domantas Sabonis, Clint Capela, Delon Wright, Santi Cazorla (not NBA), etc.
+- **Baseball (MLB):** e.g., Mookie Betts, Max Scherzer, Luke Voit, Gleyber Torres, Freddie Freeman, Jack Flaherty, Michael Conforto, Jesus Luzardo, Brad Hand, Corbin Burnes, etc.
+- **Soccer (Football):** e.g., Yaya Toure, Gerard Pique, David Silva, Mario Balotelli, Toni Kroos, Andres Iniesta, Angel Di Maria, Marouane Fellaini, Bastian Schweinsteiger, Santi Cazorla, Ramires, Carles Puyol, Sergio Ramos, Neymar, Edinson Cavani, Didier Drogba, etc.
+- **Hockey (NHL):** e.g., Pierre-Luc Dubois, John Tavares, Tuukka Rask, Patrick Kane, Frederik Andersen, Mark Stone, Miro Heiskanen, Aleksander Barkov, Nazem Kadri, Dougie Hamilton, Robin Lehner, Ryan O’Reilly, Sean Couturier, etc.
+
+---
+
+### 2. **Common Actions by Sport**
+
+#### **Football (NFL)**
+- **Plausible:** caught the screen pass, threw a touchdown, converted the first down, gained five yards, drew a flag, went for it on fourth down, fumbled the ball, hit the slant pass, launched a hail mary, scored in the endzone.
+- **NOT Plausible:** scored a penalty kick, hit a triple, skated behind the net, was out at first/second/third/home, got on base, struck out the side, scored a freekick, scored a bicycle kick, took a three, called for icing, was called for slashing, performed a slide tackle, took a throw in, scored in added/extra time, nutmegged the defender, maradona’d the defender, etc.
+
+#### **Basketball (NBA)**
+- **Plausible:** took a charge, eurostepped to the basket, banked the shot in, called for the screen, took a turnaround jumper, beat the buzzer, bricked the three pointer, was called for the goal tend, performed a give and go, took a side-step three, drove into the restricted area, comitted a three second violation, launched the half court shot, etc.
+- **NOT Plausible:** scored a freekick, scored a penalty kick, grounded out to second, got on base, was out at first, scored a header goal, took a throw in, performed a slide tackle, nutmegged the defender, maradona’d the defender, etc.
+
+#### **Baseball (MLB)**
+- **Plausible:** got a base hit, was out at first/second/third/home, walked to first base, watched the pitch go by, was safe at first, struck out the side.
+- **NOT Plausible:** scored a freekick, scored a penalty kick, converted the first down, caught the screen pass, threw a touchdown, took a three, scored a bicycle kick, performed a give and go, etc.
+
+#### **Soccer (Football)**
+- **Plausible:** scored a freekick, scored a header goal, scored in extra/added time, performed a give and go, took a throw in, did a maradona, nutmegged the defender, scored a corner kick, earned a red card, performed a slide tackle, got on the end of a through ball, etc.
+- **NOT Plausible:** threw a touchdown, caught the screen pass, converted the first down, hit a triple, was out at first, took a three, was called for the goal tend, called for the screen, etc.
+
+#### **Hockey (NHL)**
+- **Plausible:** skated backwards, passed the puck, backhanded a shot, wristed a shot, scored in the third period, scored on the power play, entered the attacking zone, earned a trip to the penalty box, killed the powerplay, crossed the blue line, etc.
+- **NOT Plausible:** hit a walkoff homer, scored a penalty kick, took a three, called for the screen, performed a give and go, scored a freekick, etc.
+
+---
+
+### 3. **Common Action Phrases by Sport**
+- **Football:** screen pass, slant pass, hail mary, first down, endzone, flag on the play, fumbled the ball, went for it on fourth down.
+- **Basketball:** three pointer, half court shot, eurostep, charge, banked the shot, goal tend, restricted area, side-step three, buzzer beater, three second violation, called for the screen, turnaround jumper.
+- **Baseball:** base hit, out at first/second/third/home, walked to first, struck out the side, watched the pitch go by, safe at first.
+- **Soccer:** freekick, penalty kick, header goal, extra/added time, give and go, throw in, maradona, nutmeg, red card, slide tackle, through ball, corner kick.
+- **Hockey:** skated backwards, passed the puck, backhanded/wristed a shot, scored in the third period, power play, penalty box, killed the powerplay, blue line, attacking zone.
+
+---
+
+### 4. **Red Flags for Implausibility**
+- **Action from one sport with athlete from another:** e.g., "Kevin Durant hit a walkoff homer" (basketball player, baseball action) → NO
+- **Action from one sport in the context of another:** e.g., "Neymar took a backhand shot in the Stanley Cup" (soccer player, hockey action/event) → NO
+- **Position-specific actions:** e.g., "Bryce Harper hit the back shoulder fade" (baseball player, football action) → NO
+- **Event-specific actions:** e.g., "Adam Thielen scored in added time" (football player, soccer event) → NO
+
+---
+
+### 5. **Special Cases**
+- **Some actions are rare but possible:** e.g., "T.Y. Hilton threw a touchdown" (wide receivers can throw on trick plays) → YES
+- **Some actions are possible for any player in their sport:** e.g., "Malcolm Brogdon banked the shot in" (any basketball player can do this) → YES
+- **Some actions are only for certain positions:** e.g., "Mitchell Trubisky caught the screen pass" (quarterbacks can catch on trick plays) → YES
+
+---
+
+### 6. **Quick Decision Flow**
+1. **Identify the athlete’s main sport.**
+2. **Is the action a standard or plausible action in that sport?**
+   - If YES → Plausible.
+   - If NO → Not plausible.
+3. **Is the event/competition context correct for the sport?**
+   - If mismatched (e.g., "Stanley Cup" for a football player) → Not plausible.
+4. **Is the action possible for the athlete’s position?**
+   - If rare but possible (e.g., WR throws a TD) → Plausible.
+   - If impossible (e.g., baseball player scores a penalty kick) → Not plausible.
+
+---
+
+**Tip:** When in doubt, ask: "Would a commentator ever say this about this athlete in their sport?" If not, answer "no."
+
+Follow the format of the examples below in your response.
+
+Question: Is the following sentence plausible? "Norman Powell committed a blocking foul."
+Answer: yes
+###
+Question: Is the following sentence plausible? "Josh Allen caught the screen pass."
+Answer: yes

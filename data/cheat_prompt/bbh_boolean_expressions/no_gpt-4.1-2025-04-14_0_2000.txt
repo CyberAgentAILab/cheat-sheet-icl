@@ -1,0 +1,146 @@
+**Boolean Logic Cheat Sheet (for Difficult Examples)**
+
+---
+
+### 1. **Order of Operations (Precedence)**
+- **not** has highest precedence (evaluated first)
+- **and** is next
+- **or** is lowest (evaluated last)
+- Parentheses `()` override precedence
+
+**Example:**  
+`True or not False and False`  
+- not False → True  
+- True and False → False  
+- True or False → **True**
+
+---
+
+### 2. **How to Evaluate Multiple `not` Operators**
+- Each `not` flips the value:
+    - not True → False
+    - not False → True
+- For multiple `not`s, count them:
+    - Odd number: flips the value
+    - Even number: value stays the same
+
+**Example:**  
+- not not not True → not not False → not True → **False**
+- not not not not False → not not True → not False → **True**
+
+---
+
+### 3. **Combining `and` and `or`**
+- **and**: Only True if *both* sides are True
+- **or**: True if *either* side is True
+
+**Example:**  
+- False and True or True  
+    - False and True → False  
+    - False or True → **True**
+
+---
+
+### 4. **Parentheses**
+- Always evaluate inside parentheses first, following the same precedence rules.
+
+**Example:**  
+- (True or False) and not True  
+    - (True or False) → True  
+    - not True → False  
+    - True and False → **False**
+
+---
+
+### 5. **Tricky Patterns**
+#### a. `not not not ...`
+- Odd number of `not`: flips value
+- Even number: value stays the same
+
+#### b. `not (A and B)`
+- Equivalent to: `not A or not B` (De Morgan's Law)
+
+#### c. `not (A or B)`
+- Equivalent to: `not A and not B` (De Morgan's Law)
+
+#### d. `A or B and C`
+- Evaluate `B and C` first, then `A or (result)`
+
+#### e. `A and B or C`
+- Evaluate `A and B` first, then `(result) or C`
+
+---
+
+### 6. **Step-by-Step Evaluation Example**
+**Question:**  
+`False or not True and True or True`
+
+**Steps:**  
+1. not True → False  
+2. False and True → False  
+3. False or False → False  
+4. False or True → **True**
+
+---
+
+### 7. **Common Pitfalls**
+- Don’t forget operator precedence: `not` > `and` > `or`
+- Always resolve parentheses first
+- For long chains of `not`, count them before evaluating
+
+---
+
+### 8. **Quick Reference Table**
+
+| Expression                | Result      |
+|---------------------------|-------------|
+| not True                  | False       |
+| not False                 | True        |
+| True and True             | True        |
+| True and False            | False       |
+| False or True             | True        |
+| False or False            | False       |
+| not not True              | True        |
+| not not False             | False       |
+| not not not True          | False       |
+| not not not False         | True        |
+
+---
+
+### 9. **Sample Complex Evaluations**
+
+- **not not not not not not not True**  
+  7 nots (odd) → flips True to **False**
+
+- **not not not not not not not False**  
+  7 nots (odd) → flips False to **True**
+
+- **not (True or False or True)**  
+  True or False or True → True  
+  not True → **False**
+
+- **not (False or (False))**  
+  False or False → False  
+  not False → **True**
+
+---
+
+### 10. **Strategy**
+1. **Parentheses**: Evaluate innermost first.
+2. **not**: Apply to the value immediately after.
+3. **and**: Evaluate next.
+4. **or**: Evaluate last.
+5. **Multiple nots**: Count and reduce.
+6. **Write out each step** to avoid mistakes.
+
+---
+
+**Use this sheet to break down and solve any complex Boolean logic expression!**
+
+Follow the format of the examples below in your response.
+
+Question: False or ( False ) and not False is
+Answer: False
+###
+Question: ( True and not not not True ) is
+Answer: False

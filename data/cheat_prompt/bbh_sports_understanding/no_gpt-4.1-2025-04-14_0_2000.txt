@@ -1,0 +1,147 @@
+**CHEAT SHEET FOR PLAUSIBILITY QUESTIONS (SPORTS ACTIONS & ATHLETES)**
+
+---
+
+### 1. **Identify the Athlete’s Sport**
+- **Football (NFL):** Carson Wentz, Tyler Boyd, Matthew Stafford, Ryan Tannehill, Amari Cooper, Travis Konecny, Tyreek Hill, Josh Allen, Tom Brady, Drew Brees, T.Y. Hilton, Brandin Cooks, Keenan Allen, Robert Woods, Sterling Shepard, Adam Thielen, Cooper Kupp, DJ Chark, Deshaun Watson, etc.
+- **Baseball (MLB):** Luke Voit, Luis Robert, Mookie Betts, Juan Soto, Max Scherzer, Nick Castellanos, Gleyber Torres, Michael Conforto, Brad Hand, Freddie Freeman, Jack Flaherty, etc.
+- **Basketball (NBA):** James Harden, Jonas Valanciunas, Norman Powell, Kendrick Nunn, Ben Simmons, Dejounte Murray, Jayson Tatum, Kawhi Leonard, LaMelo Ball, Fred VanVleet, Draymond Green, Michael Porter Jr., Malik Beasley, Zach LaVine, etc.
+- **Hockey (NHL):** Kailer Yamamoto, Sean Couturier, Frederik Andersen, Ryan O'Reilly, Pierre-Luc Dubois, Jakub Vrana, Evander Kane, Jonathan Marchessault, John Carlson, Mark Stone, Tuukka Rask, Miro Heiskanen, John Tavares, Aleksander Barkov, etc.
+- **Soccer (Football):** Angel Di Maria, Joao Moutinho, Mario Gomez, Marouane Fellaini, Edinson Cavani, Neymar, Sergio Ramos, Gerard Pique, Santi Cazorla, Yaya Toure, Andres Iniesta, Mario Balotelli, David Silva, Santi Cazorla, Giorgio Chiellini, Marcelo, Carles Puyol, Ramires, Didier Drogba, Robert Lewandowski, Toni Kroos, etc.
+
+---
+
+### 2. **Common Actions by Sport**
+
+#### **Football (NFL)**
+- **Plausible:** threw a touchdown, caught the screen pass, converted the first down, went for it on fourth down, fumbled the ball, gained five yards, drew a flag, hit the screen pass, hit the slant pass, got into the endzone, launched a hail mary.
+- **NOT Plausible:** hit a triple, scored a penalty kick, got on base, was out at first/second/third/home, shot from beyond the arc, committed a handball, scored a bicycle kick, performed a give and go, called for the screen, took a charge, committed a three second violation, was called for icing, was called for slashing, was called for the goal tend, eurostepped to the basket, etc.
+
+#### **Baseball (MLB)**
+- **Plausible:** was out at first/second/third/home, got a base hit, hit a walkoff homer, walked to first base, grounded out to second base, watched the pitch go by.
+- **NOT Plausible:** caught the screen pass, converted the first down, scored a penalty kick, shot from outside the eighteen, hit the wheel route, got into the endzone, scored a freekick, committed a handball, took a charge, committed a three second violation, was called for icing, was called for slashing, was called for the goal tend, eurostepped to the basket, etc.
+
+#### **Basketball (NBA)**
+- **Plausible:** shot from beyond the arc, beat the buzzer, took a turnaround jumper, took a side-step three, called for the screen, took a charge, committed a blocking foul, committed a three second violation, was called for the goal tend, eurostepped to the basket, banked the shot in, drove into the restricted area, launched the half court shot, hit the buzzer beater.
+- **NOT Plausible:** scored a penalty kick, got on base, was out at first/second/third/home, caught the screen pass, converted the first down, hit a walkoff homer, scored a freekick, committed a handball, was called for icing, was called for slashing, etc.
+
+#### **Hockey (NHL)**
+- **Plausible:** passed the puck, wristed a shot, skated backwards, scored on the power play, entered the attacking zone, spent time in the penalty box, earned a trip to the penalty box, backhanded a shot, crossed the blue line, scored in the third period, killed the powerplay.
+- **NOT Plausible:** hit a triple, scored a penalty kick, got on base, was out at first/second/third/home, shot from beyond the arc, committed a handball, performed a give and go, called for the screen, took a charge, committed a three second violation, was called for the goal tend, eurostepped to the basket, etc.
+
+#### **Soccer (Football)**
+- **Plausible:** scored in extra/added time, performed a give and go, scored a header goal, scored a freekick, scored a corner kick, took a throw in, got on the end of a through ball, did a maradona on the defender, nutmegged the defender, committed a handball, scored a bicycle kick, earned a red card.
+- **NOT Plausible:** hit a triple, scored a penalty kick (in a non-soccer context), got on base, was out at first/second/third/home, shot from beyond the arc, caught the screen pass, converted the first down, hit a walkoff homer, called for the screen, took a charge, committed a three second violation, was called for icing, was called for slashing, was called for the goal tend, eurostepped to the basket, etc.
+
+---
+
+### 3. **Key Tricky Terms & Cross-Sport Confusions**
+
+- **Screen pass, slant pass, wheel route, back shoulder fade:** Football only.
+- **Triple, walkoff homer, base hit, out at first/second/third/home, walked on ball four:** Baseball only.
+- **Three pointer, buzzer beater, goal tend, three second violation, charge, eurostep, restricted area, half court shot:** Basketball only.
+- **Puck, blue line, penalty box, power play, slashing, icing, wristed/backhanded a shot, attacking zone:** Hockey only.
+- **Penalty kick, freekick, header, through ball, maradona, nutmeg, handball, red card, added/extra time, throw in, bicycle kick, Champions League, FA Cup, European Cup:** Soccer only.
+- **Endzone, touchdown, first down, fumbled, flagged, went for it on fourth down, gained yards, drew a flag, hail mary:** Football only.
+
+---
+
+### 4. **Special Notes on Difficult/Tricky Cases**
+
+- **If the action is from a different sport than the athlete’s, answer "no".**
+  - E.g., "Carson Wentz took to the ice." (Football player, hockey action) → **no**
+  - "Mookie Betts skated behind the net." (Baseball player, hockey action) → **no**
+  - "Juan Soto shot from beyond the arc." (Baseball player, basketball action) → **no**
+  - "James Harden shot from outside the eighteen." (Basketball player, soccer action) → **no**
+  - "Joao Moutinho was out at third." (Soccer player, baseball action) → **no**
+  - "Travis Konecny did a maradona on the defender." (Hockey player, soccer move) → **no**
+  - "Edinson Cavani caught the screen pass." (Soccer player, football action) → **no**
+  - "Michael Conforto committed a three second violation." (Baseball player, basketball action) → **no**
+  - "Neymar took a backhand shot in the Stanley Cup." (Soccer player, hockey action) → **no**
+  - "Sergio Ramos hit nothing but net." (Soccer player, basketball phrase) → **no**
+  - "Gerrit Cole committed a handball in the European Cup." (Baseball player, soccer action) → **no**
+  - "Sam Darnold scored on the power play in the Stanley Cup." (Football player, hockey action) → **no**
+  - "Tyler Glasnow scored a penalty kick." (Baseball player, soccer action) → **no**
+  - "Ketel Marte got into the endzone." (Baseball player, football action) → **no**
+  - "Connor McDavid threw a touchdown in the NFC divisional round." (Hockey player, football action) → **no**
+  - "Pedro struck out the side." (Soccer player, baseball action) → **no**
+  - "Timo Meier nutmegged the defender in the FA Cup." (Hockey player, soccer action) → **no**
+  - "Willian killed the powerplay." (Soccer player, hockey action) → **no**
+  - "Steven Stamkos hit the slant pass." (Hockey player, football action) → **no**
+  - "Elias Lindholm beat the buzzer." (Hockey player, basketball action) → **no**
+  - "Philip Rivers drove into the restricted area." (Football player, basketball action) → **no**
+  - "Fernando Tatis Jr. earned a red card." (Baseball player, soccer action) → **no**
+  - "Nazem Kadri took a charge in the NBA Championship." (Hockey player, basketball action) → **no**
+  - "Neal Pionk shot from the six yard line." (Hockey player, football/soccer term) → **no**
+  - "Javier Zanetti watched the pitch go by in the National League Championship Series." (Soccer player, baseball action) → **no**
+  - "Fred VanVleet scored a freekick in the Champions League Final." (Basketball player, soccer action) → **no**
+  - "Clint Capela got into the endzone." (Basketball player, football action) → **no**
+  - "Zach LaVine shot the puck." (Basketball player, hockey action) → **no**
+  - "Mitchell Marner nutmegged the defender." (Hockey player, soccer action) → **no**
+  - "De'Aaron Fox scored a bicycle kick." (Basketball player, soccer action) → **no**
+  - "Igor Shesterkin launched a hail mary." (Hockey player, football action) → **no**
+  - "Dougie Hamilton hit the buzzer beater." (Hockey player, basketball action) → **no**
+  - "Aaron Nola converted the first down." (Baseball player, football action) → **no**
+  - "Adam Thielen got on base." (Football player, baseball action) → **no**
+  - "Gleyber Torres scored a bicycle kick." (Baseball player, soccer action) → **no**
+  - "Draymond Green threw a touchdown." (Basketball player, football action) → **no**
+  - "Leon Draisaitl grounded out to second base in the National League Championship Series." (Hockey player, baseball action) → **no**
+  - "Robert Lewandowski threw a touchdown." (Soccer player, football action) → **no**
+  - "Jamal Murray walked on ball four." (Basketball player, baseball action) → **no**
+  - "Kevin Durant hit a walkoff homer." (Basketball player, baseball action) → **no**
+  - "Bryce Harper hit the back shoulder fade." (Baseball player, football action) → **no**
+  - "Cooper Kupp scored in the third period in the Stanley Cup." (Football player, hockey action) → **no**
+  - "Tom Brady was safe at first." (Football player, baseball action) → **no**
+
+---
+
+### 5. **If the action fits the athlete’s sport, check if the action is plausible in that sport**
+- E.g., "Sean Couturier passed the puck in the Stanley Cup." (Hockey player, hockey action) → **yes**
+- "Angel Di Maria scored in extra time." (Soccer player, soccer action) → **yes**
+- "Tyler Boyd hit the screen pass in the NFC divisional round." (Football player, football action) → **yes**
+- "Luke Voit was out at first." (Baseball player, baseball action) → **yes**
+- "Jonas Valanciunas beat the buzzer." (Basketball player, basketball action) → **yes**
+
+---
+
+### 6. **Special Soccer Moves**
+- **Maradona, nutmeg, give and go, bicycle kick, header, through ball:** Only plausible for soccer players.
+
+---
+
+### 7. **Special Hockey Moves**
+- **Wristed a shot, backhanded a shot, skated backwards, passed the puck, entered the attacking zone, crossed the blue line, spent time in the penalty box, killed the powerplay:** Only plausible for hockey players.
+
+---
+
+### 8. **Special Basketball Moves**
+- **Three pointer, buzzer beater, goal tend, three second violation, charge, eurostep, restricted area, half court shot, banked the shot in, called for the screen:** Only plausible for basketball players.
+
+---
+
+### 9. **Special Baseball Moves**
+- **Out at first/second/third/home, base hit, walkoff homer, walked on ball four, grounded out, watched the pitch go by:** Only plausible for baseball players.
+
+---
+
+### 10. **Special Football Moves**
+- **Screen pass, slant pass, wheel route, back shoulder fade, touchdown, first down, fumbled, flagged, went for it on fourth down, gained yards, drew a flag, hail mary, endzone:** Only plausible for football players.
+
+---
+
+**REMEMBER:**  
+- If the action is not from the athlete’s sport, answer "no".
+- If the action is from the athlete’s sport, but is not a real action in that sport, answer "no".
+- If both match, answer "yes".
+
+---
+
+**Use this sheet to quickly check athlete-sport-action plausibility!**
+
+Follow the format of the examples below in your response.
+
+Question: Is the following sentence plausible? "Carson Wentz took to the ice."
+Answer: no
+###
+Question: Is the following sentence plausible? "Kailer Yamamoto performed a slide tackle in the European Cup."
+Answer: no

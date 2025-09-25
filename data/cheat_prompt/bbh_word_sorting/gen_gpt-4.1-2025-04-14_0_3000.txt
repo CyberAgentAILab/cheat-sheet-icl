@@ -1,0 +1,134 @@
+**Alphabetical Sorting Cheat Sheet (for Difficult Cases)**
+
+---
+
+### 1. **General Approach**
+- **Step 1:** List all words.
+- **Step 2:** Group by first letter (a, b, c, ... z).
+- **Step 3:** Within each group, compare the second letter, then third, etc., until order is determined.
+- **Step 4:** If two words are identical up to the length of the shorter word, the shorter word comes first (e.g., "cat" < "cater").
+- **Step 5:** Combine all groups in order.
+
+---
+
+### 2. **Tiebreakers: How to Compare Letters**
+- Compare the first letter. If tied, compare the second letter, and so on.
+- If one word runs out of letters (is shorter), it comes first.
+  - Example: "cat" < "cater" (since "cat" ends before "cater" does).
+
+---
+
+### 3. **Handling Multiple Words with Same Starting Letters**
+- **Example:** ["beefsteak", "beware"]
+  - 1st: b, 2nd: e, 3rd: e (tied)
+  - 4th: f ("beefsteak") vs. w ("beware") → f < w, so "beefsteak" < "beware"
+- **Example:** ["birthplace", "bicycle"]
+  - 1st: b, 2nd: i, 3rd: r ("birthplace") vs. c ("bicycle") → c < r, so "bicycle" < "birthplace"
+
+---
+
+### 4. **Sorting Steps for Groups**
+- **Step 1:** For each group with the same first letter, list all words.
+- **Step 2:** Compare the second letter for each.
+- **Step 3:** If tied, compare the third letter, and so on.
+- **Step 4:** If all compared letters are the same and one word is shorter, the shorter word comes first.
+
+---
+
+### 5. **Special Cases**
+- **Apostrophes and Non-letters:** Ignore apostrophes and treat as if not present (e.g., "won't" is sorted as "wont").
+- **Case Sensitivity:** Ignore case; treat all letters as lowercase.
+
+---
+
+### 6. **Sample Walkthrough**
+#### Example: ["beefsteak", "beware", "bicycle", "birthplace"]
+- All start with "b"
+- 2nd letter: e, e, i, i → "beefsteak", "beware" < "bicycle", "birthplace"
+- "beefsteak" vs "beware": 3rd letter e vs w → e < w, so "beefsteak" < "beware"
+- "bicycle" vs "birthplace": 3rd letter c vs r → c < r, so "bicycle" < "birthplace"
+- Final order: beefsteak, beware, bicycle, birthplace
+
+---
+
+### 7. **Quick Reference Table**
+| Step | What to Compare? | Example |
+|------|------------------|---------|
+| 1    | First letter     | "cat" vs "dog" → c < d |
+| 2    | Second letter    | "cat" vs "car" → t > r, so "car" < "cat" |
+| 3    | Third letter     | "cart" vs "carp" → t > p, so "carp" < "cart" |
+| 4    | Word length      | "cat" vs "cater" → "cat" < "cater" |
+
+---
+
+### 8. **Practice:**
+- Write out the words in columns, compare each letter in order.
+- For large lists, group by first letter, then sort each group.
+
+---
+
+**Remember:**  
+- Always compare letter by letter.
+- If you get stuck, write the words vertically and compare each column.
+- Shorter word comes first if all compared letters are the same.
+
+---
+
+**Use this process for any list, especially when words share several starting letters!**
+
+Follow the format of the examples below in your response.
+
+Question: Sort the following words alphabetically: List: postcondition protoplasmic musicology helical uptrend vasoconstriction diacritic beefsteak beware birthplace bicycle junctor state obstinate banshee sap
+Reasoning: Let's think step by step.  
+The first letter:  
+"postcondition": "p" (16)  
+"protoplasmic": "p" (16)  
+"musicology": "m" (13)  
+"helical": "h" (8)  
+"uptrend": "u" (21)  
+"vasoconstriction": "v" (22)  
+"diacritic": "d" (4)  
+"beefsteak": "b" (2)  
+"beware": "b" (2)  
+"birthplace": "b" (2)  
+"bicycle": "b" (2)  
+"junctor": "j" (10)  
+"state": "s" (19)  
+"obstinate": "o" (15)  
+"banshee": "b" (2)  
+"sap": "s" (19)  
+
+Now, group all the "b" words: ["banshee", "beefsteak", "beware", "birthplace", "bicycle"].  
+Sort these by the second letter:  
+"banshee": "a" (1)  
+"beefsteak": "e" (5)  
+"beware": "e" (5)  
+"birthplace": "i" (9)  
+"bicycle": "i" (9)  
+So, "banshee" < ["beefsteak" ? "beware"] < ["birthplace" ? "bicycle"].  
+Sort "beefsteak" vs "beware" by third letter:  
+"beefsteak": "e" (5)  
+"beware": "w" (23)  
+So, "beefsteak" < "beware".  
+Sort "birthplace" vs "bicycle" by third letter:  
+"birthplace": "r" (18)  
+"bicycle": "c" (3)  
+So, "bicycle" < "birthplace".  
+So, the "b" words in order: banshee beefsteak beware bicycle birthplace.  
+
+Now, continue with the rest:  
+"diacritic" (d), "helical" (h), "junctor" (j), "musicology" (m), "obstinate" (o), "postcondition" (p), "protoplasmic" (p), "sap" (s), "state" (s), "uptrend" (u), "vasoconstriction" (v).  
+Order by first letter:  
+d < h < j < m < o < [p, p] < [s, s] < u < v  
+So: diacritic helical junctor musicology obstinate postcondition protoplasmic sap state uptrend vasoconstriction.  
+
+Combine with the "b" words at the start:  
+banshee beefsteak beware bicycle birthplace diacritic helical junctor musicology obstinate postcondition protoplasmic sap state uptrend vasoconstriction.  
+
+So the answer is banshee beefsteak beware bicycle birthplace diacritic helical junctor musicology obstinate postcondition protoplasmic sap state uptrend vasoconstriction.
+Answer: banshee beefsteak beware bicycle birthplace diacritic helical junctor musicology obstinate postcondition protoplasmic sap state uptrend vasoconstriction
+###
+Question: Sort the following words alphabetically: List: pea yonkers darkle quadrant moldboard instant olsen hookup erudite lip
+Reasoning: Let's think step by step.
+The first letter: "pea": "p" (16). "yonkers": "y" (25). "darkle": "d" (4). "quadrant": "q" (17). "moldboard": "m" (13). "instant": "i" (9). "olsen": "o" (15). "hookup": "h" (8). "erudite": "e" (5). "lip": "l" (12). We now have: (4) "darkle" < (5) "erudite" < (8) "hookup" < (9) "instant" < (12) "lip" < (13) "moldboard" < (15) "olsen" < (16) "pea" < (17) "quadrant" < (25) "yonkers". No ties, so the order is: darkle erudite hookup instant lip moldboard olsen pea quadrant yonkers.
+Answer: darkle erudite hookup instant lip moldboard olsen pea quadrant yonkers

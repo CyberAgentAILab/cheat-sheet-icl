@@ -1,0 +1,158 @@
+---
+
+## CHEAT SHEET: CAUSATION & INTENTIONALITY
+
+### 1. **Overdetermination & Preemption (Multiple Sufficient Causes)**
+- **Scenario:** Two or more independent causes, either of which alone would be sufficient for the outcome.
+- **Typical Answer:** *No*, neither is considered "the" cause if both are sufficient and occur together.
+- **Examples:**
+  - Two committees both approve an application, but only one approval is needed → *No* for each.
+  - Two people log in at the same time, but either would have caused the effect alone → *No* for each.
+  - Two people order coffee, but only one is needed for profit → *No* for each.
+- **Exception:** If the question is about a *necessary* cause (both needed), then *Yes*.
+
+#### **Key Rule:**
+- If the effect would have happened anyway due to another cause, answer *No*.
+- If the effect required both causes (jointly necessary), answer *Yes* for each.
+
+---
+
+### 2. **Omissions & Responsibility**
+- **Scenario:** Someone fails to act, and the outcome occurs.
+- **Typical Answer:** *Yes*, if the person had a responsibility and their omission was necessary for the outcome.
+- **Examples:**
+  - Janet forgets to oil the machine (her responsibility) → *Yes*.
+  - Kate fails to oil the machine, but it was *not* her responsibility → *No*.
+  - If Kate *was* responsible (e.g., Janet didn't do it, so Kate should have), then *Yes*.
+
+#### **Key Rule:**
+- *Yes* if the person had a duty/responsibility and their omission was necessary for the outcome.
+- *No* if they had no such responsibility.
+
+---
+
+### 3. **Intentionality: Side Effects vs. Means**
+- **Scenario:** Someone foresees but does not care about a side effect.
+- **Typical Answer:**
+  - *Yes* for negative side effects (harm) if the agent is indifferent or hostile.
+  - *No* for positive side effects (help) if the agent is indifferent.
+- **Examples:**
+  - CEO doesn't care about harming the environment, but knows it will happen → *Yes* (intentionally harmed).
+  - CEO doesn't care about helping the environment, but knows it will happen → *No* (not intentionally helped).
+  - Hunter doesn't care about the eagle flying away, but knows it will happen → *No* (not intentional).
+  - Hunter doesn't care about shooting a bystander, but knows it will happen → *Yes* (intentionally shot).
+
+#### **Key Rule:**
+- *Harmful* side effect + indifference = *Yes* (intentional).
+- *Helpful* side effect + indifference = *No* (not intentional).
+
+---
+
+### 4. **Coincidence & Simultaneity (Conjunctive/Disjunctive Conditions)**
+- **Scenario:** Two events must happen together (AND), or either can cause the outcome (OR).
+- **Conjunctive (AND):**
+  - Both are needed; each is a cause.
+  - *Yes* for each.
+- **Disjunctive (OR):**
+  - Only one is needed; if both occur, neither is "the" cause.
+  - *No* for each if both occur.
+- **Examples:**
+  - Win if dice >11 OR spinner green, both happen → *No* for each.
+  - Win if dice >11 AND coin heads, both happen → *Yes* for each.
+
+#### **Key Rule:**
+- *AND*: Each is a cause.
+- *OR*: If both occur, neither is the cause.
+
+---
+
+### 5. **Abnormality/Norm Violation**
+- **Scenario:** Someone acts against a rule or norm.
+- **Typical Answer:** *Yes* if the person violated the rule and their action was necessary for the outcome.
+- **Examples:**
+  - Hedgehog not allowed to take pencils, but does so and causes shortage → *Yes* if didn't know rule, *No* if did know.
+  - Faculty not allowed to take pens, but does so and causes shortage → *No* for admin assistant, *Yes* for faculty.
+
+#### **Key Rule:**
+- If the person violated a norm and their action was necessary, *Yes*.
+- If they followed the norm or their action was not necessary, *No*.
+
+---
+
+### 6. **Counterfactual Dependence**
+- **Scenario:** Would the outcome have occurred if the person had not acted?
+- **Typical Answer:** *Yes* if the outcome would not have occurred without the action.
+- **Examples:**
+  - Only one person needed to order coffee, but several do → *No* for each.
+  - If only one person orders and the outcome occurs, *Yes*.
+
+#### **Key Rule:**
+- If the outcome would have happened anyway, *No*.
+- If the outcome depended on the action, *Yes*.
+
+---
+
+### 7. **Intentional Action vs. Accident**
+- **Scenario:** Did someone do something intentionally?
+- **Typical Answer:** *No* if the outcome was accidental, even if the person was aiming for it.
+- **Examples:**
+  - Hand slips, but hits the target → *No* (not intentional).
+  - Aims and hits the target → *Yes* (intentional).
+
+#### **Key Rule:**
+- *Intentional* = deliberate, controlled, aimed.
+- *Accidental* = slip, loss of control, luck.
+
+---
+
+### 8. **Causal Chains & Preemption**
+- **Scenario:** Two causes, but one preempts the other.
+- **Typical Answer:** *Yes* for the actual cause, *No* for the preempted cause.
+- **Examples:**
+  - Poison and car crash, but car crash kills first → *No* for poison, *Yes* for car crash.
+
+#### **Key Rule:**
+- Only the actual, not the preempted, cause is the cause.
+
+---
+
+## QUICK REFERENCE TABLE
+
+| Scenario Type                | Typical Answer | Key Rule/Clue                                      |
+|------------------------------|:--------------:|----------------------------------------------------|
+| Overdetermination (OR, both) |      No        | If both sufficient causes occur, neither is "the" cause |
+| Conjunctive (AND, both)      |     Yes        | Both are needed, so each is a cause                |
+| Omission (duty)              |     Yes        | If responsible and omission necessary              |
+| Omission (no duty)           |     No         | If not responsible                                 |
+| Side effect (harm, indiff.)  |     Yes        | Harmful side effect + indifference = intentional   |
+| Side effect (help, indiff.)  |     No         | Helpful side effect + indifference = not intentional|
+| Accidental success           |     No         | If outcome due to luck, not intention              |
+| Norm violation (necessary)   |     Yes        | If action violated norm and was necessary          |
+| Norm violation (not necessary)|    No         | If action not necessary                            |
+| Preemption                   |     Yes/No     | Only actual cause, not preempted one               |
+
+---
+
+**Tip:**  
+- Always ask: "If this person hadn't acted, would the outcome have occurred anyway?"  
+- For intentionality, ask: "Did the person *care* about the side effect, or was it just a byproduct?"
+
+---
+
+**Use this sheet to check the scenario type and apply the corresponding rule!**
+
+Follow the format of the examples below in your response.
+
+Question: How would a typical person answer each of the following questions about causation?
+Alex is playing a board game. Every turn in the game, you simultaneously roll two six-sided dice and spin a spinner. Alex will either win or lose the game on his next turn. Alex will only win the game if the total of dice roll is greater than 11 or the spinner lands on green. It is very unlikely that he will roll higher than 11. Normally, the spinner does land on green. Alex rolls his dice and spins the spinner at exactly the same time. He rolls a 12, so amazingly, he rolled greater than 11, and the spinner lands on green. Alex wins the game. Did Alex spinning result cause him to win the game?
+Options:
+- Yes
+- No
+Answer: No
+###
+Question: How would a typical person answer each of the following questions about causation?
+A bear and a hedgehog were shown a box full of colored pencils. Only bears were allowed to take pencils, whereas hedgehogs were not allowed to take them. The hedgehog was absent when the new rule about pencil use was announced. Therefore, the hedgehog does not know about the new norm. Both animals alternately took pencils out of the box six times. At last, the hedgehog and the bear came to the box and simultaneously took a pencil. A short time later, another animal, a polar bear, approached the box seeking a pencil to do his homework with. However, there were no pencils left in the box. The polar bear could not finish his homework. Did the hedgehog cause the problem?
+Options:
+- Yes
+- No
+Answer: No

@@ -1,0 +1,149 @@
+---
+
+# Causation & Intentionality Cheat Sheet
+
+## 1. **Overdetermination & Multiple Sufficient Causes**
+- **Definition:** When multiple independent actions are each sufficient to bring about an effect, but only one is needed.
+- **Rule:** If *either* of two (or more) actions is sufficient for the outcome, and both occur, **the less expected or less typical cause is usually NOT considered the cause** by ordinary people.
+- **Cues:**
+  - "Either A or B is enough for X to happen."
+  - Both A and B occur.
+  - **Answer:** The less expected/typical one = **No**; the more expected/typical one = **Yes**.
+- **Examples:**
+  - Two people log in, either is enough to crash the computer, both log in: the one who is supposed to log in is NOT the cause; the one who violates policy IS the cause.
+  - Two committees can approve, both do, but one almost always does: the rare approval is NOT the cause.
+
+---
+
+## 2. **Joint Necessity (Conjunctive Causes)**
+- **Definition:** When two (or more) conditions must BOTH be met for an effect.
+- **Rule:** If both A and B are required for X, and both occur, **each is considered a cause**.
+- **Cues:**
+  - "X happens if both A and B."
+  - Both A and B occur.
+  - **Answer:** For either A or B, **Yes**.
+- **Examples:**
+  - "Building implodes if both safety switch is off AND knob A is on." If you change knob A to on, **Yes**.
+  - "Alex wins if dice >11 AND coin is heads." Did coin flip cause win? **Yes**.
+
+---
+
+## 3. **Intentionality: Side Effects vs. Direct Intention**
+- **Rule:** If the agent *knows* a side effect will occur but *does not care* about it, **it is NOT intentional** (unless the side effect is negative/harmful, then people often say "Yes").
+- **Cues:**
+  - "I know X will happen, but I don't care about X, I just want Y."
+  - **If X is positive:** **No** (not intentional).
+  - **If X is negative/harmful:** **Yes** (intentional).
+- **Examples:**
+  - CEO increases profits, knows it will harm environment, doesn't care: **Yes** (intentional harm).
+  - CEO increases profits, knows it will help environment, doesn't care: **No** (not intentional help).
+  - Hunter shoots deer, knows eagle will fly away, doesn't care: **No** (not intentional).
+  - Hunter shoots deer, knows bullet will hit birdwatcher, doesn't care: **Yes** (intentional).
+
+---
+
+## 4. **Omissions and Responsibility**
+- **Rule:** If someone *fails* to do something, and it is their responsibility, and the effect occurs, **Yes** (cause).
+- If it is *not* their responsibility, **No**.
+- **Cues:**
+  - "If Janet doesn't oil, it's Kate's responsibility." If Kate doesn't, **Yes**.
+  - "If Janet doesn't oil, it's NOT Kate's responsibility." If Kate doesn't, **No**.
+
+---
+
+## 5. **Simultaneous Actions (Multiple Agents)**
+- **Rule:** If two people act at the same time and both are needed for the effect, **each is a cause**.
+- If only one is needed, and both act, **the one violating the norm or expectation is usually considered the cause**.
+- **Cues:**
+  - "If two people log in, computer crashes." Both log in, one violates policy: **Violator = Yes**, other = **No**.
+
+---
+
+## 6. **Preemption & Backup Causes**
+- **Rule:** If one cause preempts another (e.g., poison and car crash), **the actual cause is the one that actually brings about the effect first**.
+- **Cues:**
+  - "Poison in blood, but death by car crash." Did poison cause death? **No**.
+  - "Long-term asbestos exposure, but death by allergic reaction to medication." Did asbestos cause death? **Yes** (since he was certain to die soon anyway).
+
+---
+
+## 7. **Disjunctions (OR conditions)**
+- **Rule:** If the effect occurs if *either* A or B, and both A and B are present, **the less expected or less typical one is NOT considered the cause**.
+- **Cues:**
+  - "Device charges if plugged in OR on pad. Both are true. Did leaving on pad cause charge?" **Yes**.
+  - "Motorboat starts if gear in neutral OR motor locked. Both are true. Did changing motor cause start?" **No** (since gear was already in neutral).
+
+---
+
+## 8. **Unintentional Success**
+- **Rule:** If someone tries to do X but succeeds by accident (e.g., hand slips, but still hits target), **NOT intentional**.
+- **Cues:**
+  - "Aims, hand slips, but still hits." **No** (not intentional).
+
+---
+
+## 9. **Norm Violation**
+- **Rule:** If two people act, but only one violates a rule or norm, **the violator is considered the cause**.
+- **Cues:**
+  - "Only one is supposed to log in, both do, crash." **Violator = Yes**, other = **No**.
+
+---
+
+## 10. **Absence of Knowledge**
+- **Rule:** If someone acts without knowledge of a rule or effect, **less likely to be considered the cause**.
+- **Cues:**
+  - "Hedgehog didn't know rule, took pencil, problem." **Yes** (if didn't know), **No** (if knew).
+
+---
+
+## 11. **Redundant Actions**
+- **Rule:** If multiple people do something, but only one is needed, and all usually do it, **each is a cause** if their action is not redundant.
+- If their action is redundant (e.g., many always order coffee), **No**.
+
+---
+
+# Quick Reference Table
+
+| Scenario Type                | Answer (Yes/No) | Key Cues/Rules                                                                 |
+|------------------------------|-----------------|-------------------------------------------------------------------------------|
+| Overdetermination (OR, both) | No              | Both sufficient, less expected/typical one is NOT the cause                   |
+| Joint Necessity (AND, both)  | Yes             | Both necessary, each is a cause                                               |
+| Side Effect (positive)       | No              | Agent doesn't care, effect is positive                                        |
+| Side Effect (negative)       | Yes             | Agent doesn't care, effect is negative                                        |
+| Omission (responsibility)    | Yes             | Fails to act, is responsible                                                  |
+| Omission (not responsible)   | No              | Fails to act, not responsible                                                 |
+| Simultaneous, norm violation | Yes             | Violator is the cause                                                         |
+| Simultaneous, non-violator   | No              | Non-violator is not the cause                                                 |
+| Preemption                   | No              | Potential cause, but not actual cause                                         |
+| Unintentional success        | No              | Accidentally succeeds                                                         |
+| Absence of knowledge         | No              | Did not know about rule/effect                                                |
+| Redundant action             | No              | Many do it, only one needed, all usually do it                                |
+
+---
+
+**Tip:** When in doubt, ask:  
+- Was this action necessary for the outcome?  
+- Was it the only sufficient cause?  
+- Did the person intend the effect, or just foresee it?  
+- Did they violate a norm or rule?  
+- Was their omission a failure of responsibility?
+
+---
+
+**Use this sheet to quickly check the scenario type and apply the correct rule!**
+
+Follow the format of the examples below in your response.
+
+Question: How would a typical person answer each of the following questions about causation?
+Jen sees some puppies playing next to her driveway again and wants to kill them. She decides to go to the hardware store to buy some rat poison that she thinks will work on the puppies. As she pulls out of her garage, the wheel slips in her hand and she drives off to the side of the driveway. All the puppies are crushed and killed under the car. With the puppies eliminated, Jen doesn't need to go to the hardware store. Did Jen intentionally kill the puppies?
+Options:
+- Yes
+- No
+Answer: No
+###
+Question: How would a typical person answer each of the following questions about causation?
+Brown is playing a simple game of dice. The game requires that Brown roll a six to win. So, hoping to get a six, Brown throws a die onto the table. Unluckily for the other players, the die lands six-up and Brown wins the game. Did Brown intentionally roll a six?
+Options:
+- Yes
+- No
+Answer: No

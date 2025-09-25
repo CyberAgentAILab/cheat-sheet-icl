@@ -1,0 +1,157 @@
+---
+
+## CHEAT SHEET: "Find a Movie Similar To..." (Difficult Cases)
+
+### 1. **Recognize the "Core Set" of Popular 90s Movies**
+Many questions use a core set of popular 90s movies as both the "given" and the "answer." These include:
+- **Forrest Gump**
+- **Pulp Fiction**
+- **The Shawshank Redemption**
+- **Braveheart**
+- **Schindler’s List**
+- **The Fugitive**
+- **Dances with Wolves**
+- **The Usual Suspects**
+- **Terminator 2: Judgment Day**
+- **Jurassic Park**
+- **The Lion King**
+- **Apollo 13**
+- **Batman (1989/90s)**
+- **Pretty Woman**
+- **Aladdin**
+- **Toy Story**
+- **Independence Day**
+- **Star Wars (Original Trilogy)**
+- **Raiders of the Lost Ark**
+- **Inception** (sometimes as a modern "core" film)
+- **Gladiator** (sometimes as a modern "core" film)
+- **Goodfellas**
+- **The Silence of the Lambs**
+
+**If the options include one of these, and the question's movies are mostly from this set, that option is likely correct.**
+
+---
+
+### 2. **Genre/Style Matching**
+- If the given movies are mostly **animated/family** (e.g., The Lion King, Aladdin, Toy Story), the answer is likely another animated/family blockbuster from the 90s.
+- If the given movies are **crime/thriller/drama** (e.g., Pulp Fiction, The Usual Suspects, Goodfellas), the answer is likely another from that genre and era.
+- If the given movies are **sci-fi/action** (e.g., The Matrix, Star Wars, Terminator 2), the answer is likely another big-budget action/sci-fi from the 80s/90s.
+
+---
+
+### 3. **"Odd One Out" Elimination**
+- If three options are obscure, old, or unrelated, and one is a blockbuster from the 90s/00s, pick the blockbuster.
+- If the options are all obscure except for one that matches the genre/era of the question, pick that one.
+
+---
+
+### 4. **"Oscars/Blockbuster" Rule**
+- If the question lists several Oscar-winning or nominated films, the answer is likely another Oscar-winning/nominated film from the same period.
+
+---
+
+### 5. **"Franchise/Series" Rule**
+- If the question lists several movies from a franchise (e.g., Star Wars, Indiana Jones), the answer is often another entry from that franchise or a similar blockbuster adventure.
+
+---
+
+### 6. **"Mix of Animation and Live Action"**
+- If the question mixes animation (e.g., The Lion King, Aladdin) and live-action blockbusters (e.g., Batman, Pretty Woman), the answer is often another crossover hit from the same era (e.g., Terminator 2, Toy Story).
+
+---
+
+### 7. **"Get Shorty" and "Goodfellas"**
+- "Get Shorty" is often the answer when the question includes Pulp Fiction, The Usual Suspects, Forrest Gump, etc.
+- "Goodfellas" is often the answer when the question includes crime dramas or is paired with The Big Lebowski, The Wizard of Oz, etc.
+
+---
+
+### 8. **"Inception" and "Gladiator" as Modern Equivalents**
+- If the question includes Inception, Gladiator, or The Matrix, and the options include another of these, it's likely the answer.
+
+---
+
+### 9. **"The Shawshank Redemption" as a Universal Answer**
+- If The Shawshank Redemption is in the options and the question includes any combination of Pulp Fiction, Forrest Gump, Dances with Wolves, Schindler’s List, Braveheart, etc., it's often the answer.
+
+---
+
+### 10. **"The Fugitive" as a Bridge**
+- The Fugitive is often the answer when the question includes a mix of action, drama, and crime films from the 90s.
+
+---
+
+### 11. **"Toy Story" and "Pretty Woman"**
+- If the question includes a mix of family/animation and romantic comedy, and the options include Toy Story or Pretty Woman, those are likely answers.
+
+---
+
+### 12. **"Star Wars" and "Raiders of the Lost Ark"**
+- If the question includes Star Wars and/or Indiana Jones, and the options include the other, that's likely the answer.
+
+---
+
+### 13. **"Dances with Wolves" and "Braveheart"**
+- These are often paired as answers when the question includes epic dramas or historical films.
+
+---
+
+### 14. **"Schindler's List" as a Serious Drama Anchor**
+- If the question includes Schindler's List, the answer is often another serious drama from the 90s (e.g., The Shawshank Redemption, Braveheart, Forrest Gump).
+
+---
+
+### 15. **"Independence Day" as a Sci-Fi/Action Anchor**
+- If the question includes Jurassic Park, The Terminator, or Star Wars, and the options include Independence Day, it's likely the answer.
+
+---
+
+### 16. **"LA Confidential" and "Fargo"**
+- If the question includes crime dramas or neo-noir, and the options include LA Confidential or Fargo, those are likely answers.
+
+---
+
+### 17. **"The Usual Suspects" as a Crime/Thriller Anchor**
+- If the question includes Pulp Fiction, Goodfellas, or The Shawshank Redemption, and the options include The Usual Suspects, it's likely the answer.
+
+---
+
+### 18. **"Animated Classics"**
+- If the question includes Disney classics (e.g., Beauty and the Beast, The Lion King, Aladdin), and the options include another Disney classic (e.g., Pinocchio, Snow White), that's likely the answer.
+
+---
+
+### 19. **"Inception" and "Edge of Tomorrow"**
+- If the question includes Inception, Edge of Tomorrow, or The Matrix, and the options include another of these, it's likely the answer.
+
+---
+
+### 20. **"If in Doubt, Pick the Most Famous 90s/00s Blockbuster"**
+- When unsure, pick the option that is a major, well-known film from the 90s or early 2000s, especially if the question's movies are from that era.
+
+---
+
+**TIP:**  
+If you see a pattern in the question (e.g., all movies are Oscar winners, all are animated, all are crime dramas), look for the option that fits that pattern and is from the same era.
+
+---
+
+**Use this cheat sheet to quickly match genres, eras, and "core" movies, and eliminate outliers.**
+
+Follow the format of the examples below in your response.
+
+Question: Find a movie similar to The Matrix, Star Wars Episode V - The Empire Strikes Back, Star Wars Episode IV - A New Hope, Forrest Gump:
+Options:
+(A) Pulp Fiction
+(B) Da geht noch was!
+(C) Hudson Hawk
+(D) The Brothers Grimm
+Answer: (A)
+###
+Question: Find a movie similar to The Fugitive, Fargo, Groundhog Day, The Princess Bride:
+Options:
+(A) John Q
+(B) Raiders of the Lost Ark
+(C) No Man's Land
+(D) The Morning After
+Answer: (B)

@@ -1,0 +1,142 @@
+---
+
+# Pronoun Antecedent Cheat Sheet
+
+## 1. **Ambiguous Pronouns: When Both Antecedents Are Possible**
+- If both possible referents make sense grammatically and contextually, and there is no clear clue, **the answer is "Ambiguous"**.
+- Common ambiguous structures:
+    - "X did Y because (pronoun) Z" (e.g., "The nurse stayed away from the laborer because she was busy.")
+    - "X met with Y because (pronoun) did Z."
+    - "X told Y that (pronoun) did Z." (when both X and Y could have done Z)
+    - "X and Y discuss (pronoun) Z." (when both X and Y could own Z)
+    - "Before (pronoun) did Z, X did Y." (when both X and Y could be the pronoun)
+    - "X greets Y because (pronoun) did Z." (when both could be the pronoun)
+    - "X disliked Y because (pronoun) is Z." (when both could be the pronoun)
+
+**Tip:** If you can substitute both X and Y for the pronoun and the sentence still makes sense, and there’s no context to prefer one, choose "Ambiguous".
+
+---
+
+## 2. **Causality and Logic: Who Would Do What?**
+- **Action/Reason Structure:**  
+    - "X did Y because (pronoun) did Z."
+        - If Z is a reason for X to act, ask: Whose action would motivate X?
+        - Example: "The laborer handed the secretary a hammer because they asked for a tool."
+            - Who would ask for a tool? The secretary. So "they" = secretary.
+- **Reporting/Informing Structure:**  
+    - "X told Y that (pronoun) did Z."
+        - Usually, X is telling Y about Y, or about X, but not about Y’s own knowledge.
+        - If it’s a diagnosis, the patient is being told about themselves.
+        - If it’s a confession, the speaker is talking about themselves.
+- **Giving/Receiving Structure:**  
+    - "X gave Y (pronoun) Z."
+        - Usually, the recipient is Y, unless context says otherwise.
+        - If "her/him/them" is the object after "gave," it usually refers to Y.
+
+---
+
+## 3. **Possessive Pronouns in Compound Phrases**
+- "The writer and his/her/their friends"
+    - The possessive ("his/her/their") refers to the first noun ("the writer"), not the friends or the object.
+    - "Their" can be singular (gender-neutral) or plural, but still refers to "the writer" in this structure.
+
+---
+
+## 4. **Plural Pronouns ("they/their")**
+- If both referents are singular, "they" can be singular (gender-neutral) or plural (both together).
+- If both X and Y are possible, and both could be referred to as "they," and context doesn't clarify, **choose "Ambiguous"**.
+- If only one referent is plural, "they" likely refers to the plural noun.
+
+---
+
+## 5. **Contextual Clues:**
+- **Job Roles/Expertise:**  
+    - If the action or attribute is more likely for one role, prefer that one.
+        - E.g., "The undergraduate applied to work with the scientist because she needed a lab assistant."  
+          Undergraduates don’t need assistants; scientists do.
+- **Ownership/Responsibility:**  
+    - If the sentence is about a car, and a mechanic calls a customer, the car is the customer's.
+    - If the sentence is about a grading policy, the educator owns it, not the student.
+
+---
+
+## 6. **Gender and Number Agreement**
+- If the pronoun is "her/his/she/he," check which noun matches in gender and number.
+- If only one noun matches, that's the antecedent.
+- If both match, use context and logic.
+
+---
+
+## 7. **"Because" and "So" Clauses**
+- "X did Y because (pronoun) did Z."
+    - Ask: Whose action would be the reason for X's action?
+    - If both could be the reason, it's ambiguous.
+
+---
+
+## 8. **"Asked" and "Told" Structures**
+- "X asked Y if (pronoun) could/would/should Z."
+    - Usually, X is asking Y about Y (the person being asked).
+    - If the question is about X's own ability, then X is the antecedent.
+    - Use logic: Would it make sense for X to ask Y about X, or about Y?
+
+---
+
+## 9. **"After/Before" Clauses**
+- "After/Before (pronoun) did Z, X did Y."
+    - If both X and Y could have done Z, and context doesn't clarify, it's ambiguous.
+
+---
+
+## 10. **General Tips**
+- **Substitute each possible antecedent and see which makes more sense.**
+- **If both make sense and context doesn't clarify, choose "Ambiguous."**
+- **If only one makes sense, that's the answer.**
+- **If the pronoun is possessive in a compound noun phrase, it usually refers to the first noun.**
+- **If the pronoun is plural and both referents are singular, check if it could refer to both together. If not, and both are possible, it's ambiguous.**
+
+---
+
+**Practice:**  
+For each question, write out the sentence twice, substituting each possible antecedent for the pronoun. If both are logical, it's ambiguous. If only one is logical, that's your answer.
+
+---
+
+**Remember:**  
+- **Ambiguity is common** in these structures. Don't overthink—if both are possible, mark "Ambiguous."
+- **Context and logic** are your best tools for disambiguation.
+
+---
+
+**End of Cheat Sheet**
+
+Follow the format of the examples below in your response.
+
+Question: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The nurse stayed away from the laborer because they were very busy.
+Options:
+(A) The nurse was busy
+(B) The laborer was busy
+(C) Ambiguous
+Reasoning: Let's think step by step.  
+Here we need to determine who the pronoun "they" might be referring to. There are two possible referents for "they": the nurse and the laborer. The sentence is of the form "X stayed away from Y because (X or Y) were very busy."  
+Let's consider Y first: "X stayed away from Y because Y was very busy." This makes sense, as X might avoid Y if Y is busy.  
+Now, consider X: "X stayed away from Y because X was very busy." This also makes sense, as X might avoid Y if X is busy.  
+Because both interpretations are possible and the sentence does not provide enough context to choose between them, the antecedent of "they" is ambiguous. So the answer is (C).
+Answer: (C)
+###
+Question: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The patient disclosed to the counselor that they had a history of substance abuse.
+Options:
+(A) The patient had a history
+(B) The counselor had a history
+(C) Ambiguous
+Reasoning: Let's think step by step.  
+Here we need to determine who the pronoun "they" refers to. There are two possible referents: the patient and the counselor. The verb "disclosed" and the phrase "had a history of substance abuse" might help us decide. Let X be the patient and Y the counselor. The sentence is of the form "X disclosed to Y that (X or Y) had a history of substance abuse."
+
+Let's consider Y first: "X disclosed to Y that Y had a history of substance abuse." This would mean the patient is telling the counselor about the counselor's own history, which is unlikely, since the counselor would already know their own history.
+
+Now, consider X: "X disclosed to Y that X had a history of substance abuse." This makes sense, because the patient is sharing personal information with the counselor.
+
+Because in this context, X is the patient and Y is the counselor, the answer should be the patient. So the answer is (A).
+Answer: (A)

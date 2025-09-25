@@ -1,0 +1,194 @@
+- Overdetermination (multiple sufficient causes)
+- Joint causation (multiple necessary causes)
+- Norm violations and responsibility
+- Intentionality vs. side effects
+- Counterfactual reasoning (would the outcome have happened anyway?)
+- Abnormal vs. normal events
+
+---
+
+## 1. **Overdetermination (Multiple Sufficient Causes)**
+- **Definition:** More than one cause is sufficient for the outcome; the outcome would have happened even if one cause was absent.
+- **Typical Answer:** The extra cause is **not** seen as the cause.
+- **How to spot:** Look for "either/or" conditions, and see if the outcome would have happened with just one cause.
+- **Example:**  
+  - *Prof. Smith gets computers if either committee approves. Both approve. Did the budget committee cause the approval?*  
+    **Answer:** No (IT committee's approval alone was enough.)
+
+---
+
+## 2. **Joint Causation (Multiple Necessary Causes)**
+- **Definition:** The outcome only happens if multiple conditions are met together; each is necessary but not sufficient alone.
+- **Typical Answer:** Each necessary action **is** seen as a cause.
+- **How to spot:** Look for "both/and" or "only if both" conditions.
+- **Example:**  
+  - *Joe wins a dollar only if he gets a green ball from box 1 and a blue ball from box 2. He gets both. Did his first choice cause the win?*  
+    **Answer:** Yes (both were needed; his first choice was necessary.)
+
+---
+
+## 3. **Norm Violations and Responsibility**
+- **Definition:** Someone breaks a rule or norm, and an outcome occurs.
+- **Typical Answer:** The person who violates the norm is more likely to be seen as the cause, even if others also contributed.
+- **How to spot:** Look for explicit rules and who broke them.
+- **Example:**  
+  - *Faculty not allowed to take pens, admin assistants are. Both take pens, pens run out. Did the admin assistant cause the problem?*  
+    **Answer:** No (the rule-breaker is blamed, not the permitted person.)
+
+---
+
+## 4. **Intentionality vs. Side Effects**
+- **Definition:** Someone foresees a side effect but does not care about it; their main goal is something else.
+- **Typical Answer:** If the side effect is negative and the person knows it will happen, people often say it was intentional. If the side effect is positive, people often say it was **not** intentional.
+- **How to spot:** Look for statements like "I don't care about X, I just want Y," and whether X is good or bad.
+- **Examples:**  
+  - *CEO knows program will harm environment, doesn't care, just wants profit. Did CEO intentionally harm the environment?*  
+    **Answer:** Yes  
+  - *CEO knows program will help environment, doesn't care, just wants profit. Did CEO intentionally help the environment?*  
+    **Answer:** No
+
+---
+
+## 5. **Counterfactual Reasoning (Would the outcome have happened anyway?)**
+- **Definition:** Ask: If this action hadn't happened, would the outcome still have occurred?
+- **Typical Answer:** If the outcome would have happened anyway, the action is **not** seen as the cause.
+- **How to spot:** Look for situations where multiple people do the same thing, or where the outcome was already guaranteed.
+- **Examples:**  
+  - *Coffee shop makes profit if anyone orders. Multiple people order. Did Drew's order cause the profit?*  
+    **Answer:** No (would have happened anyway.)
+  - *Louie wins $100 if he makes a layup or 3-pointer. He makes both. Did the second shot cause the win?*  
+    **Answer:** No (already won with the first.)
+
+---
+
+## 6. **Abnormal vs. Normal Events**
+- **Definition:** When both a normal and an abnormal event are needed for an outcome, people tend to attribute causation to the abnormal event.
+- **How to spot:** One action is expected/allowed, the other is not.
+- **Example:**  
+  - *Machine shorts if both wires touch battery. Black wire is supposed to touch, red wire is not. Both touch, short circuit. Did the black wire cause the short?*  
+    **Answer:** No (red wire is abnormal, so it's blamed.)
+
+---
+
+## 7. **Responsibility Transfer**
+- **Definition:** If someone is responsible for an action, but if they fail, responsibility passes to another.
+- **Typical Answer:** The person who is responsible at the time of failure is seen as the cause.
+- **How to spot:** "If X doesn't do it, then Y is responsible."
+- **Example:**  
+  - *Janet is supposed to oil machine. If she doesn't, Kate is responsible. Janet forgets, Kate doesn't do it, machine breaks. Did Kate's inaction cause the breakdown?*  
+    **Answer:** Yes (responsibility had shifted to Kate.)
+
+---
+
+## 8. **Intentionality and Accidents**
+- **Definition:** If someone wants an outcome but achieves it by accident or lack of control, it's **not** intentional.
+- **How to spot:** Look for slips, loss of control, or luck.
+- **Example:**  
+  - *Jake wants to shoot aunt, hand slips, bullet hits heart. Did he intentionally shoot her in the heart?*  
+    **Answer:** No (outcome was accidental.)
+
+---
+
+## 9. **Permitted vs. Forbidden Actions**
+- **Definition:** If someone acts within the rules and another breaks them, the rule-breaker is blamed for negative outcomes.
+- **How to spot:** Explicit permissions and prohibitions.
+- **Example:**  
+  - *Jane is allowed to log in, Lauren is not. Both log in, computer crashes. Did Jane cause the crash?*  
+    **Answer:** No (Lauren is blamed.)
+
+---
+
+## 10. **Causation in Group Actions**
+- **Definition:** If an outcome requires a group action (e.g., 3 people logging in), each individual's action is necessary, so each is a cause.
+- **How to spot:** "If X had not acted, the outcome would not have occurred."
+- **Example:**  
+  - *Account is suspended if 3 people log in. Todd, Anne, Jason all log in. Did Todd cause the suspension?*  
+    **Answer:** Yes (his action was necessary for the outcome.)
+
+---
+
+## 11. **Chain of Events and Proximate Cause**
+- **Definition:** When multiple events lead to an outcome, the most immediate (proximate) cause is usually seen as the cause.
+- **How to spot:** Look for a chain of events, and see which was the last necessary step.
+- **Example:**  
+  - *John has terminal cancer, but dies from a medication error. Did the nurse's error cause his death?*  
+    **Answer:** Yes (proximate cause.)
+
+---
+
+## 12. **Foreseeable but Unintended Side Effects**
+- **Definition:** If someone foresees a side effect but doesn't care, and the side effect is negative, people often say it was intentional; if positive, not intentional.
+- **How to spot:** "I know X will happen, but I don't care."
+- **Example:**  
+  - *Lieutenant knows order will put soldiers in harm's way, doesn't care, gives order. Did he intentionally put them in harm's way?*  
+    **Answer:** Yes
+
+---
+
+## 13. **Responsibility and Knowledge**
+- **Definition:** If someone is unaware of a rule or norm, they are less likely to be blamed.
+- **How to spot:** "Did not know about the rule."
+- **Example:**  
+  - *Hedgehog didn't know only bears could take pencils, took one, pencils ran out. Did hedgehog cause the problem?*  
+    **Answer:** No (lack of knowledge reduces blame.)
+
+---
+
+**Quick Reference Table:**
+
+| Scenario Type                | Is Action a Cause? | Key Reasoning                                      |
+|------------------------------|--------------------|----------------------------------------------------|
+| Overdetermination            | No                 | Outcome would have happened anyway                  |
+| Joint Causation              | Yes                | Each action necessary for outcome                   |
+| Norm Violation               | Yes (violator)     | Rule-breaker is blamed                              |
+| Permitted Action             | No                 | Permitted person not blamed                         |
+| Side Effect (Negative)       | Yes (intentional)  | Foreseen, not cared about, negative                 |
+| Side Effect (Positive)       | No (not intentional)| Foreseen, not cared about, positive                 |
+| Accidental Outcome           | No                 | Lack of control, not intentional                    |
+| Group Action (all needed)    | Yes                | Each action necessary                               |
+| Group Action (any one needed)| No                 | Not necessary, would have happened anyway           |
+| Responsibility Transfer      | Yes (current)      | Person responsible at time of failure               |
+| Abnormal Event               | Yes (abnormal)     | Abnormal event blamed over normal                   |
+| Proximate Cause              | Yes                | Closest event to outcome                            |
+| Lack of Knowledge            | No                 | Not blamed if unaware of rule                       |
+
+---
+
+**How to Use This Sheet:**
+- **Identify the structure** of the scenario (overdetermination, joint causation, norm violation, etc.).
+- **Ask the counterfactual:** Would the outcome have happened if this action hadn't occurred?
+- **Check for rules/norms:** Who is breaking or following them?
+- **Look for intention vs. accident:** Was the outcome aimed for, foreseen, or accidental?
+- **Assign causation** based on the above patterns.
+
+---
+
+**Tip:** When in doubt, ask:  
+- Was this action necessary for the outcome?  
+- Was it sufficient by itself?  
+- Was it abnormal or a rule violation?  
+- Was the outcome intended, foreseen, or accidental?
+
+---
+
+**End of Cheat Sheet**
+
+Follow the format of the examples below in your response.
+
+Question: How would a typical person answer each of the following questions about causation?
+Alex is playing a board game. Every turn in the game, you simultaneously roll two six-sided dice and spin a spinner. Alex will either win or lose the game on his next turn. Alex will only win the game if the total of dice roll is greater than 11 or the spinner lands on green. It is very unlikely that he will roll higher than 11. Normally, the spinner does land on green. Alex rolls his dice and spins the spinner at exactly the same time. He rolls a 12, so amazingly, he rolled greater than 11, and the spinner lands on green. Alex wins the game. Did Alex spinning result cause him to win the game?
+Options:
+- Yes
+- No
+Reasoning: Let's think step by step.  
+Here, Alex wins the game if either the dice total is greater than 11 or the spinner lands on green. In this case, both happened: he rolled a 12 (greater than 11) and the spinner landed on green. However, since rolling greater than 11 alone was already enough for him to win, the spinner landing on green was not necessary for his win. A typical person would say that the spinning did not cause him to win, because he would have won even if the spinner had landed on a different color. So the answer is No.
+Answer: No
+###
+Question: How would a typical person answer each of the following questions about causation?
+A bear and a hedgehog were shown a box full of colored pencils. Only bears were allowed to take pencils, whereas hedgehogs were not allowed to take them. The hedgehog was absent when the new rule about pencil use was announced. Therefore, the hedgehog does not know about the new norm. Both animals alternately took pencils out of the box six times. At last, the hedgehog and the bear came to the box and simultaneously took a pencil. A short time later, another animal, a polar bear, approached the box seeking a pencil to do his homework with. However, there were no pencils left in the box. The polar bear could not finish his homework. Did the hedgehog cause the problem?
+Options:
+- Yes
+- No
+Reasoning: Let's think step by step.  
+Here in this question, we are told that the hedgehog was not present when the rule about only bears being allowed to take pencils was announced, so the hedgehog did not know about the new norm. Both the bear and the hedgehog took pencils, but the hedgehog was unaware that this was not allowed. A typical person would likely think that, since the hedgehog did not know the rule and was not supposed to be restricted, the hedgehog is not to blame for the problem. Therefore, the answer is No.
+Answer: No

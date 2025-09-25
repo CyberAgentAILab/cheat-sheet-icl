@@ -1,0 +1,129 @@
+---
+
+## SVG Path Cheat Sheet
+
+### 1. **Recognizing Polygons by Number of Sides**
+- **Count the number of unique points (M/L commands) before the path closes.**
+    - **Triangle:** 3 points, path closes (L ... L ... L ... L ... Z or L ... L ... L ... L ... to first point)
+    - **Quadrilateral:** 4 points, but check for special cases (see below)
+    - **Pentagon:** 5 points
+    - **Hexagon:** 6 points
+    - **Heptagon:** 7 points
+    - **Octagon:** 8 points
+
+#### **Special Cases:**
+- **Kite:** 4 points, but two pairs of adjacent sides are equal, and diagonals are perpendicular. Often, the path "zig-zags" or has a "diamond" look.
+- **Trapezoid:** 4 points, but only one pair of sides is parallel. Often, the path is not a rectangle or square.
+- **Rectangle:** 4 points, all angles 90°, opposite sides equal.
+- **Trapezoid vs. Rectangle:** If the path has 4 points and the sides are not all equal or angles not 90°, it's likely a trapezoid.
+
+### 2. **Recognizing Ellipses and Circles**
+- **Look for the `A` (arc) command.**
+    - **Circle:** `A rx,ry ...` where `rx = ry` and the arc sweeps a full 360° (usually two arcs, each 180°).
+    - **Ellipse:** `A rx,ry ...` where `rx ≠ ry` or the arc is not a full circle, but the path returns to the start.
+    - **If the path uses two arcs to return to the start, and the radii are the same, it's a circle. If radii differ, it's an ellipse.**
+    - **If the arc does not return to the start, see "Sector" below.**
+
+### 3. **Recognizing Sectors**
+- **Sector:** Path starts at a point, uses an `A` (arc) command, then returns to the center or another point, forming a "pie slice."
+    - **Look for:** `M ... A ... L ... Z` or `M ... A ... L ...` (where the L returns to the center or start).
+    - **If the arc is followed by a line back to the start or center, it's a sector.**
+
+### 4. **Recognizing Kites**
+- **Kite:** 4 points, but not a rectangle or trapezoid. Usually, two pairs of adjacent sides are equal, and the shape is "diamond-like."
+    - **Look for:** Path that "zig-zags" or has a "pinched" look, not parallel sides.
+    - **If the path is: L ... L ... L ... L ... Z, and the shape is not a rectangle or trapezoid, consider kite.**
+
+### 5. **Recognizing Trapezoids**
+- **Trapezoid:** 4 points, only one pair of sides is parallel.
+    - **Look for:** L ... L ... L ... L ... Z, but the sides are not all equal, and not all angles are 90°.
+    - **If the path is a closed quadrilateral but not a rectangle, square, or kite, it's likely a trapezoid.**
+
+### 6. **Recognizing Octagons, Heptagons, etc.**
+- **Count the number of unique points.**
+    - **Octagon:** 8 points
+    - **Heptagon:** 7 points
+    - **Hexagon:** 6 points
+
+### 7. **Recognizing Pentagons**
+- **Pentagon:** 5 points, closed path.
+
+### 8. **Recognizing Lines**
+- **Line:** Only two points, no closure.
+
+---
+
+## **Quick Reference Table**
+
+| Sides/Points | Shape         | Notes                                                                 |
+|--------------|--------------|-----------------------------------------------------------------------|
+| 2            | Line         | Only two points, no closure                                           |
+| 3            | Triangle     | Three points, closed path                                             |
+| 4            | Rectangle    | Four points, all angles 90°, opposite sides equal                     |
+| 4            | Kite         | Four points, two pairs of adjacent sides equal, "diamond" shape       |
+| 4            | Trapezoid    | Four points, only one pair of sides parallel                          |
+| 5            | Pentagon     | Five points, closed path                                              |
+| 6            | Hexagon      | Six points, closed path                                               |
+| 7            | Heptagon     | Seven points, closed path                                             |
+| 8            | Octagon      | Eight points, closed path                                             |
+| Arc + return | Ellipse      | Two arcs, radii differ, path returns to start                         |
+| Arc + return | Circle       | Two arcs, radii equal, path returns to start                          |
+| Arc + line   | Sector       | Arc, then line to center or start, forming a "pie slice"              |
+
+---
+
+## **SVG Path Command Reminders**
+- **M** = Move to (start point)
+- **L** = Line to (draw straight line)
+- **A** = Arc to (draws an arc/ellipse/circle)
+- **Z** = Close path (returns to start)
+
+---
+
+## **Tips for the Test**
+- **Count the number of unique points (M/L) before the path closes.**
+- **Look for the presence of the `A` command for arcs/ellipses/sectors.**
+- **If the path is a closed quadrilateral, check if it's a rectangle, kite, or trapezoid.**
+- **If the path has more than 4 points, count to determine the polygon type.**
+- **If the path uses arcs and returns to the start, it's likely an ellipse or circle.**
+- **If the path uses arcs and then a line to the center, it's a sector.**
+
+---
+
+**Practice:**
+- For any path, sketch the points and connect them in order to visualize the shape.
+- If stuck between kite/trapezoid/rectangle, check for equal sides and right angles.
+
+---
+
+**End of Cheat Sheet**
+
+Follow the format of the examples below in your response.
+
+Question: This SVG path element <path d="M 49.47,26.27 L 55.28,65.93 L 48.51,77.47 M 48.51,77.47 L 34.78,81.76 L 36.76,67.00 M 36.76,67.00 L 14.38,76.83 M 14.38,76.83 L 49.47,26.27"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+Answer: (C)
+###
+Question: This SVG path element <path d="M 12.89,27.63 L 16.46,21.41 M 16.46,21.41 L 23.97,19.93 M 23.97,19.93 L 28.27,16.91 L 36.05,18.39 L 35.28,28.22 M 35.28,28.22 L 27.40,36.33 L 25.21,26.77 L 12.89,27.63"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+Answer: (F)

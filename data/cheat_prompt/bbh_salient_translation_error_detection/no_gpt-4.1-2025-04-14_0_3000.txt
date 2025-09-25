@@ -1,0 +1,138 @@
+---
+
+# Translation Error Cheat Sheet
+
+## 1. **Dropped Content (E)**
+- **Definition:** A significant clause or important information from the source is missing in the translation.
+- **How to Spot:**
+  - Compare the source and translation for missing facts, numbers, locations, or descriptive phrases.
+  - Look for lists or compound sentences in the source that are shortened or incomplete in the translation.
+  - If the translation is much shorter or omits details (e.g., population numbers, locations, additional roles, or clauses), suspect Dropped Content.
+- **Examples:**
+  - Source lists several professions, translation only lists some.
+  - Source gives a location and population, translation omits one or both.
+  - Source: "contains all X and Y" → Translation: "contains all X" (Y is missing).
+
+---
+
+## 2. **Numerical Values (B)**
+- **Definition:** Any change in numbers, dates, units, or ordinals (e.g., 4th → 6th, 68 → 88, 1999 → 1989, meters → miles).
+- **How to Spot:**
+  - Scan for all numbers, dates, and units in both source and translation.
+  - Check for mismatches in:
+    - Quantities (number of items, population, years, centuries, etc.)
+    - Ordinals (1st, 2nd, 3rd, etc.)
+    - Units (meters vs. miles, km vs. mm, etc.)
+    - Dates (years, months, days)
+  - If any number or unit is different, this is the error.
+- **Examples:**
+  - "68 objects" → "88 objects"
+  - "76–82 genera and 260 species" → "76–82 genera and 360 species"
+  - "0.15 ha" → "0.15 km"
+  - "third largest" → "fifth largest"
+  - "1899" → "1989"
+
+---
+
+## 3. **Modifiers or Adjectives (A)**
+- **Definition:** The descriptive words (adjectives or modifiers) attached to nouns are changed, omitted, or incorrectly translated.
+- **How to Spot:**
+  - Look for adjectives or descriptive phrases in the source and see if they are changed, missing, or replaced in the translation.
+  - Includes nationality, profession, size, type, or any descriptive word.
+  - If the translation changes the quality, type, or characteristic of a noun, this is the error.
+- **Examples:**
+  - "Wasserkraftwerk" (hydroelectric power station) → "solar power station"
+  - "britische Ruderin" (British rower) → "British rower" (if "former" is missing)
+  - "verschleißfreie Bremse" (wear-free brake) → "brake" (if "wear-free" is missing)
+  - "mittelalterlicher Bau" (medieval building) → "modern building"
+  - "deutsche Bildhauerin" (German sculptor) → "French sculptor"
+
+---
+
+## 4. **Negation or Antonyms (C)**
+- **Definition:** The translation introduces or removes a negation, or changes a word to its opposite (antonym), or reverses a comparative (e.g., largest → smallest).
+- **How to Spot:**
+  - Look for "not", "no", "never", or negative prefixes/suffixes in either the source or translation.
+  - Check for words that are opposites or comparatives that are reversed.
+  - If the translation says the opposite of the source, this is the error.
+- **Examples:**
+  - "Landstadt" (rural town) → "urban town"
+  - "aufgelistet" (listed) → "unlisted"
+  - "drittgrößte" (third largest) → "third smallest"
+  - "alkoholisches Getränk" (alcoholic beverage) → "non-alcoholic beverage"
+  - "kalkliebendes" (lime-loving) → "lime-hating"
+
+---
+
+## 5. **Named Entities (D)**
+- **Definition:** Proper nouns (names, places, organizations, etc.) are changed to a different entity, misspelled, or replaced with something else.
+- **How to Spot:**
+  - Compare all names of people, places, organizations, and specific terms.
+  - If a name is changed, misspelled, or replaced with a different entity, this is the error.
+  - Includes: cities, countries, rivers, organizations, personal names, etc.
+- **Examples:**
+  - "Stederdorf" → "Seedorf"
+  - "Pfälzerwald-Vereins" → "Palestine Forest Association"
+  - "Otto Schenk" → "Otto"
+  - "Dazaifu" → "Darfur"
+  - "Büsserach" in "Bezirk Thierstein" → "district of Thorstein"
+  - "Napadiwka" in "Oblast Ternopil" → "village in Ukraine" (missing region)
+
+---
+
+## 6. **Facts (F)**
+- **Definition:** Any other factual error not covered by the above categories. This includes wrong professions, wrong family, wrong type, or other incorrect information.
+- **How to Spot:**
+  - If the error is not about numbers, names, adjectives/modifiers, negation/antonyms, or dropped content, but is still a factual mistake, choose Facts.
+  - Look for wrong professions, wrong types, wrong family, or any other incorrect information.
+- **Examples:**
+  - "Jazzmusiker" (jazz musician) → "hit musician"
+  - "Kohl" (cabbage) is a "genus" → "genius"
+  - "Stadt" (city) → "clown"
+  - "Familienname" (surname) → "firstname"
+  - "Baptismal fonts made of bronze" → "baptismal fonts made of gold"
+  - "Soccer player" instead of "tennis player"
+
+---
+
+# **Quick Decision Tree**
+1. **Is a number, date, or unit changed?** → **Numerical Values (B)**
+2. **Is a name/place/organization changed or misspelled?** → **Named Entities (D)**
+3. **Is a descriptive word (adjective/modifier) changed, omitted, or wrong?** → **Modifiers or Adjectives (A)**
+4. **Is a negation or antonym introduced/removed?** → **Negation or Antonyms (C)**
+5. **Is a significant clause or detail missing?** → **Dropped Content (E)**
+6. **Is there a factual error not covered above?** → **Facts (F)**
+
+---
+
+**Tip:** Always compare the source and translation word by word for numbers, names, adjectives, and completeness. If you can't fit the error into any of the first five categories, it's likely a "Facts" error.
+
+---
+
+**Use this sheet to quickly classify errors during your test!**
+
+Follow the format of the examples below in your response.
+
+Question: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Otto Schenk ist ein österreichischer Schauspieler, Kabarettist, Regisseur und Intendant.
+Translation: Otto Schenk is an Austrian actor and cabaret artist.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+Answer: (E)
+###
+Question: The following translations from German to English contain a particular error. That error will be one of the following types: Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed. Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms. Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations. Dropped Content: A significant clause in the translation is removed. Please identify that error.  Source: Die Mexikanische Königsnatter oder San-Luis-Potosi-Königsnatter ist eine Schlange aus der Familie der Nattern.
+Translation: The Mexican King's Snake or San Luis Potosi King snake is a snake of the Lantern family.
+The translation contains an error pertaining to
+Options:
+(A) Modifiers or Adjectives
+(B) Numerical Values
+(C) Negation or Antonyms
+(D) Named Entities
+(E) Dropped Content
+(F) Facts
+Answer: (D)

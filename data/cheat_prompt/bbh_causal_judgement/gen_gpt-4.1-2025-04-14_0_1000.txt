@@ -1,0 +1,165 @@
+- Multiple necessary conditions (e.g., two gardeners/fertilizers, two wires, two people logging in, etc.)
+- Overdetermination (multiple sufficient causes)
+- Policy/Norm violations vs. permitted actions
+- Side effects and intention
+- Chains of causation (proximate vs. remote causes)
+- "Because" questions with multiple sufficient conditions
+
+---
+
+## CHEAT SHEET: CAUSATION & INTENTION
+
+### 1. **Multiple Necessary Conditions (Joint Causation)**
+- **If an outcome only happens when two (or more) actions/conditions occur together,** each action is *necessary* but not *sufficient* alone.
+    - **Typical person:** Usually says *No* to "Did X cause Y?" if X alone is not sufficient, unless X is the abnormal or rule-breaking action.
+    - **Exception:** If X is the abnormal/forbidden action (e.g., red wire not supposed to touch battery), people may attribute causation to X.
+
+#### **Example: Two Wires**
+- Machine shorts only if both black and red wires touch battery.
+    - Black wire is supposed to touch; red is not.
+    - **Did black wire cause short?** → **No** (normal/expected action)
+    - **Did red wire cause short?** → **Yes** (abnormal/unexpected action)
+
+#### **Example: Two Gardeners/Fertilizers**
+- Plants dry out only where both fertilizers are applied.
+    - **Did Alex (A X200R) cause drying?** → **No** (if only A X200R is used, no drying)
+    - **Did Benni (B Y33R) cause drying?** → **No** (if only B Y33R is used, no drying)
+    - **Did Alex cause drying in beds with both?** → **Yes** (if question is about the *combination* and Alex's action was necessary for the harmful combo)
+    - **If Benni's action is abnormal (e.g., used wrong fertilizer), more likely to attribute causation to Benni.**
+
+#### **Example: Two People Logging In**
+- Deletion/email only happens if both are logged in.
+    - **If one is violating policy and the other is not:**
+        - **Violator:** *Yes*, caused the outcome.
+        - **Permitted user:** *No*, did not cause the outcome.
+
+---
+
+### 2. **Overdetermination (Multiple Sufficient Causes)**
+- **If either of two actions is sufficient to cause the outcome, and both occur:**
+    - **Typical person:** Each action is seen as a cause.
+    - **"Did X cause Y?"** → **Yes** (if X alone would have been enough)
+    - **"Did X cause Y because of Z?"** → **No** (if Y would have happened anyway due to another sufficient cause)
+
+#### **Example: Bridge Collapse**
+- If either train alone is enough to collapse the bridge:
+    - **Did Billy cause collapse?** → **Yes**
+- If both trains are needed:
+    - **Did Billy cause collapse?** → **No**
+
+#### **Example: Coffee Shop**
+- If any one customer is enough for profit, and several order:
+    - **Did Drew cause profit?**
+        - If others would have ordered anyway: **No**
+        - If Drew was the only one: **Yes**
+
+---
+
+### 3. **Policy/Norm Violations vs. Permitted Actions**
+- **If two people act, but only one violates a rule:**
+    - **Violator:** *Yes*, caused the outcome.
+    - **Permitted actor:** *No*, did not cause the outcome.
+
+#### **Example: Computer Crash**
+- Jane (permitted) logs in, Lauren (violator) logs in, crash occurs.
+    - **Did Jane cause crash?** → **No**
+    - **Did Lauren cause crash?** → **Yes**
+
+---
+
+### 4. **Side Effects and Intention**
+- **If someone foresees but does not care about a side effect:**
+    - **Harmful side effect:** *Yes*, intentionally caused (Knobe effect).
+    - **Helpful side effect:** *No*, not intentionally caused.
+
+#### **Example: CEO/environment**
+- CEO knows program will harm environment, doesn't care, proceeds.
+    - **Did CEO intentionally harm environment?** → **Yes**
+- CEO knows program will help environment, doesn't care, proceeds.
+    - **Did CEO intentionally help environment?** → **No**
+
+#### **Example: Hunter/Eagle**
+- Hunter knows gunshot will scare eagle, doesn't care, shoots deer.
+    - **Did hunter intentionally scare eagle?** → **No**
+
+---
+
+### 5. **Chains of Causation (Proximate vs. Remote)**
+- **If an immediate cause interrupts a chain (e.g., nurse's error causes death before cancer):**
+    - **Immediate cause (nurse's error):** *Yes*, caused death.
+    - **Underlying cause (cancer, asbestos):** *Yes*, if question is about "premature death" or "set in motion" the chain.
+    - **Job/relocation:** *No*, if immediate cause is unrelated (e.g., medication error).
+
+---
+
+### 6. **"Because" Questions with Multiple Sufficient Conditions**
+- **If outcome would have happened anyway due to another sufficient condition:**
+    - **"Did Y happen because of X?"** → **No**
+    - **"Did Y happen because of X and Z?"** → **Yes** (if both are necessary)
+    - **If X is not necessary, answer is No.**
+
+#### **Example: Free Sample**
+- Laurie gets sample if she bought beans or is on email list.
+    - She qualifies both ways.
+    - **Did she get sample because she changed subscription?** → **No** (already qualified)
+    - **Did she get sample because she did not unsubscribe?** → **Yes** (if her continued subscription was necessary for eligibility)
+
+---
+
+### 7. **Grading on a Curve / Competitive Scenarios**
+- **If a person's action directly blocks another from achieving a result (e.g., last A in a curve):**
+    - **Did X cause Y's failure?** → **Yes** (if X's action was necessary for Y's failure)
+
+---
+
+### 8. **Intentionality and Accidents**
+- **If outcome is due to accident/lack of control (e.g., hand slips, dart wobbles):**
+    - **Did X intentionally do Y?** → **No** (even if X wanted Y, lack of control means not intentional)
+
+---
+
+## **Quick Reference Table**
+
+| Scenario Type                        | Typical Person's Answer |
+|--------------------------------------|-------------------------|
+| Both actions needed (joint cause)    | No (unless abnormal)    |
+| Either action sufficient (overdet.)  | Yes                     |
+| Policy violator vs. permitted        | Violator: Yes; Permitted: No |
+| Side effect (harmful, foreseen)      | Yes (intentional)       |
+| Side effect (helpful, foreseen)      | No (not intentional)    |
+| Immediate vs. remote cause           | Immediate: Yes; Remote: Yes if chain is relevant, No if not |
+| "Because" with multiple sufficients  | No                      |
+| Grading on a curve                   | Yes                     |
+| Accidental outcome                   | No (not intentional)    |
+
+---
+
+**TIP:**  
+- Always ask: Was the action necessary and/or sufficient for the outcome?  
+- Was the action abnormal or a violation?  
+- Was the outcome intended, foreseen, or a side effect?  
+- Would the outcome have happened anyway without this action?
+
+---
+
+**Use this sheet to reason through the tricky causation and intention questions!**
+
+Follow the format of the examples below in your response.
+
+Question: How would a typical person answer each of the following questions about causation?
+Jen sees some puppies playing next to her driveway again and wants to kill them. She decides to go to the hardware store to buy some rat poison that she thinks will work on the puppies. As she pulls out of her garage, the wheel slips in her hand and she drives off to the side of the driveway. All the puppies are crushed and killed under the car. With the puppies eliminated, Jen doesn't need to go to the hardware store. Did Jen intentionally kill the puppies?
+Options:
+- Yes
+- No
+Reasoning: Let's think step by step.  
+Here in this question, we are told that Jen wanted to kill the puppies and planned to buy rat poison, but as she was leaving, her wheel slipped and she accidentally ran over the puppies. A typical person would assume that, although Jen wanted the puppies dead, she did not intend to kill them by running them over; it was an accident caused by her hand slipping on the wheel. Therefore, Jen did not intentionally kill the puppies. So the answer is No.
+Answer: No
+###
+Question: How would a typical person answer each of the following questions about causation?
+Brown is playing a simple game of dice. The game requires that Brown roll a six to win. So, hoping to get a six, Brown throws a die onto the table. Unluckily for the other players, the die lands six-up and Brown wins the game. Did Brown intentionally roll a six?
+Options:
+- Yes
+- No
+Reasoning: Let's think step by step.  
+Here in this question, we are told that Brown "hopes" to get a six and throws the die, but there is no indication that Brown has any special control over the outcome of the roll. Rolling a six on a fair die is a matter of chance, not intention. A typical person would therefore conclude that Brown did not intentionally roll a six, but rather got lucky. So the answer is No.
+Answer: No

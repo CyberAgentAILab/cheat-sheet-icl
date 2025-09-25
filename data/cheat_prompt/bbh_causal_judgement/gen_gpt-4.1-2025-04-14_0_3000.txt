@@ -1,0 +1,115 @@
+---
+
+## CHEAT SHEET: CAUSATION & INTENTIONALITY
+
+### 1. **Overdetermination & Redundancy**
+- **If multiple sufficient causes are present, and one would have been enough:**
+  - If the outcome would have happened anyway due to another sufficient cause, the extra action is **not** considered the cause.
+  - *Example*: If either committee’s approval is enough, and both approve, neither is the cause alone; the one that always approves is not the cause if the other also approves.
+  - *Key phrase*: “Would have happened anyway.”
+
+### 2. **Joint Necessity (Conjunctive Causes)**
+- **If an outcome only occurs when multiple conditions are met (AND):**
+  - Each action that is necessary for the outcome is considered a cause.
+  - *Example*: If a breaker fails only when 4 lamps are on, each person turning on their lamp is a cause.
+  - *Key phrase*: “Would not have happened without this action.”
+
+### 3. **Disjunctive Causes (OR)**
+- **If an outcome occurs if at least one of several conditions is met (OR):**
+  - If one condition is already satisfied, additional actions are **not** causes.
+  - *Example*: If a device charges if plugged in OR on pad, and it’s already plugged in, leaving it on the pad is not a cause.
+  - *Key phrase*: “Already satisfied by another condition.”
+
+### 4. **Abnormal vs. Normal Events**
+- **People tend to attribute causation to abnormal or unexpected events, not to normal/expected ones.**
+  - *Example*: If a red wire (not supposed to touch) and a black wire (supposed to touch) both cause a short, the red wire is seen as the cause.
+  - *Key phrase*: “Abnormal event is the cause.”
+
+### 5. **Responsibility & Policy Violations**
+- **If someone acts against policy or rules, their action is more likely to be seen as the cause.**
+  - *Example*: If only one person is allowed to log in, and another violates the rule, the violator is seen as the cause.
+  - *Key phrase*: “Rule-breaker is the cause.”
+
+### 6. **Intentionality: Foreseeable Side Effects**
+- **If someone knows their action will have a side effect and proceeds, but does not care about the side effect:**
+  - **Harmful side effect**: People say the person acted intentionally (e.g., CEO knowingly harms environment).
+  - **Helpful side effect**: People say the person did **not** act intentionally (e.g., CEO knowingly helps environment but doesn’t care).
+  - *Key phrase*: “Knows and doesn’t care = intentional for harm, not for help.”
+
+### 7. **Intentionality: Accidents vs. Aiming**
+- **If the outcome is due to accident, slip, or lack of control, even if the person wanted the outcome, it is NOT intentional.**
+  - *Example*: Hand slips, dart hits bullseye—NOT intentional.
+  - *Key phrase*: “Accident or loss of control = not intentional.”
+
+### 8. **Causation in Chains of Events**
+- **If someone’s action sets off a chain, but the outcome is due to an independent intervening event (e.g., drunk driver):**
+  - The intervening event is the cause, not the original action.
+  - *Key phrase*: “Intervening event breaks the chain.”
+
+### 9. **Causation in Combinations**
+- **If harm only occurs when two actions/chemicals are combined:**
+  - Each action is a cause if it was necessary for the combination.
+  - If someone only did one part and the other was done independently, both are causes.
+  - *Key phrase*: “Each necessary part of a harmful combination is a cause.”
+
+### 10. **Responsibility Shifts**
+- **If responsibility shifts to another person after a failure, and they also fail, their inaction is a cause.**
+  - *Example*: If Janet fails to oil, and then it’s Kate’s responsibility, and Kate also fails, Kate’s inaction is a cause.
+  - *Key phrase*: “Responsibility shifted, new person’s inaction is a cause.”
+
+### 11. **Counterfactual Reasoning**
+- **Ask: Would the outcome have happened if this action had not occurred?**
+  - If yes, then the action is NOT a cause.
+  - If no, then the action IS a cause.
+  - *Key phrase*: “But for this action, would the outcome have happened?”
+
+---
+
+### **Quick Reference Table**
+
+| Scenario Type                | Is Action a Cause? | Key Reasoning                                      |
+|------------------------------|--------------------|----------------------------------------------------|
+| Multiple sufficient causes   | No                 | Would have happened anyway                         |
+| Joint necessity (AND)        | Yes                | Each action needed                                 |
+| Disjunctive (OR), already met| No                 | Extra action not needed                            |
+| Abnormal vs. normal event    | Yes (abnormal)     | Focus on unexpected event                          |
+| Policy violation             | Yes                | Rule-breaker is the cause                          |
+| Foreseeable harm, doesn’t care| Yes               | Intentional for harm                               |
+| Foreseeable help, doesn’t care| No                | Not intentional for help                           |
+| Accident/loss of control     | No                 | Not intentional                                    |
+| Intervening event            | No                 | Intervening event is the cause                     |
+| Harmful combination          | Yes                | Each necessary part is a cause                     |
+| Responsibility shift         | Yes                | New responsible person’s inaction is a cause       |
+
+---
+
+**Always ask:**
+- Was the action necessary for the outcome?
+- Was the action sufficient by itself, or would the outcome have happened anyway?
+- Was the action abnormal or a violation of rules?
+- Was the outcome intended, foreseen, or accidental?
+- Did responsibility shift to someone else?
+
+---
+
+**Use this sheet to quickly analyze the structure of each scenario and apply the correct reasoning!**
+
+Follow the format of the examples below in your response.
+
+Question: How would a typical person answer each of the following questions about causation?
+Janet is an employee in a factory. Since she works in the maintenance department, she knows how to grease and oil all of the machines in the factory. It is her responsibility to put oil into the machines. Kate is also an employee at the factory. While she works in the human resources department, she knows how to grease and oil all of the machines in the factory. If Janet does not put oil in the machines, it is not Kate's responsibility to do so. One day, Janet forgets to put oil in an important machine. Kate noticed that Janet did not put oil in the machine, and Kate also did not put oil in the machine. The machine broke down a few days later. Did Kate not putting oil in the machine cause it to break down?
+Options:
+- Yes
+- No
+Reasoning: Let's think step by step.  
+Here in this question, we are told that Janet was responsible for oiling the machine but forgot, and Kate, although not responsible, noticed the problem and also did not put oil in the machine. A typical person might reason that if Kate had put oil in the machine, the breakdown could have been prevented, so her inaction contributed to the outcome. Therefore, Kate not putting oil in the machine is seen as a cause of the breakdown. So the answer is Yes.
+Answer: Yes
+###
+Question: How would a typical person answer each of the following questions about causation?
+Imagine that there is a man out in the woods who is participating in a hunting competition. After spending hours waiting for a deer to cross his path, the hunter suddenly sees the largest deer he has ever seen. If he can only kill this deer, he will surely win the competition. So, the hunter gets the deer in his sights -- but at the last second, he notices that there is a group of bird-watchers just on the other side of the deer. The hunter realizes that if he shoots the deer, the bullet will definitely hit one of the birdwatchers as well. But he does not care at all about the bird watchers -- he just wants to win the competition. So, he shoots and kills the deer. And as expected, the bullet ends up hitting one of the bird-watchers as well. Did the man intentionally shoot the bird-watcher?
+Options:
+- Yes
+- No
+Reasoning: Let's think step by step.  
+In this question, we are told that the hunter "realizes that if he shoots the deer, the bullet will definitely hit one of the birdwatchers as well," but he "does not care at all about the bird watchers" and shoots anyway. A typical person would interpret this as the hunter being fully aware that his action would result in shooting a bird-watcher, and he proceeds regardless. Even though he did not care about the bird-watcher, he knowingly brought about that outcome. Therefore, a typical person would say that the man intentionally shot the bird-watcher. So the answer is Yes.
+Answer: Yes

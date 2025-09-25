@@ -1,0 +1,182 @@
+---
+
+## SVG Path Cheat Sheet for Shape Identification
+
+### 1. **Counting Sides and Vertices**
+- **Closed Shape:** If the path returns to the starting point (last L command matches the first M), it's a closed polygon.
+- **Count unique points** (vertices) in the closed loop to determine the polygon:
+  - 3: Triangle
+  - 4: Quadrilateral (see below for type)
+  - 5: Pentagon
+  - 6: Hexagon
+  - 7: Heptagon
+  - 8: Octagon
+
+### 2. **Quadrilaterals: Rectangle, Kite, Trapezoid**
+#### **Rectangle**
+- Four sides, all angles 90°, opposite sides equal.
+- Sides are parallel to axes (e.g., L x1,y1 L x2,y1 L x2,y2 L x1,y2).
+- If both pairs of opposite sides are parallel and equal, and all angles are right, it's a rectangle.
+
+#### **Kite**
+- Four sides, **two pairs of adjacent sides are equal** (not opposite).
+- Usually, the shape looks like a diamond or has a "folded" symmetry.
+- **Check side lengths:** If (A ≈ D) and (B ≈ C), and these are adjacent, it's a kite.
+
+#### **Trapezoid**
+- Four sides, **at least one pair of sides is parallel** (not necessarily equal).
+- If the shape is a rectangle, it's also a trapezoid (but if both are options, pick rectangle).
+- If two sides are much shorter and close together, and the other two are longer, it's likely a trapezoid.
+- If the shape is a general quadrilateral and not a rectangle or kite, it's a trapezoid.
+
+#### **Special Note:**
+- If both "rectangle" and "trapezoid" are options and the shape is a rectangle, pick "rectangle."
+- If only "trapezoid" is present, a rectangle or square also counts as a trapezoid.
+
+### 3. **Kite vs. Trapezoid Quick Test**
+- **Kite:** Two pairs of equal-length adjacent sides.
+- **Trapezoid:** Only one pair of parallel sides (not necessarily equal in length).
+
+### 4. **Arc Commands ("A")**
+#### **Ellipse vs. Circle**
+- **A rx,ry ...**: If rx = ry, it's a circle or ellipse.
+- If rotation is 0 and rx = ry, it's a circle.
+- If rotation ≠ 0 or rx ≠ ry, it's an ellipse.
+- If both "ellipse" and "circle" are options and rx = ry, pick "ellipse" (unless the question is clearly a circle).
+
+#### **Sector**
+- Path includes two straight lines (radii) and an arc ("A" command), forming a "pie slice."
+- Typical pattern: M (center) L (edge) A (arc) L (center) or similar.
+- If the path forms a wedge with an arc and two straight lines, it's a sector.
+
+### 5. **Open vs. Closed Paths**
+- **Open path:** Only two points, one line segment → "line."
+- **Closed path:** Path returns to starting point, forms a polygon or sector.
+
+### 6. **Multiple "M" Commands**
+- Each "M" starts a new subpath.
+- The overall shape is determined by the sequence of lines that connect to form a closed loop.
+- **Count unique points in the closed loop** (ignore repeated points due to "M" commands).
+
+### 7. **Polygon Naming**
+- 3 sides: Triangle
+- 4 sides: Quadrilateral (see above)
+- 5 sides: Pentagon
+- 6 sides: Hexagon
+- 7 sides: Heptagon
+- 8 sides: Octagon
+
+### 8. **Special Cases**
+- **If the path uses only "M" and "L" and forms a closed loop, count the sides for polygon type.**
+- **If the path uses "A" and forms a closed curve, it's an ellipse (or circle if rx=ry and rotation=0).**
+- **If the path uses "A" and two lines, it's a sector.**
+
+---
+
+### **Quick Reference Table**
+
+| Sides | Shape      | Notes                                              |
+|-------|------------|----------------------------------------------------|
+| 3     | Triangle   |                                                    |
+| 4     | Rectangle  | All angles 90°, sides parallel to axes             |
+| 4     | Kite       | Two pairs of equal-length adjacent sides           |
+| 4     | Trapezoid  | At least one pair of parallel sides                |
+| 5     | Pentagon   |                                                    |
+| 6     | Hexagon    |                                                    |
+| 7     | Heptagon   |                                                    |
+| 8     | Octagon    |                                                    |
+| 2 pts | Line       | Only one segment, not closed                       |
+| Arc   | Ellipse    | "A" command, rx=ry or rx≠ry, closed curve         |
+| Arc+2 lines | Sector | "A" command + two lines, forms a wedge           |
+
+---
+
+### **How to Use This Cheat Sheet**
+1. **Count the unique points in the closed path.**
+2. **Check for "A" commands:**
+   - If present, is it a closed curve? → Ellipse.
+   - If present with two lines forming a wedge? → Sector.
+3. **For quadrilaterals:**
+   - Check for right angles and equal sides → Rectangle.
+   - Check for two pairs of equal adjacent sides → Kite.
+   - Otherwise, if at least one pair of sides is parallel → Trapezoid.
+4. **If only two points and one line, it's a line.**
+5. **If the path is open and not a line, check for sector or arc.**
+
+---
+
+**Tip:** When in doubt, sketch the points or write out the sequence to visualize the shape.
+
+---
+
+**End of Cheat Sheet**
+
+Follow the format of the examples below in your response.
+
+Question: This SVG path element <path d="M 60.52,56.12 L 42.84,58.73 M 42.84,58.73 L 41.14,47.23 L 58.82,44.63 M 58.82,44.63 L 57.13,33.13 L 76.53,48.34 L 62.21,67.61 M 62.21,67.61 L 60.52,56.12"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+Reasoning: Let's think step by step.
+This SVG path element contains "M" and "L" commands. "M" moves the current point to the given coordinates, and "L" draws a line to the next coordinates. The path is broken into several subpaths by multiple "M" commands, but all the points are connected in sequence.
+
+Let's count the number of unique line segments that form a closed shape:
+(1) M 60.52,56.12 L 42.84,58.73: Line from 60.52,56.12 to 42.84,58.73.
+(2) M 42.84,58.73 L 41.14,47.23: Line from 42.84,58.73 to 41.14,47.23.
+(3) L 58.82,44.63: Line from 41.14,47.23 to 58.82,44.63.
+(4) M 58.82,44.63 L 57.13,33.13: Line from 58.82,44.63 to 57.13,33.13.
+(5) L 76.53,48.34: Line from 57.13,33.13 to 76.53,48.34.
+(6) L 62.21,67.61: Line from 76.53,48.34 to 62.21,67.61.
+(7) M 62.21,67.61 L 60.52,56.12: Line from 62.21,67.61 to 60.52,56.12.
+
+Now, let's trace the path:
+- The points are: (60.52,56.12), (42.84,58.73), (41.14,47.23), (58.82,44.63), (57.13,33.13), (76.53,48.34), (62.21,67.61), and back to (60.52,56.12).
+- Counting the unique points, we have 7 vertices.
+
+A polygon with 7 sides is called a "heptagon". Among the options, (B) heptagon is the only seven-sided polygon.
+
+So the answer is (B).
+Answer: (B)
+###
+Question: This SVG path element <path d="M 88.15,50.85 L 29.10,66.32 M 29.10,66.32 L 23.82,46.15 M 23.82,46.15 L 82.87,30.69 L 88.15,50.85"/> draws a
+Options:
+(A) circle
+(B) heptagon
+(C) hexagon
+(D) kite
+(E) line
+(F) octagon
+(G) pentagon
+(H) rectangle
+(I) sector
+(J) triangle
+(K) trapezoid
+Reasoning: Let's think step by step.
+This SVG path element contains "M" and "L" commands. "M" moves the current point to the given coordinates, and "L" draws a line to the next point. The path is broken into several subpaths by multiple "M" commands.
+
+Let's break down the commands:
+(1) M 88.15,50.85: Move to 88.15,50.85.
+(2) L 29.10,66.32: Draw a line to 29.10,66.32.
+(3) M 29.10,66.32: Move to 29.10,66.32 (this is the same as the previous point, so it continues from here).
+(4) L 23.82,46.15: Draw a line to 23.82,46.15.
+(5) M 23.82,46.15: Move to 23.82,46.15.
+(6) L 82.87,30.69: Draw a line to 82.87,30.69.
+(7) L 88.15,50.85: Draw a line back to the starting point.
+
+Now, let's connect the points in order:
+- 88.15,50.85 → 29.10,66.32
+- 29.10,66.32 → 23.82,46.15
+- 23.82,46.15 → 82.87,30.69 → 88.15,50.85
+
+If we trace the lines, we see four distinct points connected in sequence, forming a closed four-sided figure. The arrangement of the points (with two points higher and two lower, and the sides not all equal or parallel) suggests a quadrilateral with only one pair of parallel sides, which is the definition of a trapezoid.
+
+Among the options, "trapezoid" is the only four-sided figure with exactly one pair of parallel sides. So the answer is (K).
+Answer: (K)
