@@ -1,11 +1,11 @@
 # Distilling Many-Shot In-Context Learning into a Cheat Sheet
 
-This repository implements the main experiments of our paper, [Distilling Many-Shot In-Context Learning into a Cheat Sheet]() (EMNLP 2025 Findings).
+This repository implements the main experiments of our paper, [Distilling Many-Shot In-Context Learning into a Cheat Sheet](http://arxiv.org/abs/2509.20820) (EMNLP 2025 Findings).
 We introduce **cheat-sheet ICL**, which distills the information from many-shot ICL into a concise textual summary (cheat sheet) used as the context at inference time.
 This approach achieves comparable or better performance than many-shot ICL with far fewer tokens in challenging reasoning tasks, and matches retrieval-based ICL without requiring test-time retrieval.
 The code is intended solely for reproducing the experiments.
 
-<p align="center">
+<p align="left">
   <img src="image/overview_csicl.png" height="220" alt="Overview: cheat-sheet ICL">
   &nbsp;&nbsp;&nbsp;
   <img src="image/bbh_gpt-4.1.png" height="220" alt="Results">
