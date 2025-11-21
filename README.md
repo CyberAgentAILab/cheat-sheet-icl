@@ -1,6 +1,6 @@
 # Distilling Many-Shot In-Context Learning into a Cheat Sheet
 
-This repository implements the main experiments of our paper, [Distilling Many-Shot In-Context Learning into a Cheat Sheet](http://arxiv.org/abs/2509.20820) (EMNLP 2025 Findings).
+This repository implements the main experiments of our paper, [Distilling Many-Shot In-Context Learning into a Cheat Sheet](https://aclanthology.org/2025.findings-emnlp.930/) (EMNLP 2025 Findings).
 We introduce **cheat-sheet ICL**, which distills the information from many-shot ICL into a concise textual summary (cheat sheet) used as the context at inference time.
 This approach achieves comparable or better performance than many-shot ICL with far fewer tokens in challenging reasoning tasks, and matches retrieval-based ICL without requiring test-time retrieval.
 The code is intended solely for reproducing the experiments.
@@ -135,7 +135,15 @@ uv run src/run_main_api.py \
 @inproceedings{honda-etal-2025-distilling,
     title = "Distilling Many-Shot In-Context Learning into a Cheat Sheet",
     author = "Honda, Ukyo and Murakami, Soichiro and Zhang, Peinan",
+    editor = "Christodoulopoulos, Christos and Chakraborty, Tanmoy and Rose, Carolyn and Peng, Violet",
     booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
     year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.930/",
+    doi = "10.18653/v1/2025.findings-emnlp.930",
+    pages = "17158--17178",
+    ISBN = "979-8-89176-335-7",
 }
 ```
